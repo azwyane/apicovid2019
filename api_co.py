@@ -1,13 +1,13 @@
 import os
 from bs4 import BeautifulSoup
 
-try:
-    os.system('rm file.txt')
-    os.system('curl https://www.worldometers.info/coronavirus/ > file.txt')
+#try:
+#    os.system('rm file.txt')
+#    os.system('curl https://www.worldometers.info/coronavirus/ > file.txt')
     
 
-except:
-    print("error")
+#except:
+#    print("error")
     
 with open ('./file.txt') as h_source:
     soup = BeautifulSoup(h_source, 'html.parser')
