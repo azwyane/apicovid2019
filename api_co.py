@@ -81,13 +81,13 @@ with open ('./file.txt') as h_source:
     val=[]
     msg1=[]
     a=soup.find_all(attrs={"class":"mt_a"})
-    for country in a:
-        val.append(country.string)
-        for i in range(0,11):
-            country=country.findNext("td")
+    for index,country in enumerate(a):
+        if index <=219:
             val.append(country.string)
-        pre_msg=dict([(x,y) for x,y in zip(title,val)])
-        if len(val)<=210:
+            for i in range(0,11):
+                country=country.findNext("td")
+                val.append(country.string)
+            pre_msg=dict([(x,y) for x,y in zip(title,val)])
             msg1.append(pre_msg)
             del val[:]
         else:
