@@ -9,7 +9,7 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Coronavirus Update (Live): 1,780,440 Cases and 108,834 Deaths from COVID-19 Virus Pandemic - Worldometer</title>
+<title>Coronavirus Update (Live): 1,787,080 Cases and 109,288 Deaths from COVID-19 Virus Pandemic - Worldometer</title>
 <meta name="description" content="Live statistics and coronavirus news tracking the number of confirmed cases, recovered patients, tests, and death toll due to the COVID-19 coronavirus from Wuhan, China. Coronavirus counter with new cases, deaths, and number of tests per 1 Million population. Historical data and info. Daily charts, graphs, news and updates">
 
 <link rel="shortcut icon" href="/favicon/favicon.ico" type="image/x-icon">
@@ -249,25 +249,25 @@ window.cookieconsent.initialise({
     -->
 </style>
 <div class="label-counter" id="page-top">COVID-19 Coronavirus Pandemic</div>
-<div style="font-size:13px; color:#999; margin-top:5px; text-align:center">Last updated: April 12, 2020, 04:59 GMT</div>
+<div style="font-size:13px; color:#999; margin-top:5px; text-align:center">Last updated: April 12, 2020, 09:37 GMT</div>
 <div style="margin-top:20px; text-align:center; font-size:14px"><a href="/coronavirus/coronavirus-cases/"> </a><a href="/coronavirus/worldwide-graphs/">Graphs</a> - <a href="#countries">Countries</a> - <a href="/coronavirus/coronavirus-death-rate/">Death Rate</a> - <a href="/coronavirus/coronavirus-incubation-period/">Incubation</a> - <a href="/coronavirus/coronavirus-age-sex-demographics/">Age</a> - <a href="/coronavirus/coronavirus-symptoms/">Symptoms</a> - <a href="#news">News</a></div>
 <div id="maincounter-wrap" style="margin-top:15px">
 <h1>Coronavirus Cases:</h1>
 <div class="maincounter-number">
-<span style="color:#aaa">1,780,440 </span>
+<span style="color:#aaa">1,787,080 </span>
 </div>
 </div>
 <div style="text-align:center "><a href="#countries">view by country</a></div>
 <div id="maincounter-wrap" style="margin-top:15px">
 <h1>Deaths:</h1>
 <div class="maincounter-number">
-<span>108,834</span>
+<span>109,288</span>
 </div>
 </div>
 <div id="maincounter-wrap" style="margin-top:15px;">
 <h1>Recovered:</h1>
 <div class="maincounter-number" style="color:#8ACA2B ">
-<span>404,393</span>
+<span>406,109</span>
 </div>
 </div>
 <div style="margin-top:50px;"></div>
@@ -354,14 +354,14 @@ Active Cases
 <div class="panel-body" style="text-align:center; height:200px;">
 <div class="panel_flip">
 <div class="panel_front" style="width:100%;height:100%;">
-<div class="number-table-main">1,267,213</div>
+<div class="number-table-main">1,271,683</div>
 <div style="font-size:13.5px">Currently Infected Patients</div>
 <div style="padding-top:20px;position:relative;text-align:center; ">
 <div style="float:left; text-align:center">
-<span class="number-table" style="color:#8080FF">1,216,631</span> (<strong>96</strong>%)
+<span class="number-table" style="color:#8080FF">1,221,135</span> (<strong>96</strong>%)
 <div style="font-size:13px">in Mild Condition</div><br>
 </div>
-<div style="float:right; text-align:center"><span class="number-table" style="color:red ">50,582</span> (<strong>4</strong>%)
+<div style="float:right; text-align:center"><span class="number-table" style="color:red ">50,548</span> (<strong>4</strong>%)
 <div style="font-size:13px">Serious or Critical</div><br>
 </div>
 </div>
@@ -474,16 +474,16 @@ Closed Cases</span></div>
 <div class="panel-body" style="text-align:center;height:200px;">
 <div class="panel_flip">
 <div class="panel_front" style="width:100%;height:100%;">
-<div class="number-table-main">513,227</div>
+<div class="number-table-main">515,397</div>
 <div style="font-size:13.5px">Cases which had an outcome:</div>
 <div style="padding-top:20px ">
 <div style="float:left; text-align:center">
-<span class="number-table" style="color:#8ACA2B">404,393</span>
+<span class="number-table" style="color:#8ACA2B">406,109</span>
 (<strong>79</strong>%)
 <div style="font-size:13px">Recovered / Discharged</div><br>
 </div>
 <div style="float:right; text-align:center"><span class="number-table">
-108,834</span>
+109,288</span>
 (<strong>21</strong>%)
 <div style="font-size:13px">Deaths</div><br>
 </div>
@@ -1408,13 +1408,13 @@ Follow @Worldometers</span></a>
 <td style="text-align:left;">
 <nobr>North America</nobr>
 </td>
-<td>569,343</td>
-<td>+394</td>
-<td>21,833</td>
-<td>+41</td>
-<td>39,224</td>
-<td>508,286</td>
-<td>12,463</td>
+<td>569,587</td>
+<td>+638</td>
+<td>21,836</td>
+<td>+44</td>
+<td>39,281</td>
+<td>508,470</td>
+<td>12,462</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1425,13 +1425,13 @@ Follow @Worldometers</span></a>
 <td style="text-align:left;">
 <nobr>Europe</nobr>
 </td>
-<td>852,899</td>
-<td></td>
-<td>73,625</td>
-<td></td>
-<td>210,127</td>
-<td>569,147</td>
-<td>29,996</td>
+<td>857,878</td>
+<td>+4,979</td>
+<td>73,968</td>
+<td>+343</td>
+<td>211,384</td>
+<td>572,526</td>
+<td>29,969</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1442,13 +1442,13 @@ Follow @Worldometers</span></a>
 <td style="text-align:left;">
 <nobr>Asia</nobr>
 </td>
-<td>287,434</td>
-<td>+250</td>
-<td>10,603</td>
-<td>+6</td>
-<td>142,982</td>
-<td>133,849</td>
-<td>6,611</td>
+<td>288,764</td>
+<td>+1,580</td>
+<td>10,709</td>
+<td>+112</td>
+<td>143,304</td>
+<td>134,751</td>
+<td>6,604</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1462,7 +1462,7 @@ Follow @Worldometers</span></a>
 <td>48,103</td>
 <td>+35</td>
 <td>1,952</td>
- <td>+5</td>
+<td>+5</td>
 <td>5,246</td>
 <td>40,905</td>
 <td>1,243</td>
@@ -1476,13 +1476,13 @@ Follow @Worldometers</span></a>
 <td style="text-align:left;">
 <nobr>Oceania</nobr>
 </td>
-<td>7,720</td>
-<td>+18</td>
+<td>7,730</td>
+<td>+28</td>
 <td>63</td>
 <td>+3</td>
-<td>3,737</td>
-<td>3,920</td>
-<td>85</td>
+<td>3,810</td>
+<td>3,857</td>
+<td>86</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1493,12 +1493,12 @@ Follow @Worldometers</span></a>
 <td style="text-align:left;">
 <nobr>Africa</nobr>
 </td>
-<td>14,220</td>
-<td></td>
-<td>745</td>
-<td></td>
-<td>2,458</td>
-<td>11,017</td>
+<td>14,297</td>
+<td>+77</td>
+<td>747</td>
+<td>+2</td>
+<td>2,465</td>
+<td>11,085</td>
 <td>174</td>
 <td></td>
 <td></td>
@@ -1525,14 +1525,14 @@ Follow @Worldometers</span></a>
 </tr>
 <tr class="total_row_world">
 <td style="text-align:left;">World</td>
-<td>1,780,440</td>
-<td>+697</td>
-<td>108,834</td>
-<td>+55</td>
-<td>404,393</td>
-<td>1,267,213</td>
-<td>50,582</td>
-<td>228</td>
+<td>1,787,080</td>
+<td>+7,337</td>
+<td>109,288</td>
+<td>+509</td>
+<td>406,109</td>
+<td>1,271,683</td>
+<td>50,548</td>
+<td>229</td>
 <td>14.0</td>
 <td></td>
 <td></td>
@@ -1540,18 +1540,18 @@ Follow @Worldometers</span></a>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/us/">USA</a></td>
-<td style="font-weight: bold; text-align:right">532,879</td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">20,577 </td>
+<td style="font-weight: bold; text-align:right">533,115</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+236</td>
+<td style="font-weight: bold; text-align:right;">20,580 </td>
 <td style="font-weight: bold; 
-                                    text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">30,453</td>
-<td style="text-align:right;font-weight:bold;">481,849</td>
+                                    text-align:right;background-color:red; color:white">+3</td>
+<td style="font-weight: bold; text-align:right">30,502</td>
+<td style="text-align:right;font-weight:bold;">482,033</td>
 <td style="font-weight: bold; text-align:right">11,471</td>
-<td style="font-weight: bold; text-align:right">1,610</td>
+<td style="font-weight: bold; text-align:right">1,611</td>
 <td style="font-weight: bold; text-align:right">62</td>
-<td style="font-weight: bold; text-align:right">2,673,321</td>
-<td style="font-weight: bold; text-align:right">8,076</td>
+<td style="font-weight: bold; text-align:right">2,693,758</td>
+<td style="font-weight: bold; text-align:right">8,138</td>
 <td style="display:none" data-continent="North America">North America</td>
 </tr>
 <tr style="">
@@ -1622,8 +1622,8 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/uk/">UK</a></td>
 <td style="font-weight: bold; text-align:right">78,991</td>
 <td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">9,875 </td>
- <td style="font-weight: bold; 
+<td style="font-weight: bold; text-align:right;">9,875  </td>
+<td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">344</td>
 <td style="text-align:right;font-weight:bold;">68,772</td>
@@ -1666,33 +1666,33 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">4,036</td>
 <td style="display:none" data-continent="Asia">Asia</td>
 </tr>
-<tr style="">
- <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/belgium/">Belgium</a></td>
-<td style="font-weight: bold; text-align:right">28,018</td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">3,346 </td>
+ <tr style="">
+<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/belgium/">Belgium</a></td>
+<td style="font-weight: bold; text-align:right">29,647</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+1,629</td>
+<td style="font-weight: bold; text-align:right;">3,600 </td>
 <td style="font-weight: bold; 
-                                    text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">5,986</td>
-<td style="text-align:right;font-weight:bold;">18,686</td>
-<td style="font-weight: bold; text-align:right">1,262</td>
-<td style="font-weight: bold; text-align:right">2,418</td>
-<td style="font-weight: bold; text-align:right">289</td>
+                                    text-align:right;background-color:red; color:white">+254</td>
+<td style="font-weight: bold; text-align:right">6,463</td>
+<td style="text-align:right;font-weight:bold;">19,584</td>
+<td style="font-weight: bold; text-align:right">1,223</td>
+<td style="font-weight: bold; text-align:right">2,558</td>
+<td style="font-weight: bold; text-align:right">311</td>
 <td style="font-weight: bold; text-align:right">102,151</td>
 <td style="font-weight: bold; text-align:right">8,814</td>
 <td style="display:none" data-continent="Europe">Europe</td>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/switzerland/">Switzerland</a></td>
-<td style="font-weight: bold; text-align:right">25,107</td>
-<td style="font-weight: bold; text-align:right;"></td>
+<td style="font-weight: bold; text-align:right">25,300</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+193</td>
 <td style="font-weight: bold; text-align:right;">1,036 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">12,100</td>
-<td style="text-align:right;font-weight:bold;">11,971</td>
+<td style="text-align:right;font-weight:bold;">12,164</td>
 <td style="font-weight: bold; text-align:right">386</td>
-<td style="font-weight: bold; text-align:right">2,901</td>
+<td style="font-weight: bold; text-align:right">2,923</td>
 <td style="font-weight: bold; text-align:right">120</td>
 <td style="font-weight: bold; text-align:right">190,000</td>
 <td style="font-weight: bold; text-align:right">21,954</td>
@@ -1749,7 +1749,7 @@ Follow @Worldometers</span></a>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/portugal/">Portugal</a></td>
 <td style="font-weight: bold; text-align:right">15,987</td>
-<td style="font-weight: bold; text-align:right;"></td>
+ <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;">470 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
@@ -1763,48 +1763,48 @@ Follow @Worldometers</span></a>
 <td style="display:none" data-continent="Europe">Europe</td>
 </tr>
 <tr style="">
-<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/austria/">Austria</a></td>
-<td style="font-weight: bold; text-align:right">13,806</td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">337 </td>
+<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/russia/">Russia</a></td>
+<td style="font-weight: bold; text-align:right">15,770</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+2,186</td>
+<td style="font-weight: bold; text-align:right;">130 </td>
 <td style="font-weight: bold; 
-                                    text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">6,604</td>
-<td style="text-align:right;font-weight:bold;">6,865</td>
-<td style="font-weight: bold; text-align:right">246</td>
-<td style="font-weight: bold; text-align:right">1,533</td>
-<td style="font-weight: bold; text-align:right">37</td>
-<td style="font-weight: bold; text-align:right">140,975</td>
-<td style="font-weight: bold; text-align:right">15,653</td>
+                                    text-align:right;background-color:red; color:white">+24</td>
+<td style="font-weight: bold; text-align:right">1,291</td>
+<td style="text-align:right;font-weight:bold;">14,349</td>
+<td style="font-weight: bold; text-align:right">8</td>
+<td style="font-weight: bold; text-align:right">108</td>
+<td style="font-weight: bold; text-align:right">0.9</td>
+<td style="font-weight: bold; text-align:right">1,200,000</td>
+<td style="font-weight: bold; text-align:right">8,223</td>
 <td style="display:none" data-continent="Europe">Europe</td>
 </tr>
 <tr style="">
-<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/russia/">Russia</a></td>
-<td style="font-weight: bold; text-align:right">13,584</td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">106 </td>
+<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/austria/">Austria</a></td>
+<td style="font-weight: bold; text-align:right">13,945</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+139</td>
+<td style="font-weight: bold; text-align:right;">350 </td>
 <td style="font-weight: bold; 
-                                    text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">1,045</td>
-<td style="text-align:right;font-weight:bold;">12,433</td>
-<td style="font-weight: bold; text-align:right">8</td>
-<td style="font-weight: bold; text-align:right">93</td>
-<td style="font-weight: bold; text-align:right">0.7</td>
-<td style="font-weight: bold; text-align:right">1,184,442</td>
-<td style="font-weight: bold; text-align:right">8,116</td>
+                                    text-align:right;background-color:red; color:white">+13</td>
+<td style="font-weight: bold; text-align:right">6,987</td>
+<td style="text-align:right;font-weight:bold;">6,608</td>
+<td style="font-weight: bold; text-align:right">243</td>
+<td style="font-weight: bold; text-align:right">1,548</td>
+<td style="font-weight: bold; text-align:right">39</td>
+<td style="font-weight: bold; text-align:right">144,877</td>
+<td style="font-weight: bold; text-align:right">16,086</td>
 <td style="display:none" data-continent="Europe">Europe</td>
- </tr>
+</tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/israel/">Israel</a></td>
-<td style="font-weight: bold; text-align:right">10,743</td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">101 </td>
+<td style="font-weight: bold; text-align:right">10,878</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+135</td>
+<td style="font-weight: bold; text-align:right;">103 </td>
 <td style="font-weight: bold; 
-                                    text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">1,341</td>
-<td style="text-align:right;font-weight:bold;">9,301</td>
-<td style="font-weight: bold; text-align:right">175</td>
-<td style="font-weight: bold; text-align:right">1,241</td>
+                                    text-align:right;background-color:red; color:white">+2</td>
+<td style="font-weight: bold; text-align:right">1,388</td>
+<td style="text-align:right;font-weight:bold;">9,387</td>
+<td style="font-weight: bold; text-align:right">174</td>
+<td style="font-weight: bold; text-align:right">1,257</td>
 <td style="font-weight: bold; text-align:right">12</td>
 <td style="font-weight: bold; text-align:right">117,339</td>
 <td style="font-weight: bold; text-align:right">13,557</td>
@@ -1831,11 +1831,11 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">10,151</td>
 <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;">887 </td>
-<td style="font-weight: bold; 
+ <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">381</td>
 <td style="text-align:right;font-weight:bold;">8,883</td>
- <td style="font-weight: bold; text-align:right">789</td>
+<td style="font-weight: bold; text-align:right">789</td>
 <td style="font-weight: bold; text-align:right">1,005</td>
 <td style="font-weight: bold; text-align:right">88</td>
 <td style="font-weight: bold; text-align:right">54,700</td>
@@ -1860,13 +1860,13 @@ Follow @Worldometers</span></a>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/india/">India</a></td>
-<td style="font-weight: bold; text-align:right">8,446</td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">288 </td>
+<td style="font-weight: bold; text-align:right">8,504</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+58</td>
+<td style="font-weight: bold; text-align:right;">289 </td>
 <td style="font-weight: bold; 
-                                    text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">969</td>
-<td style="text-align:right;font-weight:bold;">7,189</td>
+                                    text-align:right;background-color:red; color:white">+1</td>
+<td style="font-weight: bold; text-align:right">972</td>
+<td style="text-align:right;font-weight:bold;">7,243</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">6</td>
 <td style="font-weight: bold; text-align:right">0.2</td>
@@ -1874,7 +1874,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">137</td>
 <td style="display:none" data-continent="Asia">Asia</td>
 </tr>
-<tr style="">
+ <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/ecuador/">Ecuador</a></td>
 <td style="font-weight: bold; text-align:right">7,257</td>
 <td style="font-weight: bold; text-align:right;"></td>
@@ -1916,7 +1916,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">1,739</td>
 <td style="text-align:right;font-weight:bold;">4,928</td>
 <td style="font-weight: bold; text-align:right">142</td>
-<td style="font-weight: bold; text-align:right">208</td>
+ <td style="font-weight: bold; text-align:right">208</td>
 <td style="font-weight: bold; text-align:right">5</td>
 <td style="font-weight: bold; text-align:right">67,712</td>
 <td style="font-weight: bold; text-align:right">2,054</td>
@@ -1972,18 +1972,18 @@ Follow @Worldometers</span></a>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/australia/">Australia</a></td>
-<td style="font-weight: bold; text-align:right">6,303</td>
-<td style="font-weight: bold; text-align:right;"></td>
+<td style="font-weight: bold; text-align:right">6,313</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+10</td>
 <td style="font-weight: bold; text-align:right;">59 </td>
 <td style="font-weight: bold; 
                                     text-align:right;background-color:red; color:white">+3</td>
-<td style="font-weight: bold; text-align:right">3,265</td>
-<td style="text-align:right;font-weight:bold;">2,979</td>
-<td style="font-weight: bold; text-align:right">80</td>
-<td style="font-weight: bold; text-align:right">247</td>
+<td style="font-weight: bold; text-align:right">3,338</td>
+<td style="text-align:right;font-weight:bold;">2,916</td>
+<td style="font-weight: bold; text-align:right">81</td>
+<td style="font-weight: bold; text-align:right">248</td>
 <td style="font-weight: bold; text-align:right">2</td>
-<td style="font-weight: bold; text-align:right">351,380</td>
-<td style="font-weight: bold; text-align:right">13,780</td>
+<td style="font-weight: bold; text-align:right">353,941</td>
+<td style="font-weight: bold; text-align:right">13,880</td>
 <td style="display:none" data-continent="Australia/Oceania">Australia/Oceania</td>
 </tr>
 <tr style="">
@@ -2006,32 +2006,32 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/romania/">Romania</a></td>
 <td style="font-weight: bold; text-align:right">5,990</td>
 <td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">291 </td>
+<td style="font-weight: bold; text-align:right;">306 </td>
 <td style="font-weight: bold; 
-                                    text-align:right;"></td>
+                                    text-align:right;background-color:red; color:white">+15</td>
 <td style="font-weight: bold; text-align:right">758</td>
-<td style="text-align:right;font-weight:bold;">4,941</td>
+<td style="text-align:right;font-weight:bold;">4,926</td>
 <td style="font-weight: bold; text-align:right">208</td>
 <td style="font-weight: bold; text-align:right">311</td>
-<td style="font-weight: bold; text-align:right">15</td>
+<td style="font-weight: bold; text-align:right">16</td>
 <td style="font-weight: bold; text-align:right">59,272</td>
 <td style="font-weight: bold; text-align:right">3,081</td>
 <td style="display:none" data-continent="Europe">Europe</td>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/czech-republic/">Czechia</a></td>
-<td style="font-weight: bold; text-align:right">5,902</td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">129 </td>
+<td style="font-weight: bold; text-align:right">5,905</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+3</td>
+<td style="font-weight: bold; text-align:right;">132 </td>
 <td style="font-weight: bold; 
-                                    text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">411</td>
-<td style="text-align:right;font-weight:bold;">5,362</td>
-<td style="font-weight: bold; text-align:right">92</td>
+                                    text-align:right;background-color:red; color:white">+3</td>
+<td style="font-weight: bold; text-align:right">422</td>
+<td style="text-align:right;font-weight:bold;">5,351</td>
+<td style="font-weight: bold; text-align:right">87</td>
 <td style="font-weight: bold; text-align:right">551</td>
 <td style="font-weight: bold; text-align:right">12</td>
-<td style="font-weight: bold; text-align:right">120,285</td>
-<td style="font-weight: bold; text-align:right">11,232</td>
+<td style="font-weight: bold; text-align:right">125,126</td>
+<td style="font-weight: bold; text-align:right">11,684</td>
 <td style="display:none" data-continent="Europe">Europe</td>
 </tr>
 <tr style="">
@@ -2042,7 +2042,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">1,026</td>
-<td style="text-align:right;font-weight:bold;">3,926</td>
+ <td style="text-align:right;font-weight:bold;">3,926</td>
 <td style="font-weight: bold; text-align:right">37</td>
 <td style="font-weight: bold; text-align:right">23</td>
 <td style="font-weight: bold; text-align:right">0.4</td>
@@ -2052,15 +2052,15 @@ Follow @Worldometers</span></a>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/malaysia/">Malaysia</a></td>
-<td style="font-weight: bold; text-align:right">4,530</td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">73 </td>
+<td style="font-weight: bold; text-align:right">4,683</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+153</td>
+<td style="font-weight: bold; text-align:right;">76 </td>
 <td style="font-weight: bold; 
-                                    text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">1,995</td>
-<td style="text-align:right;font-weight:bold;">2,462</td>
-<td style="font-weight: bold; text-align:right">72</td>
-<td style="font-weight: bold; text-align:right">140</td>
+                                    text-align:right;background-color:red; color:white">+3</td>
+<td style="font-weight: bold; text-align:right">2,108</td>
+<td style="text-align:right;font-weight:bold;">2,499</td>
+<td style="font-weight: bold; text-align:right">66</td>
+<td style="font-weight: bold; text-align:right">145</td>
 <td style="font-weight: bold; text-align:right">2</td>
 <td style="font-weight: bold; text-align:right">71,897</td>
 <td style="font-weight: bold; text-align:right">2,221</td>
@@ -2068,18 +2068,34 @@ Follow @Worldometers</span></a>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/philippines/">Philippines</a></td>
-<td style="font-weight: bold; text-align:right">4,428</td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">247 </td>
+<td style="font-weight: bold; text-align:right">4,648</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+220</td>
+<td style="font-weight: bold; text-align:right;">297 </td>
 <td style="font-weight: bold; 
-                                    text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">157</td>
-<td style="text-align:right;font-weight:bold;">4,024</td>
+                                    text-align:right;background-color:red; color:white">+50</td>
+<td style="font-weight: bold; text-align:right">197</td>
+<td style="text-align:right;font-weight:bold;">4,154</td>
 <td style="font-weight: bold; text-align:right">1</td>
-<td style="font-weight: bold; text-align:right">40</td>
-<td style="font-weight: bold; text-align:right">2</td>
-<td style="font-weight: bold; text-align:right">24,500</td>
-<td style="font-weight: bold; text-align:right">224</td>
+<td style="font-weight: bold; text-align:right">42</td>
+<td style="font-weight: bold; text-align:right">3</td>
+<td style="font-weight: bold; text-align:right">33,814</td>
+<td style="font-weight: bold; text-align:right">309</td>
+<td style="display:none" data-continent="Asia">Asia</td>
+</tr>
+<tr style="">
+<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/indonesia/">Indonesia</a></td>
+ <td style="font-weight: bold; text-align:right">4,241</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+399</td>
+<td style="font-weight: bold; text-align:right;">373 </td>
+<td style="font-weight: bold; 
+                                    text-align:right;background-color:red; color:white">+46</td>
+<td style="font-weight: bold; text-align:right">359</td>
+<td style="text-align:right;font-weight:bold;">3,509</td>
+<td style="font-weight: bold; text-align:right"></td>
+<td style="font-weight: bold; text-align:right">16</td>
+<td style="font-weight: bold; text-align:right">1</td>
+<td style="font-weight: bold; text-align:right">19,452</td>
+<td style="font-weight: bold; text-align:right">71</td>
 <td style="display:none" data-continent="Asia">Asia</td>
 </tr>
 <tr style="">
@@ -2109,25 +2125,9 @@ Follow @Worldometers</span></a>
 <td style="text-align:right;font-weight:bold;">3,261</td>
 <td style="font-weight: bold; text-align:right">67</td>
 <td style="font-weight: bold; text-align:right">116</td>
-<td style="font-weight: bold; text-align:right">1</td>
- <td style="font-weight: bold; text-align:right">115,585</td>
+ <td style="font-weight: bold; text-align:right">1</td>
+<td style="font-weight: bold; text-align:right">115,585</td>
 <td style="font-weight: bold; text-align:right">3,320</td>
-<td style="display:none" data-continent="Asia">Asia</td>
-</tr>
-<tr style="">
-<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/indonesia/">Indonesia</a></td>
-<td style="font-weight: bold; text-align:right">3,842</td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">327 </td>
-<td style="font-weight: bold; 
-                                    text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">286</td>
-<td style="text-align:right;font-weight:bold;">3,229</td>
-<td style="font-weight: bold; text-align:right"></td>
-<td style="font-weight: bold; text-align:right">14</td>
-<td style="font-weight: bold; text-align:right">1</td>
-<td style="font-weight: bold; text-align:right">19,452</td>
-<td style="font-weight: bold; text-align:right">71</td>
 <td style="display:none" data-continent="Asia">Asia</td>
 </tr>
 <tr style="">
@@ -2196,7 +2196,7 @@ Follow @Worldometers</span></a>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/finland/">Finland</a></td>
- <td style="font-weight: bold; text-align:right">2,905</td>
+<td style="font-weight: bold; text-align:right">2,905</td>
 <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;">49 </td>
 <td style="font-weight: bold; 
@@ -2208,6 +2208,22 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">9</td>
 <td style="font-weight: bold; text-align:right">44,354</td>
 <td style="font-weight: bold; text-align:right">8,005</td>
+<td style="display:none" data-continent="Europe">Europe</td>
+</tr>
+<tr style="">
+<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/ukraine/">Ukraine</a></td>
+<td style="font-weight: bold; text-align:right">2,777</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+266</td>
+<td style="font-weight: bold; text-align:right;">83 </td>
+<td style="font-weight: bold; 
+                                    text-align:right;background-color:red; color:white">+10</td>
+<td style="font-weight: bold; text-align:right">89</td>
+<td style="text-align:right;font-weight:bold;">2,605</td>
+<td style="font-weight: bold; text-align:right">45</td>
+<td style="font-weight: bold; text-align:right">63</td>
+<td style="font-weight: bold; text-align:right">2</td>
+<td style="font-weight: bold; text-align:right">26,577</td>
+<td style="font-weight: bold; text-align:right">608</td>
 <td style="display:none" data-continent="Europe">Europe</td>
 </tr>
 <tr style="">
@@ -2238,7 +2254,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">37</td>
 <td style="font-weight: bold; text-align:right">947</td>
 <td style="font-weight: bold; text-align:right">2</td>
- <td style="font-weight: bold; text-align:right">47,751</td>
+<td style="font-weight: bold; text-align:right">47,751</td>
 <td style="font-weight: bold; text-align:right">16,574</td>
 <td style="display:none" data-continent="Asia">Asia</td>
 </tr>
@@ -2259,6 +2275,22 @@ Follow @Worldometers</span></a>
 <td style="display:none" data-continent="South America">South America</td>
 </tr>
 <tr style="">
+<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/belarus/">Belarus</a></td>
+<td style="font-weight: bold; text-align:right">2,578</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+352</td>
+<td style="font-weight: bold; text-align:right;">26 </td>
+<td style="font-weight: bold; 
+                                    text-align:right;background-color:red; color:white">+3</td>
+<td style="font-weight: bold; text-align:right">203</td>
+<td style="text-align:right;font-weight:bold;">2,349</td>
+<td style="font-weight: bold; text-align:right">50</td>
+<td style="font-weight: bold; text-align:right">273</td>
+<td style="font-weight: bold; text-align:right">3</td>
+<td style="font-weight: bold; text-align:right">64,000</td>
+<td style="font-weight: bold; text-align:right">6,773</td>
+<td style="display:none" data-continent="Europe">Europe</td>
+</tr>
+<tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/thailand/">Thailand</a></td>
 <td style="font-weight: bold; text-align:right">2,551</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+33</td>
@@ -2273,22 +2305,6 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">71,860</td>
 <td style="font-weight: bold; text-align:right">1,030</td>
 <td style="display:none" data-continent="Asia">Asia</td>
-</tr>
-<tr style="">
-<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/ukraine/">Ukraine</a></td>
-<td style="font-weight: bold; text-align:right">2,511</td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">73 </td>
-<td style="font-weight: bold; 
-                                    text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">79</td>
-<td style="text-align:right;font-weight:bold;">2,359</td>
-<td style="font-weight: bold; text-align:right">45</td>
-<td style="font-weight: bold; text-align:right">57</td>
-<td style="font-weight: bold; text-align:right">2</td>
-<td style="font-weight: bold; text-align:right">26,577</td>
-<td style="font-weight: bold; text-align:right">608</td>
-<td style="display:none" data-continent="Europe">Europe</td>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/singapore/">Singapore</a></td>
@@ -2307,22 +2323,6 @@ Follow @Worldometers</span></a>
 <td style="display:none" data-continent="Asia">Asia</td>
 </tr>
 <tr style="">
-<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/belarus/">Belarus</a></td>
-<td style="font-weight: bold; text-align:right">2,226</td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">23 </td>
-<td style="font-weight: bold; 
-                                    text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">172</td>
-<td style="text-align:right;font-weight:bold;">2,031</td>
-<td style="font-weight: bold; text-align:right">72</td>
-<td style="font-weight: bold; text-align:right">236</td>
-<td style="font-weight: bold; text-align:right">2</td>
-<td style="font-weight: bold; text-align:right">53,000</td>
-<td style="font-weight: bold; text-align:right">5,609</td>
-<td style="display:none" data-continent="Europe">Europe</td>
-</tr>
-<tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/argentina/">Argentina</a></td>
 <td style="font-weight: bold; text-align:right">2,142</td>
 <td style="font-weight: bold; text-align:right;"></td>
@@ -2337,7 +2337,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">18,027</td>
 <td style="font-weight: bold; text-align:right">399</td>
 <td style="display:none" data-continent="South America">South America</td>
-</tr>
+ </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/greece/">Greece</a></td>
 <td style="font-weight: bold; text-align:right">2,081</td>
@@ -2366,7 +2366,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">7</td>
 <td style="font-weight: bold; text-align:right">34</td>
 <td style="font-weight: bold; text-align:right">0.4</td>
- <td style="font-weight: bold; text-align:right">75,053</td>
+<td style="font-weight: bold; text-align:right">75,053</td>
 <td style="font-weight: bold; text-align:right">1,265</td>
 <td style="display:none" data-continent="Africa">Africa</td>
 </tr>
@@ -2419,6 +2419,22 @@ Follow @Worldometers</span></a>
 <td style="display:none" data-continent="Europe">Europe</td>
 </tr>
 <tr style="">
+<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/morocco/">Morocco</a></td>
+<td style="font-weight: bold; text-align:right">1,617</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+72</td>
+<td style="font-weight: bold; text-align:right;">113 </td>
+<td style="font-weight: bold; 
+                                    text-align:right;background-color:red; color:white">+2</td>
+<td style="font-weight: bold; text-align:right">153</td>
+<td style="text-align:right;font-weight:bold;">1,351</td>
+<td style="font-weight: bold; text-align:right">1</td>
+<td style="font-weight: bold; text-align:right">44</td>
+<td style="font-weight: bold; text-align:right">3</td>
+<td style="font-weight: bold; text-align:right">8,473</td>
+<td style="font-weight: bold; text-align:right">230</td>
+<td style="display:none" data-continent="Africa">Africa</td>
+</tr>
+<tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/moldova/">Moldova</a></td>
 <td style="font-weight: bold; text-align:right">1,560</td>
 <td style="font-weight: bold; text-align:right;"></td>
@@ -2435,22 +2451,6 @@ Follow @Worldometers</span></a>
 <td style="display:none" data-continent="Europe">Europe</td>
 </tr>
 <tr style="">
-<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/morocco/">Morocco</a></td>
-<td style="font-weight: bold; text-align:right">1,545</td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">111 </td>
-<td style="font-weight: bold; 
-                                    text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">146</td>
-<td style="text-align:right;font-weight:bold;">1,288</td>
-<td style="font-weight: bold; text-align:right">1</td>
-<td style="font-weight: bold; text-align:right">42</td>
-<td style="font-weight: bold; text-align:right">3</td>
-<td style="font-weight: bold; text-align:right">7,734</td>
-<td style="font-weight: bold; text-align:right">210</td>
-<td style="display:none" data-continent="Africa">Africa</td>
-</tr>
-<tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/croatia/">Croatia</a></td>
 <td style="font-weight: bold; text-align:right">1,534</td>
 <td style="font-weight: bold; text-align:right;"></td>
@@ -2464,6 +2464,22 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">5</td>
 <td style="font-weight: bold; text-align:right">15,691</td>
 <td style="font-weight: bold; text-align:right">3,822</td>
+<td style="display:none" data-continent="Europe">Europe</td>
+ </tr>
+<tr style="">
+<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/hungary/">Hungary</a></td>
+<td style="font-weight: bold; text-align:right">1,410</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+100</td>
+<td style="font-weight: bold; text-align:right;">99 </td>
+<td style="font-weight: bold; 
+                                    text-align:right;background-color:red; color:white">+14</td>
+<td style="font-weight: bold; text-align:right">118</td>
+<td style="text-align:right;font-weight:bold;">1,193</td>
+<td style="font-weight: bold; text-align:right">58</td>
+<td style="font-weight: bold; text-align:right">146</td>
+<td style="font-weight: bold; text-align:right">10</td>
+<td style="font-weight: bold; text-align:right">33,532</td>
+<td style="font-weight: bold; text-align:right">3,471</td>
 <td style="display:none" data-continent="Europe">Europe</td>
 </tr>
 <tr style="">
@@ -2499,57 +2515,41 @@ Follow @Worldometers</span></a>
 <td style="display:none" data-continent="Asia">Asia</td>
 </tr>
 <tr style="">
-<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/hungary/">Hungary</a></td>
-<td style="font-weight: bold; text-align:right">1,310</td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">85 </td>
-<td style="font-weight: bold; 
-                                    text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">115</td>
-<td style="text-align:right;font-weight:bold;">1,110</td>
-<td style="font-weight: bold; text-align:right">17</td>
-<td style="font-weight: bold; text-align:right">136</td>
-<td style="font-weight: bold; text-align:right">9</td>
-<td style="font-weight: bold; text-align:right">31,961</td>
-<td style="font-weight: bold; text-align:right">3,308</td>
-<td style="display:none" data-continent="Europe">Europe</td>
-</tr>
-<tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/estonia/">Estonia</a></td>
-<td style="font-weight: bold; text-align:right">1,304</td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">24 </td>
+<td style="font-weight: bold; text-align:right">1,309</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+5</td>
+<td style="font-weight: bold; text-align:right;">25 </td>
 <td style="font-weight: bold; 
-                                    text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">93</td>
-<td style="text-align:right;font-weight:bold;">1,187</td>
+                                    text-align:right;background-color:red; color:white">+1</td>
+<td style="font-weight: bold; text-align:right">98</td>
+<td style="text-align:right;font-weight:bold;">1,186</td>
 <td style="font-weight: bold; text-align:right">11</td>
-<td style="font-weight: bold; text-align:right">983</td>
-<td style="font-weight: bold; text-align:right">18</td>
-<td style="font-weight: bold; text-align:right">29,456</td>
-<td style="font-weight: bold; text-align:right">22,205</td>
+<td style="font-weight: bold; text-align:right">987</td>
+<td style="font-weight: bold; text-align:right">19</td>
+<td style="font-weight: bold; text-align:right">30,349</td>
+<td style="font-weight: bold; text-align:right">22,878</td>
 <td style="display:none" data-continent="Europe">Europe</td>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/slovenia/">Slovenia</a></td>
-<td style="font-weight: bold; text-align:right">1,188</td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">50 </td>
+<td style="font-weight: bold; text-align:right">1,205</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+17</td>
+<td style="font-weight: bold; text-align:right;">53 </td>
 <td style="font-weight: bold; 
-                                    text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">148</td>
-<td style="text-align:right;font-weight:bold;">990</td>
-<td style="font-weight: bold; text-align:right">37</td>
-<td style="font-weight: bold; text-align:right">571</td>
-<td style="font-weight: bold; text-align:right">24</td>
-<td style="font-weight: bold; text-align:right">34,279</td>
-<td style="font-weight: bold; text-align:right">16,489</td>
+                                    text-align:right;background-color:red; color:white">+3</td>
+<td style="font-weight: bold; text-align:right">150</td>
+<td style="text-align:right;font-weight:bold;">1,002</td>
+<td style="font-weight: bold; text-align:right">35</td>
+<td style="font-weight: bold; text-align:right">580</td>
+<td style="font-weight: bold; text-align:right">25</td>
+<td style="font-weight: bold; text-align:right">34,851</td>
+<td style="font-weight: bold; text-align:right">16,764</td>
 <td style="display:none" data-continent="Europe">Europe</td>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/kuwait/">Kuwait</a></td>
 <td style="font-weight: bold; text-align:right">1,154</td>
-<td style="font-weight: bold; text-align:right;"></td>
+ <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;">1 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
@@ -2579,9 +2579,25 @@ Follow @Worldometers</span></a>
 <td style="display:none" data-continent="Asia">Asia</td>
 </tr>
 <tr style="">
+<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/lithuania/">Lithuania</a></td>
+<td style="font-weight: bold; text-align:right">1,053</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+27</td>
+<td style="font-weight: bold; text-align:right;">23 </td>
+<td style="font-weight: bold; 
+                                    text-align:right;"></td>
+<td style="font-weight: bold; text-align:right">97</td>
+<td style="text-align:right;font-weight:bold;">933</td>
+<td style="font-weight: bold; text-align:right">14</td>
+<td style="font-weight: bold; text-align:right">387</td>
+<td style="font-weight: bold; text-align:right">8</td>
+<td style="font-weight: bold; text-align:right">38,472</td>
+ <td style="font-weight: bold; text-align:right">14,132</td>
+<td style="display:none" data-continent="Europe">Europe</td>
+</tr>
+<tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/bahrain/">Bahrain</a></td>
 <td style="font-weight: bold; text-align:right">1,040</td>
- <td style="font-weight: bold; text-align:right;"></td>
+<td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;">6 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
@@ -2595,20 +2611,20 @@ Follow @Worldometers</span></a>
 <td style="display:none" data-continent="Asia">Asia</td>
 </tr>
 <tr style="">
-<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/lithuania/">Lithuania</a></td>
-<td style="font-weight: bold; text-align:right">1,026</td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">23 </td>
+<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/armenia/">Armenia</a></td>
+<td style="font-weight: bold; text-align:right">1,013</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+46</td>
+<td style="font-weight: bold; text-align:right;">13 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">54</td>
-<td style="text-align:right;font-weight:bold;">949</td>
-<td style="font-weight: bold; text-align:right">14</td>
-<td style="font-weight: bold; text-align:right">377</td>
-<td style="font-weight: bold; text-align:right">8</td>
-<td style="font-weight: bold; text-align:right">38,472</td>
-<td style="font-weight: bold; text-align:right">14,132</td>
-<td style="display:none" data-continent="Europe">Europe</td>
+<td style="font-weight: bold; text-align:right">197</td>
+<td style="text-align:right;font-weight:bold;">803</td>
+<td style="font-weight: bold; text-align:right">30</td>
+<td style="font-weight: bold; text-align:right">342</td>
+<td style="font-weight: bold; text-align:right">4</td>
+<td style="font-weight: bold; text-align:right">7,164</td>
+<td style="font-weight: bold; text-align:right">2,418</td>
+<td style="display:none" data-continent="Asia">Asia</td>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/china-hong-kong-sar/">Hong Kong</a></td>
@@ -2618,7 +2634,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">336</td>
-<td style="text-align:right;font-weight:bold;">661</td>
+ <td style="text-align:right;font-weight:bold;">661</td>
 <td style="font-weight: bold; text-align:right">14</td>
 <td style="font-weight: bold; text-align:right">134</td>
 <td style="font-weight: bold; text-align:right">0.5</td>
@@ -2627,51 +2643,35 @@ Follow @Worldometers</span></a>
 <td style="display:none" data-continent="Asia">Asia</td>
 </tr>
 <tr style="">
-<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/armenia/">Armenia</a></td>
-<td style="font-weight: bold; text-align:right">967</td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">13 </td>
-<td style="font-weight: bold; 
-                                    text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">173</td>
-<td style="text-align:right;font-weight:bold;">781</td>
-<td style="font-weight: bold; text-align:right">30</td>
-<td style="font-weight: bold; text-align:right">326</td>
-<td style="font-weight: bold; text-align:right">4</td>
-<td style="font-weight: bold; text-align:right">6,484</td>
-<td style="font-weight: bold; text-align:right">2,188</td>
-<td style="display:none" data-continent="Asia">Asia</td>
-</tr>
-<tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/bosnia-and-herzegovina/">Bosnia and Herzegovina</a></td>
-<td style="font-weight: bold; text-align:right">946</td>
-<td style="font-weight: bold; text-align:right;"></td>
+<td style="font-weight: bold; text-align:right">975</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+29</td>
 <td style="font-weight: bold; text-align:right;">37 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">139</td>
-<td style="text-align:right;font-weight:bold;">770</td>
+<td style="text-align:right;font-weight:bold;">799</td>
 <td style="font-weight: bold; text-align:right">4</td>
-<td style="font-weight: bold; text-align:right">288</td>
+<td style="font-weight: bold; text-align:right">297</td>
 <td style="font-weight: bold; text-align:right">11</td>
-<td style="font-weight: bold; text-align:right">6,911</td>
-<td style="font-weight: bold; text-align:right">2,106</td>
+<td style="font-weight: bold; text-align:right">10,181</td>
+<td style="font-weight: bold; text-align:right">3,103</td>
 <td style="display:none" data-continent="Europe">Europe</td>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/kazakhstan/">Kazakhstan</a></td>
-<td style="font-weight: bold; text-align:right">880</td>
-<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+15</td>
+<td style="font-weight: bold; text-align:right">897</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+32</td>
 <td style="font-weight: bold; text-align:right;">10 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">81</td>
- <td style="text-align:right;font-weight:bold;">789</td>
+<td style="font-weight: bold; text-align:right">86</td>
+<td style="text-align:right;font-weight:bold;">801</td>
 <td style="font-weight: bold; text-align:right">21</td>
-<td style="font-weight: bold; text-align:right">47</td>
+<td style="font-weight: bold; text-align:right">48</td>
 <td style="font-weight: bold; text-align:right">0.5</td>
-<td style="font-weight: bold; text-align:right">61,955</td>
-<td style="font-weight: bold; text-align:right">3,300</td>
+<td style="font-weight: bold; text-align:right">69,304</td>
+<td style="font-weight: bold; text-align:right">3,691</td>
 <td style="display:none" data-continent="Asia">Asia</td>
 </tr>
 <tr style="">
@@ -2692,15 +2692,15 @@ Follow @Worldometers</span></a>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/uzbekistan/">Uzbekistan</a></td>
-<td style="font-weight: bold; text-align:right">767</td>
-<td style="font-weight: bold; text-align:right;"></td>
+<td style="font-weight: bold; text-align:right">796</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+29</td>
 <td style="font-weight: bold; text-align:right;">4 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">42</td>
-<td style="text-align:right;font-weight:bold;">721</td>
+<td style="text-align:right;font-weight:bold;">750</td>
 <td style="font-weight: bold; text-align:right">8</td>
-<td style="font-weight: bold; text-align:right">23</td>
+<td style="font-weight: bold; text-align:right">24</td>
 <td style="font-weight: bold; text-align:right">0.1</td>
 <td style="font-weight: bold; text-align:right">70,000</td>
 <td style="font-weight: bold; text-align:right">2,091</td>
@@ -2709,7 +2709,7 @@ Follow @Worldometers</span></a>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/macedonia/">North Macedonia</a></td>
 <td style="font-weight: bold; text-align:right">760</td>
- <td style="font-weight: bold; text-align:right;"></td>
+<td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;">34 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
@@ -2756,13 +2756,13 @@ Follow @Worldometers</span></a>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/tunisia/">Tunisia</a></td>
- <td style="font-weight: bold; text-align:right">685</td>
+<td style="font-weight: bold; text-align:right">685</td>
 <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;">28 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">43</td>
-<td style="text-align:right;font-weight:bold;">614</td>
+ <td style="text-align:right;font-weight:bold;">614</td>
 <td style="font-weight: bold; text-align:right">85</td>
 <td style="font-weight: bold; text-align:right">58</td>
 <td style="font-weight: bold; text-align:right">2</td>
@@ -2772,15 +2772,15 @@ Follow @Worldometers</span></a>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/bulgaria/">Bulgaria</a></td>
-<td style="font-weight: bold; text-align:right">661</td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">28 </td>
+<td style="font-weight: bold; text-align:right">669</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+8</td>
+<td style="font-weight: bold; text-align:right;">29 </td>
 <td style="font-weight: bold; 
-                                    text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">62</td>
-<td style="text-align:right;font-weight:bold;">571</td>
-<td style="font-weight: bold; text-align:right">32</td>
-<td style="font-weight: bold; text-align:right">95</td>
+                                    text-align:right;background-color:red; color:white">+1</td>
+<td style="font-weight: bold; text-align:right">68</td>
+<td style="text-align:right;font-weight:bold;">572</td>
+<td style="font-weight: bold; text-align:right">35</td>
+<td style="font-weight: bold; text-align:right">96</td>
 <td style="font-weight: bold; text-align:right">4</td>
 <td style="font-weight: bold; text-align:right">18,502</td>
 <td style="font-weight: bold; text-align:right">2,663</td>
@@ -2788,19 +2788,51 @@ Follow @Worldometers</span></a>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/latvia/">Latvia</a></td>
-<td style="font-weight: bold; text-align:right">630</td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">3 </td>
+<td style="font-weight: bold; text-align:right">651</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+21</td>
+<td style="font-weight: bold; text-align:right;">5 </td>
+<td style="font-weight: bold; 
+                                    text-align:right;background-color:red; color:white">+2</td>
+<td style="font-weight: bold; text-align:right">16</td>
+<td style="text-align:right;font-weight:bold;">630</td>
+<td style="font-weight: bold; text-align:right">2</td>
+<td style="font-weight: bold; text-align:right">345</td>
+<td style="font-weight: bold; text-align:right">3</td>
+<td style="font-weight: bold; text-align:right">28,214</td>
+<td style="font-weight: bold; text-align:right">14,958</td>
+<td style="display:none" data-continent="Europe">Europe</td>
+</tr>
+<tr style="">
+<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/lebanon/">Lebanon</a></td>
+ <td style="font-weight: bold; text-align:right">630</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+11</td>
+<td style="font-weight: bold; text-align:right;">20 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">16</td>
-<td style="text-align:right;font-weight:bold;">611</td>
-<td style="font-weight: bold; text-align:right">2</td>
-<td style="font-weight: bold; text-align:right">334</td>
-<td style="font-weight: bold; text-align:right">2</td>
-<td style="font-weight: bold; text-align:right">27,796</td>
-<td style="font-weight: bold; text-align:right">14,737</td>
-<td style="display:none" data-continent="Europe">Europe</td>
+<td style="font-weight: bold; text-align:right">77</td>
+<td style="text-align:right;font-weight:bold;">533</td>
+<td style="font-weight: bold; text-align:right">34</td>
+<td style="font-weight: bold; text-align:right">92</td>
+<td style="font-weight: bold; text-align:right">3</td>
+<td style="font-weight: bold; text-align:right">14,554</td>
+<td style="font-weight: bold; text-align:right">2,132</td>
+<td style="display:none" data-continent="Asia">Asia</td>
+</tr>
+<tr style="">
+<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/bangladesh/">Bangladesh</a></td>
+<td style="font-weight: bold; text-align:right">621</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+139</td>
+<td style="font-weight: bold; text-align:right;">34 </td>
+<td style="font-weight: bold; 
+                                    text-align:right;background-color:red; color:white">+4</td>
+<td style="font-weight: bold; text-align:right">39</td>
+<td style="text-align:right;font-weight:bold;">548</td>
+<td style="font-weight: bold; text-align:right">1</td>
+<td style="font-weight: bold; text-align:right">4</td>
+<td style="font-weight: bold; text-align:right">0.2</td>
+<td style="font-weight: bold; text-align:right">9,653</td>
+<td style="font-weight: bold; text-align:right">59</td>
+<td style="display:none" data-continent="Asia">Asia</td>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/cuba/">Cuba</a></td>
@@ -2819,22 +2851,6 @@ Follow @Worldometers</span></a>
 <td style="display:none" data-continent="North America">North America</td>
 </tr>
 <tr style="">
-<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/lebanon/">Lebanon</a></td>
-<td style="font-weight: bold; text-align:right">619</td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">20 </td>
-<td style="font-weight: bold; 
-                                    text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">77</td>
-<td style="text-align:right;font-weight:bold;">522</td>
-<td style="font-weight: bold; text-align:right">34</td>
-<td style="font-weight: bold; text-align:right">91</td>
-<td style="font-weight: bold; text-align:right">3</td>
-<td style="font-weight: bold; text-align:right">14,055</td>
-<td style="font-weight: bold; text-align:right">2,059</td>
-<td style="display:none" data-continent="Asia">Asia</td>
-</tr>
-<tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/cyprus/">Cyprus</a></td>
 <td style="font-weight: bold; text-align:right">616</td>
 <td style="font-weight: bold; text-align:right;"></td>
@@ -2842,12 +2858,28 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">61</td>
- <td style="text-align:right;font-weight:bold;">545</td>
+<td style="text-align:right;font-weight:bold;">545</td>
 <td style="font-weight: bold; text-align:right">8</td>
 <td style="font-weight: bold; text-align:right">510</td>
 <td style="font-weight: bold; text-align:right">8</td>
 <td style="font-weight: bold; text-align:right">17,119</td>
 <td style="font-weight: bold; text-align:right">14,179</td>
+<td style="display:none" data-continent="Asia">Asia</td>
+</tr>
+<tr style="">
+<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/afghanistan/">Afghanistan</a></td>
+<td style="font-weight: bold; text-align:right">607</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+52</td>
+<td style="font-weight: bold; text-align:right;">18 </td>
+<td style="font-weight: bold; 
+                                    text-align:right;"></td>
+<td style="font-weight: bold; text-align:right">32</td>
+<td style="text-align:right;font-weight:bold;">557</td>
+<td style="font-weight: bold; text-align:right"></td>
+<td style="font-weight: bold; text-align:right">16</td>
+<td style="font-weight: bold; text-align:right">0.5</td>
+<td style="font-weight: bold; text-align:right"></td>
+<td style="font-weight: bold; text-align:right"></td>
 <td style="display:none" data-continent="Asia">Asia</td>
 </tr>
 <tr style="">
@@ -2857,7 +2889,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right;">26 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">71</td>
+ <td style="font-weight: bold; text-align:right">71</td>
 <td style="text-align:right;font-weight:bold;">504</td>
 <td style="font-weight: bold; text-align:right">17</td>
 <td style="font-weight: bold; text-align:right">7,778</td>
@@ -2865,6 +2897,22 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">1,673</td>
 <td style="font-weight: bold; text-align:right">21,653</td>
 <td style="display:none" data-continent="Europe">Europe</td>
+</tr>
+<tr style="">
+<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/oman/">Oman</a></td>
+<td style="font-weight: bold; text-align:right">599</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+53</td>
+<td style="font-weight: bold; text-align:right;">3 </td>
+<td style="font-weight: bold; 
+                                    text-align:right;"></td>
+<td style="font-weight: bold; text-align:right">109</td>
+<td style="text-align:right;font-weight:bold;">487</td>
+<td style="font-weight: bold; text-align:right">3</td>
+<td style="font-weight: bold; text-align:right">117</td>
+<td style="font-weight: bold; text-align:right">0.6</td>
+<td style="font-weight: bold; text-align:right"></td>
+<td style="font-weight: bold; text-align:right"></td>
+<td style="display:none" data-continent="Asia">Asia</td>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/costa-rica/">Costa Rica</a></td>
@@ -2883,38 +2931,6 @@ Follow @Worldometers</span></a>
 <td style="display:none" data-continent="North America">North America</td>
 </tr>
 <tr style="">
-<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/afghanistan/">Afghanistan</a></td>
-<td style="font-weight: bold; text-align:right">555</td>
- <td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">18 </td>
-<td style="font-weight: bold; 
-                                    text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">32</td>
-<td style="text-align:right;font-weight:bold;">505</td>
-<td style="font-weight: bold; text-align:right"></td>
-<td style="font-weight: bold; text-align:right">14</td>
-<td style="font-weight: bold; text-align:right">0.5</td>
-<td style="font-weight: bold; text-align:right"></td>
-<td style="font-weight: bold; text-align:right"></td>
-<td style="display:none" data-continent="Asia">Asia</td>
-</tr>
-<tr style="">
-<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/oman/">Oman</a></td>
-<td style="font-weight: bold; text-align:right">546</td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">3 </td>
-<td style="font-weight: bold; 
-                                    text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">109</td>
-<td style="text-align:right;font-weight:bold;">434</td>
-<td style="font-weight: bold; text-align:right">3</td>
-<td style="font-weight: bold; text-align:right">107</td>
-<td style="font-weight: bold; text-align:right">0.6</td>
-<td style="font-weight: bold; text-align:right"></td>
-<td style="font-weight: bold; text-align:right"></td>
-<td style="display:none" data-continent="Asia">Asia</td>
-</tr>
-<tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/cote-d-ivoire/">Ivory Coast</a></td>
 <td style="font-weight: bold; text-align:right">533</td>
 <td style="font-weight: bold; text-align:right;"></td>
@@ -2928,7 +2944,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">0.2</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right"></td>
- <td style="display:none" data-continent="Africa">Africa</td>
+<td style="display:none" data-continent="Africa">Africa</td>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/uruguay/">Uruguay</a></td>
@@ -2958,7 +2974,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">20</td>
 <td style="font-weight: bold; text-align:right">0.5</td>
-<td style="font-weight: bold; text-align:right">4,298</td>
+ <td style="font-weight: bold; text-align:right">4,298</td>
 <td style="font-weight: bold; text-align:right">178</td>
 <td style="display:none" data-continent="Africa">Africa</td>
 </tr>
@@ -2977,22 +2993,6 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="display:none" data-continent="Africa">Africa</td>
-</tr>
-<tr style="">
-<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/bangladesh/">Bangladesh</a></td>
-<td style="font-weight: bold; text-align:right">482</td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">30 </td>
-<td style="font-weight: bold; 
-                                    text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">36</td>
-<td style="text-align:right;font-weight:bold;">416</td>
-<td style="font-weight: bold; text-align:right">1</td>
-<td style="font-weight: bold; text-align:right">3</td>
-<td style="font-weight: bold; text-align:right">0.2</td>
-<td style="font-weight: bold; text-align:right">8,313</td>
-<td style="font-weight: bold; text-align:right">50</td>
-<td style="display:none" data-continent="Asia">Asia</td>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/albania/">Albania</a></td>
@@ -3014,7 +3014,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/ghana/">Ghana</a></td>
 <td style="font-weight: bold; text-align:right">408</td>
 <td style="font-weight: bold; text-align:right;"></td>
- <td style="font-weight: bold; text-align:right;">8 </td>
+<td style="font-weight: bold; text-align:right;">8 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">4</td>
@@ -3059,6 +3059,22 @@ Follow @Worldometers</span></a>
 <td style="display:none" data-continent="North America">North America</td>
 </tr>
 <tr style="">
+<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/taiwan/">Taiwan</a></td>
+<td style="font-weight: bold; text-align:right">388</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+3</td>
+<td style="font-weight: bold; text-align:right;">6 </td>
+<td style="font-weight: bold; 
+                                    text-align:right;"></td>
+<td style="font-weight: bold; text-align:right">109</td>
+<td style="text-align:right;font-weight:bold;">273</td>
+<td style="font-weight: bold; text-align:right"></td>
+<td style="font-weight: bold; text-align:right">16</td>
+<td style="font-weight: bold; text-align:right">0.3</td>
+<td style="font-weight: bold; text-align:right">46,547</td>
+<td style="font-weight: bold; text-align:right">1,954</td>
+<td style="display:none" data-continent="Asia">Asia</td>
+</tr>
+<tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/reunion/">R&eacute;union</a></td>
 <td style="font-weight: bold; text-align:right">388</td>
 <td style="font-weight: bold; text-align:right;"></td>
@@ -3075,22 +3091,6 @@ Follow @Worldometers</span></a>
 <td style="display:none" data-continent="Africa">Africa</td>
 </tr>
 <tr style="">
-<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/taiwan/">Taiwan</a></td>
-<td style="font-weight: bold; text-align:right">385</td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">6 </td>
-<td style="font-weight: bold; 
-                                    text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">99</td>
-<td style="text-align:right;font-weight:bold;">280</td>
-<td style="font-weight: bold; text-align:right"></td>
-<td style="font-weight: bold; text-align:right">16</td>
-<td style="font-weight: bold; text-align:right">0.3</td>
-<td style="font-weight: bold; text-align:right">45,436</td>
-<td style="font-weight: bold; text-align:right">1,908</td>
-<td style="display:none" data-continent="Asia">Asia</td>
-</tr>
-<tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/jordan/">Jordan</a></td>
 <td style="font-weight: bold; text-align:right">381</td>
 <td style="font-weight: bold; text-align:right;"></td>
@@ -3099,7 +3099,7 @@ Follow @Worldometers</span></a>
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">177</td>
 <td style="text-align:right;font-weight:bold;">197</td>
- <td style="font-weight: bold; text-align:right">5</td>
+<td style="font-weight: bold; text-align:right">5</td>
 <td style="font-weight: bold; text-align:right">37</td>
 <td style="font-weight: bold; text-align:right">0.7</td>
 <td style="font-weight: bold; text-align:right">20,500</td>
@@ -3129,8 +3129,8 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right;">3 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">16</td>
-<td style="text-align:right;font-weight:bold;">351</td>
+<td style="font-weight: bold; text-align:right">44</td>
+<td style="text-align:right;font-weight:bold;">323</td>
 <td style="font-weight: bold; text-align:right">4</td>
 <td style="font-weight: bold; text-align:right">838</td>
 <td style="font-weight: bold; text-align:right">7</td>
@@ -3166,8 +3166,8 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">3</td>
 <td style="font-weight: bold; text-align:right">251</td>
 <td style="font-weight: bold; text-align:right">7</td>
-<td style="font-weight: bold; text-align:right">6,730</td>
-<td style="font-weight: bold; text-align:right">5,292</td>
+<td style="font-weight: bold; text-align:right">7,077</td>
+<td style="font-weight: bold; text-align:right">5,565</td>
 <td style="display:none" data-continent="Africa">Africa</td>
 </tr>
 <tr style="">
@@ -3227,7 +3227,7 @@ Follow @Worldometers</span></a>
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">57</td>
 <td style="text-align:right;font-weight:bold;">209</td>
- <td style="font-weight: bold; text-align:right"></td>
+<td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">53</td>
 <td style="font-weight: bold; text-align:right">0.4</td>
 <td style="font-weight: bold; text-align:right">16,992</td>
@@ -3236,15 +3236,15 @@ Follow @Worldometers</span></a>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/montenegro/">Montenegro</a></td>
-<td style="font-weight: bold; text-align:right">263</td>
-<td style="font-weight: bold; text-align:right;"></td>
+<td style="font-weight: bold; text-align:right">267</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+4</td>
 <td style="font-weight: bold; text-align:right;">2 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">5</td>
-<td style="text-align:right;font-weight:bold;">256</td>
+<td style="text-align:right;font-weight:bold;">260</td>
 <td style="font-weight: bold; text-align:right">7</td>
-<td style="font-weight: bold; text-align:right">419</td>
+<td style="font-weight: bold; text-align:right">425</td>
 <td style="font-weight: bold; text-align:right">3</td>
 <td style="font-weight: bold; text-align:right">2,869</td>
 <td style="font-weight: bold; text-align:right">4,568</td>
@@ -3267,10 +3267,26 @@ Follow @Worldometers</span></a>
 <td style="display:none" data-continent="Asia">Asia</td>
 </tr>
 <tr style="">
+<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/georgia/">Georgia</a></td>
+<td style="font-weight: bold; text-align:right">252</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+10</td>
+<td style="font-weight: bold; text-align:right;">3 </td>
+<td style="font-weight: bold; 
+                                    text-align:right;"></td>
+<td style="font-weight: bold; text-align:right">63</td>
+<td style="text-align:right;font-weight:bold;">186</td>
+<td style="font-weight: bold; text-align:right">6</td>
+<td style="font-weight: bold; text-align:right">63</td>
+<td style="font-weight: bold; text-align:right">0.8</td>
+<td style="font-weight: bold; text-align:right">3,271</td>
+<td style="font-weight: bold; text-align:right">820</td>
+<td style="display:none" data-continent="Asia">Asia</td>
+</tr>
+<tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/guinea/">Guinea</a></td>
 <td style="font-weight: bold; text-align:right">250</td>
 <td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">  </td>
+<td style="font-weight: bold; text-align:right;"> </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">17</td>
@@ -3281,22 +3297,6 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="display:none" data-continent="Africa">Africa</td>
-</tr>
-<tr style="">
-<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/georgia/">Georgia</a></td>
-<td style="font-weight: bold; text-align:right">242</td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">3 </td>
-<td style="font-weight: bold; 
-                                    text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">60</td>
-<td style="text-align:right;font-weight:bold;">179</td>
-<td style="font-weight: bold; text-align:right">6</td>
-<td style="font-weight: bold; text-align:right">61</td>
-<td style="font-weight: bold; text-align:right">0.8</td>
-<td style="font-weight: bold; text-align:right">3,271</td>
-<td style="font-weight: bold; text-align:right">820</td>
-<td style="display:none" data-continent="Asia">Asia</td>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/isle-of-man/">Isle of Man</a></td>
@@ -3332,13 +3332,13 @@ Follow @Worldometers</span></a>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/sri-lanka/">Sri Lanka</a></td>
-<td style="font-weight: bold; text-align:right">199</td>
-<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+1</td>
+<td style="font-weight: bold; text-align:right">203</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+5</td>
 <td style="font-weight: bold; text-align:right;">7 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">54</td>
-<td style="text-align:right;font-weight:bold;">138</td>
+<td style="font-weight: bold; text-align:right">55</td>
+<td style="text-align:right;font-weight:bold;">141</td>
 <td style="font-weight: bold; text-align:right">1</td>
 <td style="font-weight: bold; text-align:right">9</td>
 <td style="font-weight: bold; text-align:right">0.3</td>
@@ -3359,7 +3359,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">718</td>
 <td style="font-weight: bold; text-align:right">11</td>
 <td style="font-weight: bold; text-align:right">1,350</td>
-<td style="font-weight: bold; text-align:right">4,948</td>
+ <td style="font-weight: bold; text-align:right">4,948</td>
 <td style="display:none" data-continent="Africa">Africa</td>
 </tr>
 <tr style="">
@@ -3401,13 +3401,13 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right;"> </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">145</td>
-<td style="text-align:right;font-weight:bold;">39</td>
+<td style="font-weight: bold; text-align:right">157</td>
+ <td style="text-align:right;font-weight:bold;">27</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">3,766</td>
 <td style="font-weight: bold; text-align:right"></td>
-<td style="font-weight: bold; text-align:right">5,408</td>
-<td style="font-weight: bold; text-align:right">110,677</td>
+<td style="font-weight: bold; text-align:right">5,509</td>
+<td style="font-weight: bold; text-align:right">112,744</td>
 <td style="display:none" data-continent="Europe">Europe</td>
 </tr>
 <tr style="">
@@ -3445,7 +3445,7 @@ Follow @Worldometers</span></a>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/guatemala/">Guatemala</a></td>
 <td style="font-weight: bold; text-align:right">153</td>
-<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+16</td>
+ <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+16</td>
 <td style="font-weight: bold; text-align:right;">3 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
@@ -3523,6 +3523,22 @@ Follow @Worldometers</span></a>
 <td style="display:none" data-continent="Europe">Europe</td>
 </tr>
 <tr style="">
+<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/el-salvador/">El Salvador</a></td>
+<td style="font-weight: bold; text-align:right">125</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+7</td>
+<td style="font-weight: bold; text-align:right;">6 </td>
+<td style="font-weight: bold; 
+                                    text-align:right;"></td>
+<td style="font-weight: bold; text-align:right">21</td>
+ <td style="text-align:right;font-weight:bold;">98</td>
+<td style="font-weight: bold; text-align:right">3</td>
+<td style="font-weight: bold; text-align:right">19</td>
+<td style="font-weight: bold; text-align:right">0.9</td>
+<td style="font-weight: bold; text-align:right"></td>
+<td style="font-weight: bold; text-align:right"></td>
+<td style="display:none" data-continent="North America">North America</td>
+</tr>
+<tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/cambodia/">Cambodia</a></td>
 <td style="font-weight: bold; text-align:right">122</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+2</td>
@@ -3555,25 +3571,9 @@ Follow @Worldometers</span></a>
 <td style="display:none" data-continent="Africa">Africa</td>
 </tr>
 <tr style="">
-<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/el-salvador/">El Salvador</a></td>
-<td style="font-weight: bold; text-align:right">118</td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">6 </td>
-<td style="font-weight: bold; 
-                                    text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">19</td>
-<td style="text-align:right;font-weight:bold;">93</td>
-<td style="font-weight: bold; text-align:right">4</td>
-<td style="font-weight: bold; text-align:right">18</td>
-<td style="font-weight: bold; text-align:right">0.9</td>
-<td style="font-weight: bold; text-align:right"></td>
-<td style="font-weight: bold; text-align:right"></td>
-<td style="display:none" data-continent="North America">North America</td>
-</tr>
-<tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/trinidad-and-tobago/">Trinidad and Tobago</a></td>
 <td style="font-weight: bold; text-align:right">112</td>
-<td style="font-weight: bold; text-align:right;"></td>
+ <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;">8 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
@@ -3702,7 +3702,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/jamaica/">Jamaica</a></td>
 <td style="font-weight: bold; text-align:right">69</td>
 <td style="font-weight: bold; text-align:right;"></td>
- <td style="font-weight: bold; text-align:right;">4 </td>
+<td style="font-weight: bold; text-align:right;">4 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">13</td>
@@ -3745,7 +3745,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">747</td>
 <td style="font-weight: bold; text-align:right">2,599</td>
 <td style="display:none" data-continent="North America">North America</td>
-</tr>
+ </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/congo/">Congo</a></td>
 <td style="font-weight: bold; text-align:right">60</td>
@@ -3788,7 +3788,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">4</td>
 <td style="text-align:right;font-weight:bold;">49</td>
 <td style="font-weight: bold; text-align:right"></td>
-<td style="font-weight: bold; text-align:right">1</td>
+ <td style="font-weight: bold; text-align:right">1</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">4,856</td>
 <td style="font-weight: bold; text-align:right">106</td>
@@ -3843,6 +3843,22 @@ Follow @Worldometers</span></a>
 <td style="display:none" data-continent="North America">North America</td>
 </tr>
 <tr style="">
+<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/gabon/">Gabon</a></td>
+<td style="font-weight: bold; text-align:right">49</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+3</td>
+<td style="font-weight: bold; text-align:right;">1 </td>
+<td style="font-weight: bold; 
+                                    text-align:right;"></td>
+<td style="font-weight: bold; text-align:right">1</td>
+<td style="text-align:right;font-weight:bold;">47</td>
+<td style="font-weight: bold; text-align:right"></td>
+<td style="font-weight: bold; text-align:right">22</td>
+<td style="font-weight: bold; text-align:right">0.4</td>
+<td style="font-weight: bold; text-align:right"></td>
+<td style="font-weight: bold; text-align:right"></td>
+<td style="display:none" data-continent="Africa">Africa</td>
+</tr>
+<tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/liberia/">Liberia</a></td>
 <td style="font-weight: bold; text-align:right">48</td>
 <td style="font-weight: bold; text-align:right;"></td>
@@ -3858,7 +3874,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="display:none" data-continent="Africa">Africa</td>
 </tr>
-<tr style="">
+ <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/bahamas/">Bahamas</a></td>
 <td style="font-weight: bold; text-align:right">46</td>
 <td style="font-weight: bold; text-align:right;"></td>
@@ -3873,22 +3889,6 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="display:none" data-continent="North America">North America</td>
-</tr>
- <tr style="">
-<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/gabon/">Gabon</a></td>
-<td style="font-weight: bold; text-align:right">46</td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">1 </td>
-<td style="font-weight: bold; 
-                                    text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">1</td>
-<td style="text-align:right;font-weight:bold;">44</td>
-<td style="font-weight: bold; text-align:right"></td>
-<td style="font-weight: bold; text-align:right">21</td>
-<td style="font-weight: bold; text-align:right">0.4</td>
-<td style="font-weight: bold; text-align:right"></td>
-<td style="font-weight: bold; text-align:right"></td>
-<td style="display:none" data-continent="Africa">Africa</td>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/guyana/">Guyana</a></td>
@@ -4115,9 +4115,25 @@ Follow @Worldometers</span></a>
 <td style="display:none" data-continent="Africa">Africa</td>
 </tr>
 <tr style="">
+<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/maldives/">Maldives</a></td>
+<td style="font-weight: bold; text-align:right">20</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+1</td>
+<td style="font-weight: bold; text-align:right;"> </td>
+<td style="font-weight: bold; 
+                                    text-align:right;"></td>
+<td style="font-weight: bold; text-align:right">13</td>
+<td style="text-align:right;font-weight:bold;">7</td>
+<td style="font-weight: bold; text-align:right"></td>
+<td style="font-weight: bold; text-align:right">37</td>
+<td style="font-weight: bold; text-align:right"></td>
+<td style="font-weight: bold; text-align:right"></td>
+<td style="font-weight: bold; text-align:right"></td>
+<td style="display:none" data-continent="Asia">Asia</td>
+</tr>
+<tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/mozambique/">Mozambique</a></td>
 <td style="font-weight: bold; text-align:right">20</td>
-<td style="font-weight: bold; text-align:right;"></td>
+ <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;"> </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
@@ -4161,22 +4177,6 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="display:none" data-continent="Africa">Africa</td>
-</tr>
-<tr style="">
-<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/maldives/">Maldives</a></td>
-<td style="font-weight: bold; text-align:right">19</td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;"> </td>
-<td style="font-weight: bold; 
-                                    text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">13</td>
-<td style="text-align:right;font-weight:bold;">6</td>
-<td style="font-weight: bold; text-align:right"></td>
-<td style="font-weight: bold; text-align:right">35</td>
-<td style="font-weight: bold; text-align:right"></td>
-<td style="font-weight: bold; text-align:right"></td>
-<td style="font-weight: bold; text-align:right"></td>
-<td style="display:none" data-continent="Asia">Asia</td>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/equatorial-guinea/">Equatorial Guinea</a></td>
@@ -4297,8 +4297,8 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right;"> </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">1</td>
-<td style="text-align:right;font-weight:bold;">14</td>
+<td style="font-weight: bold; text-align:right">4</td>
+<td style="text-align:right;font-weight:bold;">11</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">82</td>
 <td style="font-weight: bold; text-align:right"></td>
@@ -4307,7 +4307,7 @@ Follow @Worldometers</span></a>
 <td style="display:none" data-continent="North America">North America</td>
 </tr>
 <tr style="">
-<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/zimbabwe/">Zimbabwe</a></td>
+ <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/zimbabwe/">Zimbabwe</a></td>
 <td style="font-weight: bold; text-align:right">14</td>
 <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;">3 </td>
@@ -4349,10 +4349,26 @@ Follow @Worldometers</span></a>
 <td style="text-align:right;font-weight:bold;">14</td>
 <td style="font-weight: bold; text-align:right">2</td>
 <td style="font-weight: bold; text-align:right">124</td>
-<td style="font-weight: bold; text-align:right"></td>
+ <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">92</td>
 <td style="font-weight: bold; text-align:right">818</td>
 <td style="display:none" data-continent="North America">North America</td>
+</tr>
+<tr style="">
+<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/swaziland/">Eswatini</a></td>
+<td style="font-weight: bold; text-align:right">14</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+2</td>
+<td style="font-weight: bold; text-align:right;"> </td>
+<td style="font-weight: bold; 
+                                    text-align:right;"></td>
+<td style="font-weight: bold; text-align:right">7</td>
+<td style="text-align:right;font-weight:bold;">7</td>
+<td style="font-weight: bold; text-align:right"></td>
+<td style="font-weight: bold; text-align:right">12</td>
+<td style="font-weight: bold; text-align:right"></td>
+<td style="font-weight: bold; text-align:right"></td>
+<td style="font-weight: bold; text-align:right"></td>
+<td style="display:none" data-continent="Africa">Africa</td>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/belize/">Belize</a></td>
@@ -4451,22 +4467,6 @@ Follow @Worldometers</span></a>
 <td style="display:none" data-continent="North America">North America</td>
 </tr>
 <tr style="">
-<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/swaziland/">Eswatini</a></td>
-<td style="font-weight: bold; text-align:right">12</td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;"> </td>
-<td style="font-weight: bold; 
-                                    text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">7</td>
-<td style="text-align:right;font-weight:bold;">5</td>
-<td style="font-weight: bold; text-align:right"></td>
-<td style="font-weight: bold; text-align:right">10</td>
-<td style="font-weight: bold; text-align:right"></td>
-<td style="font-weight: bold; text-align:right"></td>
-<td style="font-weight: bold; text-align:right"></td>
-<td style="display:none" data-continent="Africa">Africa</td>
-</tr>
-<tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/chad/">Chad</a></td>
 <td style="font-weight: bold; text-align:right">11</td>
 <td style="font-weight: bold; text-align:right;"></td>
@@ -4521,7 +4521,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right;">1 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">4</td>
+ <td style="font-weight: bold; text-align:right">4</td>
 <td style="text-align:right;font-weight:bold;">5</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">17</td>
@@ -4565,7 +4565,7 @@ Follow @Worldometers</span></a>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/gambia/">Gambia</a></td>
 <td style="font-weight: bold; text-align:right">9</td>
- <td style="font-weight: bold; text-align:right;"></td>
+<td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;">1 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
@@ -4650,7 +4650,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right"></td>
-<td style="text-align:right;font-weight:bold;">8</td>
+ <td style="text-align:right;font-weight:bold;">8</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">2</td>
 <td style="font-weight: bold; text-align:right"></td>
@@ -4697,8 +4697,8 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right;"> </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">1</td>
-<td style="text-align:right;font-weight:bold;">5</td>
+<td style="font-weight: bold; text-align:right">4</td>
+<td style="text-align:right;font-weight:bold;">2</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">607</td>
 <td style="font-weight: bold; text-align:right"></td>
@@ -4737,8 +4737,8 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">1,166</td>
 <td style="font-weight: bold; text-align:right">1,511</td>
 <td style="display:none" data-continent="Asia">Asia</td>
-</tr>
- <tr style="">
+ </tr>
+<tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/burundi/">Burundi</a></td>
 <td style="font-weight: bold; text-align:right">5</td>
 <td style="font-weight: bold; text-align:right;"></td>
@@ -4780,13 +4780,13 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="text-align:right;font-weight:bold;">4</td>
 <td style="font-weight: bold; text-align:right"></td>
- <td style="font-weight: bold; text-align:right">18</td>
+<td style="font-weight: bold; text-align:right">18</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">19</td>
 <td style="font-weight: bold; text-align:right">87</td>
 <td style="display:none" data-continent="Africa">Africa</td>
 </tr>
- <tr style="">
+<tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/south-sudan/">South Sudan</a></td>
 <td style="font-weight: bold; text-align:right">4</td>
 <td style="font-weight: bold; text-align:right;"></td>
@@ -4822,7 +4822,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/british-virgin-islands/">British Virgin Islands</a></td>
 <td style="font-weight: bold; text-align:right">3</td>
 <td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;"> </td>
+<td style="font-weight: bold; text-align:right;">  </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">2</td>
@@ -4836,15 +4836,15 @@ Follow @Worldometers</span></a>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/caribbean-netherlands/">Caribbean Netherlands</a></td>
-<td style="font-weight: bold; text-align:right">2</td>
-<td style="font-weight: bold; text-align:right;"></td>
+<td style="font-weight: bold; text-align:right">3</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+1</td>
 <td style="font-weight: bold; text-align:right;"> </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right"></td>
-<td style="text-align:right;font-weight:bold;">2</td>
+<td style="text-align:right;font-weight:bold;">3</td>
 <td style="font-weight: bold; text-align:right"></td>
-<td style="font-weight: bold; text-align:right">76</td>
+<td style="font-weight: bold; text-align:right">114</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">10</td>
 <td style="font-weight: bold; text-align:right">381</td>
@@ -4871,7 +4871,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">2</td>
 <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;"> </td>
- <td style="font-weight: bold; 
+<td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">1</td>
 <td style="text-align:right;font-weight:bold;">1</td>
@@ -4908,7 +4908,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="text-align:right;font-weight:bold;">1</td>
 <td style="font-weight: bold; text-align:right"></td>
-<td style="font-weight: bold; text-align:right">0.03</td>
+ <td style="font-weight: bold; text-align:right">0.03</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right"></td>
@@ -4934,13 +4934,13 @@ Follow @Worldometers</span></a>
 <tbody>
 <tr class="row_continent total_row" data-continent="North America" style="display: none">
 <td><strong>Total:</strong></td>
-<td>569,343</td>
-<td style="background-color:#FFEEAA; color:#000;">+394</td>
-<td>21,833</td>
-<td style="background-color:red; color:#fff">+41</td>
-<td>39,224</td>
-<td>508,286</td>
-<td>12,463</td>
+<td>569,587</td>
+<td style="background-color:#FFEEAA; color:#000;">+638</td>
+<td>21,836</td>
+<td style="background-color:red; color:#fff">+44</td>
+<td>39,281</td>
+<td>508,470</td>
+<td>12,462</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4949,28 +4949,28 @@ Follow @Worldometers</span></a>
 </tr>
 <tr class="row_continent total_row" data-continent="Europe" style="display: none">
 <td><strong>Total:</strong></td>
-<td>852,899</td>
-<td style=""></td>
-<td>73,625</td>
-<td style=""></td>
-<td>210,127</td>
-<td>569,147</td>
-<td>29,996</td>
+<td>857,878</td>
+<td style="background-color:#FFEEAA; color:#000;">+4,979</td>
+<td>73,968</td>
+<td style="background-color:red; color:#fff">+343</td>
+<td>211,384</td>
+<td>572,526</td>
+<td>29,969</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td style="display:none;" data-continent="Europe">Europe</td>
 </tr>
-<tr class="row_continent total_row" data-continent="Asia" style="display: none">
+ <tr class="row_continent total_row" data-continent="Asia" style="display: none">
 <td><strong>Total:</strong></td>
-<td>287,434</td>
-<td style="background-color:#FFEEAA; color:#000;">+250</td>
-<td>10,603</td>
-<td style="background-color:red; color:#fff">+6</td>
-<td>142,982</td>
-<td>133,849</td>
-<td>6,611</td>
+<td>288,764</td>
+<td style="background-color:#FFEEAA; color:#000;">+1,580</td>
+<td>10,709</td>
+<td style="background-color:red; color:#fff">+112</td>
+<td>143,304</td>
+<td>134,751</td>
+<td>6,604</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4994,13 +4994,13 @@ Follow @Worldometers</span></a>
 </tr>
 <tr class="row_continent total_row" data-continent="Australia/Oceania" style="display: none">
 <td><strong>Total:</strong></td>
-<td>7,720</td>
-<td style="background-color:#FFEEAA; color:#000;">+18</td>
+<td>7,730</td>
+<td style="background-color:#FFEEAA; color:#000;">+28</td>
 <td>63</td>
 <td style="background-color:red; color:#fff">+3</td>
-<td>3,737</td>
-<td>3,920</td>
-<td>85</td>
+<td>3,810</td>
+<td>3,857</td>
+<td>86</td>
 <td></td>
 <td></td>
 <td></td>
@@ -5009,12 +5009,12 @@ Follow @Worldometers</span></a>
 </tr>
 <tr class="row_continent total_row" data-continent="Africa" style="display: none">
 <td><strong>Total:</strong></td>
-<td>14,220</td>
-<td style=""></td>
-<td>745</td>
-<td style=""></td>
-<td>2,458</td>
-<td>11,017</td>
+<td>14,297</td>
+<td style="background-color:#FFEEAA; color:#000;">+77</td>
+<td>747</td>
+<td style="background-color:red; color:#fff">+2</td>
+<td>2,465</td>
+<td>11,085</td>
 <td>174</td>
 <td></td>
 <td></td>
@@ -5023,7 +5023,7 @@ Follow @Worldometers</span></a>
 <td style="display:none;" data-continent="Africa">Africa</td>
 </tr>
 <tr class="row_continent total_row" data-continent="" style="display: none">
-<td><strong>Total:</strong></td>
+ <td><strong>Total:</strong></td>
 <td>721</td>
 <td style=""></td>
 <td>13</td>
@@ -5037,18 +5037,18 @@ Follow @Worldometers</span></a>
 <td></td>
 <td style="display:none;" data-continent=""></td>
 </tr>
- </tbody>
+</tbody>
 <tbody class="total_row_body">
 <tr class="total_row">
 <td><strong>Total:</strong></td>
-<td>1,780,440</td>
-<td style="background-color:#FFEEAA; color:#000;">+697</td>
-<td>108,834</td>
-<td style="background-color:red; color:#fff">+55</td>
-<td>404,393</td>
-<td>1,267,213</td>
-<td>50,582</td>
-<td>228.4</td>
+<td>1,787,080</td>
+<td style="background-color:#FFEEAA; color:#000;">+7,337</td>
+<td>109,288</td>
+<td style="background-color:red; color:#fff">+509</td>
+<td>406,109</td>
+<td>1,271,683</td>
+<td>50,548</td>
+<td>229.3</td>
 <td>14.0</td>
 <td></td>
 <td></td>
@@ -5098,7 +5098,7 @@ Follow @Worldometers</span></a>
 <td></td>
 <td style="display:none;" data-continent="Asia">Asia</td>
 </tr>
-<tr class="total_row_world row_continent" data-continent="North America" style="display: none">
+ <tr class="total_row_world row_continent" data-continent="North America" style="display: none">
 <td style="text-align:left;">
 <nobr>North America</nobr>
 </td>
@@ -5184,7 +5184,7 @@ Follow @Worldometers</span></a>
 <td style="display:none;" data-continent="Africa">Africa</td>
 </tr>
 <tr class="total_row_world row_continent" data-continent="" style="display: none">
- <td style="text-align:left;">
+<td style="text-align:left;">
 <nobr></nobr>
 </td>
 <td>721</td>
@@ -5234,13 +5234,13 @@ Follow @Worldometers</span></a>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/us/">USA</a></td>
 <td style="font-weight: bold; text-align:right">532,879</td>
-<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+30,003</td>
+ <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+30,003</td>
 <td style="font-weight: bold; text-align:right;">20,577 </td>
 <td style="font-weight: bold; 
                                     text-align:right;background-color:red; color:white">+1,830</td>
 <td style="font-weight: bold; text-align:right">30,453</td>
 <td style="text-align:right;font-weight:bold;">481,849</td>
- <td style="font-weight: bold; text-align:right">11,471</td>
+<td style="font-weight: bold; text-align:right">11,471</td>
 <td style="font-weight: bold; text-align:right">1,610</td>
 <td style="font-weight: bold; text-align:right">62</td>
 <td style="font-weight: bold; text-align:right">2,670,674</td>
@@ -5359,11 +5359,11 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">4,036</td>
 <td style="display:none" data-continent="Asia">Asia</td>
 </tr>
-<tr style="">
+ <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/belgium/">Belgium</a></td>
 <td style="font-weight: bold; text-align:right">28,018</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+1,351</td>
- <td style="font-weight: bold; text-align:right;">3,346 </td>
+<td style="font-weight: bold; text-align:right;">3,346 </td>
 <td style="font-weight: bold; 
                                     text-align:right;background-color:red; color:white">+327</td>
 <td style="font-weight: bold; text-align:right">5,986</td>
@@ -5399,11 +5399,11 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; 
                                     text-align:right;background-color:red; color:white">+132</td>
 <td style="font-weight: bold; text-align:right">250</td>
-<td style="text-align:right;font-weight:bold;">21,520</td>
+ <td style="text-align:right;font-weight:bold;">21,520</td>
 <td style="font-weight: bold; text-align:right">1,384</td>
 <td style="font-weight: bold; text-align:right">1,425</td>
 <td style="font-weight: bold; text-align:right">154</td>
- <td style="font-weight: bold; text-align:right">101,534</td>
+<td style="font-weight: bold; text-align:right">101,534</td>
 <td style="font-weight: bold; text-align:right">5,926</td>
 <td style="display:none" data-continent="Europe">Europe</td>
 </tr>
@@ -5444,7 +5444,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">15,987</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+515</td>
 <td style="font-weight: bold; text-align:right;">470 </td>
- <td style="font-weight: bold; 
+<td style="font-weight: bold; 
                                     text-align:right;background-color:red; color:white">+35</td>
 <td style="font-weight: bold; text-align:right">266</td>
 <td style="text-align:right;font-weight:bold;">15,251</td>
@@ -5485,7 +5485,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">0.7</td>
 <td style="font-weight: bold; text-align:right">1,184,442</td>
 <td style="font-weight: bold; text-align:right">8,116</td>
- <td style="display:none" data-continent="Europe">Europe</td>
+<td style="display:none" data-continent="Europe">Europe</td>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/israel/">Israel</a></td>
@@ -5522,11 +5522,11 @@ Follow @Worldometers</span></a>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/sweden/">Sweden</a></td>
 <td style="font-weight: bold; text-align:right">10,151</td>
-<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+466</td>
+ <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+466</td>
 <td style="font-weight: bold; text-align:right;">887 </td>
 <td style="font-weight: bold; 
                                     text-align:right;background-color:red; color:white">+17</td>
- <td style="font-weight: bold; text-align:right">381</td>
+<td style="font-weight: bold; text-align:right">381</td>
 <td style="text-align:right;font-weight:bold;">8,883</td>
 <td style="font-weight: bold; text-align:right">789</td>
 <td style="font-weight: bold; text-align:right">1,005</td>
@@ -5603,7 +5603,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/peru/">Peru</a></td>
 <td style="font-weight: bold; text-align:right">6,848</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+951</td>
-<td style="font-weight: bold; text-align:right;">181 </td>
+<td style="font-weight: bold; text-align:right;">181  </td>
 <td style="font-weight: bold; 
                                     text-align:right;background-color:red; color:white">+12</td>
 <td style="font-weight: bold; text-align:right">1,739</td>
@@ -5645,7 +5645,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">22</td>
 <td style="font-weight: bold; text-align:right">124,279</td>
 <td style="font-weight: bold; text-align:right">22,924</td>
-<td style="display:none" data-continent="Europe">Europe</td>
+ <td style="display:none" data-continent="Europe">Europe</td>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/poland/">Poland</a></td>
@@ -5731,7 +5731,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/pakistan/">Pakistan</a></td>
 <td style="font-weight: bold; text-align:right">5,011</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+316</td>
- <td style="font-weight: bold; text-align:right;">86 </td>
+<td style="font-weight: bold; text-align:right;">86 </td>
 <td style="font-weight: bold; 
                                     text-align:right;background-color:red; color:white">+20</td>
 <td style="font-weight: bold; text-align:right">762</td>
@@ -5772,7 +5772,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">40</td>
 <td style="font-weight: bold; text-align:right">2</td>
 <td style="font-weight: bold; text-align:right">24,500</td>
- <td style="font-weight: bold; text-align:right">224</td>
+<td style="font-weight: bold; text-align:right">224</td>
 <td style="display:none" data-continent="Asia">Asia</td>
 </tr>
 <tr style="">
@@ -5850,12 +5850,12 @@ Follow @Worldometers</span></a>
 <td style="text-align:right;font-weight:bold;">3,188</td>
 <td style="font-weight: bold; text-align:right">145</td>
 <td style="font-weight: bold; text-align:right">387</td>
-<td style="font-weight: bold; text-align:right">8</td>
+ <td style="font-weight: bold; text-align:right">8</td>
 <td style="font-weight: bold; text-align:right">16,399</td>
 <td style="font-weight: bold; text-align:right">1,877</td>
 <td style="display:none" data-continent="Europe">Europe</td>
 </tr>
- <tr style="">
+<tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/luxembourg/">Luxembourg</a></td>
 <td style="font-weight: bold; text-align:right">3,270</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+47</td>
@@ -5895,7 +5895,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; 
                                     text-align:right;background-color:red; color:white">+1</td>
 <td style="font-weight: bold; text-align:right">300</td>
- <td style="text-align:right;font-weight:bold;">2,556</td>
+<td style="text-align:right;font-weight:bold;">2,556</td>
 <td style="font-weight: bold; text-align:right">80</td>
 <td style="font-weight: bold; text-align:right">524</td>
 <td style="font-weight: bold; text-align:right">9</td>
@@ -5937,7 +5937,7 @@ Follow @Worldometers</span></a>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/colombia/">Colombia</a></td>
- <td style="font-weight: bold; text-align:right">2,709</td>
+<td style="font-weight: bold; text-align:right">2,709</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+236</td>
 <td style="font-weight: bold; text-align:right;">100 </td>
 <td style="font-weight: bold; 
@@ -6015,11 +6015,11 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">5,609</td>
 <td style="display:none" data-continent="Europe">Europe</td>
 </tr>
-<tr style="">
+ <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/argentina/">Argentina</a></td>
 <td style="font-weight: bold; text-align:right">2,142</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+167</td>
- <td style="font-weight: bold; text-align:right;">89 </td>
+<td style="font-weight: bold; text-align:right;">89 </td>
 <td style="font-weight: bold; 
                                     text-align:right;background-color:red; color:white">+7</td>
 <td style="font-weight: bold; text-align:right">440</td>
@@ -6055,7 +6055,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; 
                                     text-align:right;background-color:red; color:white">+1</td>
 <td style="font-weight: bold; text-align:right">410</td>
-<td style="text-align:right;font-weight:bold;">1,593</td>
+ <td style="text-align:right;font-weight:bold;">1,593</td>
 <td style="font-weight: bold; text-align:right">7</td>
 <td style="font-weight: bold; text-align:right">34</td>
 <td style="font-weight: bold; text-align:right">0.4</td>
@@ -6138,12 +6138,12 @@ Follow @Worldometers</span></a>
 <td style="text-align:right;font-weight:bold;">1,288</td>
 <td style="font-weight: bold; text-align:right">1</td>
 <td style="font-weight: bold; text-align:right">42</td>
-<td style="font-weight: bold; text-align:right">3</td>
+ <td style="font-weight: bold; text-align:right">3</td>
 <td style="font-weight: bold; text-align:right">7,734</td>
 <td style="font-weight: bold; text-align:right">210</td>
 <td style="display:none" data-continent="Africa">Africa</td>
 </tr>
- <tr style="">
+<tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/croatia/">Croatia</a></td>
 <td style="font-weight: bold; text-align:right">1,534</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+39</td>
@@ -6179,7 +6179,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/new-zealand/">New Zealand</a></td>
 <td style="font-weight: bold; text-align:right">1,312</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+29</td>
-<td style="font-weight: bold; text-align:right;">4 </td>
+<td style="font-weight: bold; text-align:right;">4  </td>
 <td style="font-weight: bold; 
                                     text-align:right;background-color:red; color:white">+2</td>
 <td style="font-weight: bold; text-align:right">422</td>
@@ -6221,12 +6221,12 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">18</td>
 <td style="font-weight: bold; text-align:right">29,456</td>
 <td style="font-weight: bold; text-align:right">22,205</td>
-<td style="display:none" data-continent="Europe">Europe</td>
+ <td style="display:none" data-continent="Europe">Europe</td>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/slovenia/">Slovenia</a></td>
 <td style="font-weight: bold; text-align:right">1,188</td>
- <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+28</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+28</td>
 <td style="font-weight: bold; text-align:right;">50 </td>
 <td style="font-weight: bold; 
                                     text-align:right;background-color:red; color:white">+5</td>
@@ -6263,7 +6263,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; 
                                     text-align:right;background-color:red; color:white">+1</td>
 <td style="font-weight: bold; text-align:right">200</td>
-<td style="text-align:right;font-weight:bold;">847</td>
+ <td style="text-align:right;font-weight:bold;">847</td>
 <td style="font-weight: bold; text-align:right">27</td>
 <td style="font-weight: bold; text-align:right">104</td>
 <td style="font-weight: bold; text-align:right">1</td>
@@ -6275,7 +6275,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/bahrain/">Bahrain</a></td>
 <td style="font-weight: bold; text-align:right">1,040</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+115</td>
- <td style="font-weight: bold; text-align:right;">6 </td>
+<td style="font-weight: bold; text-align:right;">6 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">555</td>
@@ -6358,7 +6358,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right;">10 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
- <td style="font-weight: bold; text-align:right">81</td>
+<td style="font-weight: bold; text-align:right">81</td>
 <td style="text-align:right;font-weight:bold;">774</td>
 <td style="font-weight: bold; text-align:right">21</td>
 <td style="font-weight: bold; text-align:right">46</td>
@@ -6388,7 +6388,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">767</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+143</td>
 <td style="font-weight: bold; text-align:right;">4 </td>
-<td style="font-weight: bold; 
+ <td style="font-weight: bold; 
                                     text-align:right;background-color:red; color:white">+1</td>
 <td style="font-weight: bold; text-align:right">42</td>
 <td style="text-align:right;font-weight:bold;">721</td>
@@ -6442,7 +6442,7 @@ Follow @Worldometers</span></a>
 <td style="text-align:right;font-weight:bold;">82</td>
 <td style="font-weight: bold; text-align:right">10</td>
 <td style="font-weight: bold; text-align:right"></td>
- <td style="font-weight: bold; text-align:right"></td>
+<td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="display:none" data-continent=""></td>
@@ -6483,7 +6483,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/latvia/">Latvia</a></td>
 <td style="font-weight: bold; text-align:right">630</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+18</td>
-<td style="font-weight: bold; text-align:right;">3  </td>
+<td style="font-weight: bold; text-align:right;">3 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">16</td>
@@ -6514,7 +6514,7 @@ Follow @Worldometers</span></a>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/lebanon/">Lebanon</a></td>
 <td style="font-weight: bold; text-align:right">619</td>
-<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+10</td>
+ <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+10</td>
 <td style="font-weight: bold; text-align:right;">20 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
@@ -6526,7 +6526,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">14,055</td>
 <td style="font-weight: bold; text-align:right">2,059</td>
 <td style="display:none" data-continent="Asia">Asia</td>
- </tr>
+</tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/cyprus/">Cyprus</a></td>
 <td style="font-weight: bold; text-align:right">616</td>
@@ -6556,7 +6556,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">7,778</td>
 <td style="font-weight: bold; text-align:right">337</td>
 <td style="font-weight: bold; text-align:right">1,673</td>
-<td style="font-weight: bold; text-align:right">21,653</td>
+ <td style="font-weight: bold; text-align:right">21,653</td>
 <td style="display:none" data-continent="Europe">Europe</td>
 </tr>
 <tr style="">
@@ -6568,7 +6568,7 @@ Follow @Worldometers</span></a>
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">49</td>
 <td style="text-align:right;font-weight:bold;">525</td>
- <td style="font-weight: bold; text-align:right">13</td>
+<td style="font-weight: bold; text-align:right">13</td>
 <td style="font-weight: bold; text-align:right">113</td>
 <td style="font-weight: bold; text-align:right">0.6</td>
 <td style="font-weight: bold; text-align:right">6,608</td>
@@ -6694,7 +6694,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right;">23 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
- <td style="font-weight: bold; text-align:right">197</td>
+<td style="font-weight: bold; text-align:right">197</td>
 <td style="text-align:right;font-weight:bold;">213</td>
 <td style="font-weight: bold; text-align:right">7</td>
 <td style="font-weight: bold; text-align:right">150</td>
@@ -6807,7 +6807,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; 
                                     text-align:right;background-color:red; color:white">+1</td>
 <td style="font-weight: bold; text-align:right">16</td>
-<td style="text-align:right;font-weight:bold;">351</td>
+ <td style="text-align:right;font-weight:bold;">351</td>
 <td style="font-weight: bold; text-align:right">4</td>
 <td style="font-weight: bold; text-align:right">838</td>
 <td style="font-weight: bold; text-align:right">7</td>
@@ -6819,7 +6819,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/san-marino/">San Marino</a></td>
 <td style="font-weight: bold; text-align:right">356</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+12</td>
-<td style="font-weight: bold; text-align:right;">35  </td>
+<td style="font-weight: bold; text-align:right;">35 </td>
 <td style="font-weight: bold; 
                                     text-align:right;background-color:red; color:white">+1</td>
 <td style="font-weight: bold; text-align:right">53</td>
@@ -6850,7 +6850,7 @@ Follow @Worldometers</span></a>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/mauritius/">Mauritius</a></td>
 <td style="font-weight: bold; text-align:right">319</td>
-<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+1</td>
+ <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+1</td>
 <td style="font-weight: bold; text-align:right;">9 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
@@ -6903,7 +6903,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; 
                                     text-align:right;background-color:red; color:white">+1</td>
 <td style="font-weight: bold; text-align:right">2</td>
- <td style="text-align:right;font-weight:bold;">253</td>
+<td style="text-align:right;font-weight:bold;">253</td>
 <td style="font-weight: bold; text-align:right">3</td>
 <td style="font-weight: bold; text-align:right">24</td>
 <td style="font-weight: bold; text-align:right">2</td>
@@ -7059,7 +7059,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/kenya/">Kenya</a></td>
 <td style="font-weight: bold; text-align:right">191</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+2</td>
-<td style="font-weight: bold; text-align:right;">7 </td>
+<td style="font-weight: bold; text-align:right;">7  </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">24</td>
@@ -7357,7 +7357,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right"></td>
-<td style="display:none" data-continent="South America">South America</td>
+ <td style="display:none" data-continent="South America">South America</td>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/liechtenstein/">Liechtenstein</a></td>
@@ -7372,7 +7372,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">2,072</td>
 <td style="font-weight: bold; text-align:right">26</td>
 <td style="font-weight: bold; text-align:right">900</td>
- <td style="font-weight: bold; text-align:right">23,605</td>
+<td style="font-weight: bold; text-align:right">23,605</td>
 <td style="display:none" data-continent="Europe">Europe</td>
 </tr>
 <tr style="">
@@ -7415,7 +7415,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">10</td>
- <td style="text-align:right;font-weight:bold;">56</td>
+<td style="text-align:right;font-weight:bold;">56</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">0.6</td>
 <td style="font-weight: bold; text-align:right">0.03</td>
@@ -7485,7 +7485,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">4,856</td>
 <td style="font-weight: bold; text-align:right">106</td>
-<td style="display:none" data-continent="Africa">Africa</td>
+ <td style="display:none" data-continent="Africa">Africa</td>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/french-polynesia/">French Polynesia</a></td>
@@ -7500,7 +7500,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">182</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">744</td>
- <td style="font-weight: bold; text-align:right">2,649</td>
+<td style="font-weight: bold; text-align:right">2,649</td>
 <td style="display:none" data-continent="Australia/Oceania">Australia/Oceania</td>
 </tr>
 <tr style="">
@@ -7527,7 +7527,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">3</td>
-<td style="text-align:right;font-weight:bold;">40</td>
+ <td style="text-align:right;font-weight:bold;">40</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">9</td>
 <td style="font-weight: bold; text-align:right">1.0</td>
@@ -7628,7 +7628,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">2</td>
 <td style="font-weight: bold; text-align:right">0.1</td>
 <td style="font-weight: bold; text-align:right">1,239</td>
- <td style="font-weight: bold; text-align:right">67</td>
+<td style="font-weight: bold; text-align:right">67</td>
 <td style="display:none" data-continent="Africa">Africa</td>
 </tr>
 <tr style="">
@@ -7652,7 +7652,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">38</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+2</td>
 <td style="font-weight: bold; text-align:right;"> </td>
-<td style="font-weight: bold; 
+ <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="text-align:right;font-weight:bold;">38</td>
@@ -7671,7 +7671,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">5</td>
- <td style="text-align:right;font-weight:bold;">29</td>
+<td style="text-align:right;font-weight:bold;">29</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">3</td>
 <td style="font-weight: bold; text-align:right">0.08</td>
@@ -7714,7 +7714,7 @@ Follow @Worldometers</span></a>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/tanzania/">Tanzania</a></td>
 <td style="font-weight: bold; text-align:right">32</td>
- <td style="font-weight: bold; text-align:right;"></td>
+<td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;">3 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
@@ -7757,7 +7757,6 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">0.1</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right"></td>
-
 <td style="display:none" data-continent="Asia">Asia</td>
 </tr>
 <tr style="">
@@ -7826,7 +7825,7 @@ Follow @Worldometers</span></a>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/angola/">Angola</a></td>
-<td style="font-weight: bold; text-align:right">19</td>
+ <td style="font-weight: bold; text-align:right">19</td>
 <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;">2 </td>
 <td style="font-weight: bold; 
@@ -7844,7 +7843,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/sudan/">Sudan</a></td>
 <td style="font-weight: bold; text-align:right">19</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+2</td>
- <td style="font-weight: bold; text-align:right;">2 </td>
+<td style="font-weight: bold; text-align:right;">2 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">2</td>
@@ -7869,7 +7868,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">35</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right"></td>
-<td style="font-weight: bold; text-align:right"></td>
+ <td style="font-weight: bold; text-align:right"></td>
 <td style="display:none" data-continent="Asia">Asia</td>
 </tr>
 <tr style="">
@@ -7912,7 +7911,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">1</td>
-<td style="text-align:right;font-weight:bold;">17</td>
+ <td style="text-align:right;font-weight:bold;">17</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">63</td>
 <td style="font-weight: bold; text-align:right"></td>
@@ -7955,7 +7954,7 @@ Follow @Worldometers</span></a>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/mongolia/">Mongolia</a></td>
 <td style="font-weight: bold; text-align:right">16</td>
-<td style="font-weight: bold; text-align:right;"></td>
+ <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;"> </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
@@ -7973,7 +7972,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">16</td>
 <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;"> </td>
- <td style="font-weight: bold; 
+<td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">3</td>
 <td style="text-align:right;font-weight:bold;">13</td>
@@ -8041,7 +8040,7 @@ Follow @Worldometers</span></a>
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="text-align:right;font-weight:bold;">14</td>
-<td style="font-weight: bold; text-align:right">2</td>
+ <td style="font-weight: bold; text-align:right">2</td>
 <td style="font-weight: bold; text-align:right">124</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">92</td>
@@ -8059,7 +8058,7 @@ Follow @Worldometers</span></a>
 <td style="text-align:right;font-weight:bold;">11</td>
 <td style="font-weight: bold; text-align:right">1</td>
 <td style="font-weight: bold; text-align:right">33</td>
- <td style="font-weight: bold; text-align:right">5</td>
+<td style="font-weight: bold; text-align:right">5</td>
 <td style="font-weight: bold; text-align:right">364</td>
 <td style="font-weight: bold; text-align:right">915</td>
 <td style="display:none" data-continent="North America">North America</td>
@@ -8084,7 +8083,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/malawi/">Malawi</a></td>
 <td style="font-weight: bold; text-align:right">12</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+3</td>
-<td style="font-weight: bold; text-align:right;">2 </td>
+ <td style="font-weight: bold; text-align:right;">2 </td>
 <td style="font-weight: bold; 
                                     text-align:right;background-color:red; color:white">+1</td>
 <td style="font-weight: bold; text-align:right"></td>
@@ -8101,7 +8100,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">12</td>
 <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;"> </td>
- <td style="font-weight: bold; 
+<td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="text-align:right;font-weight:bold;">12</td>
@@ -8126,7 +8125,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">56</td>
 <td style="font-weight: bold; text-align:right">505</td>
-<td style="display:none" data-continent="North America">North America</td>
+ <td style="display:none" data-continent="North America">North America</td>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/swaziland/">Eswatini</a></td>
@@ -8145,7 +8144,7 @@ Follow @Worldometers</span></a>
 <td style="display:none" data-continent="Africa">Africa</td>
 </tr>
 <tr style="">
- <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/chad/">Chad</a></td>
+<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/chad/">Chad</a></td>
 <td style="font-weight: bold; text-align:right">11</td>
 <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;"> </td>
@@ -8187,7 +8186,7 @@ Follow @Worldometers</span></a>
 <td style="text-align:right;font-weight:bold;">11</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">112</td>
- <td style="font-weight: bold; text-align:right"></td>
+<td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="display:none" data-continent="Africa">Africa</td>
@@ -8212,7 +8211,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/sierra-leone/">Sierra Leone</a></td>
 <td style="font-weight: bold; text-align:right">10</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+2</td>
-<td style="font-weight: bold; text-align:right;"> </td>
+ <td style="font-weight: bold; text-align:right;"> </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right"></td>
@@ -8322,7 +8321,7 @@ Follow @Worldometers</span></a>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/cabo-verde/">Cabo Verde</a></td>
- <td style="font-weight: bold; text-align:right">8</td>
+<td style="font-weight: bold; text-align:right">8</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+1</td>
 <td style="font-weight: bold; text-align:right;">1 </td>
 <td style="font-weight: bold; 
@@ -8408,7 +8407,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right"></td>
- <td style="text-align:right;font-weight:bold;">6</td>
+<td style="text-align:right;font-weight:bold;">6</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">10</td>
 <td style="font-weight: bold; text-align:right"></td>
@@ -8451,7 +8450,7 @@ Follow @Worldometers</span></a>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/falkland-islands-malvinas/">Falkland Islands</a></td>
 <td style="font-weight: bold; text-align:right">5</td>
- <td style="font-weight: bold; text-align:right;"></td>
+<td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;"> </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
@@ -8469,7 +8468,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; text-align:right">4</td>
 <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;"> </td>
-<td style="font-weight: bold; 
+ <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="text-align:right;font-weight:bold;">4</td>
@@ -8536,7 +8535,7 @@ Follow @Worldometers</span></a>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right"></td>
- <td style="text-align:right;font-weight:bold;">2</td>
+<td style="text-align:right;font-weight:bold;">2</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">76</td>
 <td style="font-weight: bold; text-align:right"></td>
@@ -8555,7 +8554,7 @@ Follow @Worldometers</span></a>
 <td style="text-align:right;font-weight:bold;">2</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">0.2</td>
-<td style="font-weight: bold; text-align:right"></td>
+ <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">72</td>
 <td style="font-weight: bold; text-align:right">8</td>
 <td style="display:none" data-continent="Australia/Oceania">Australia/Oceania</td>
@@ -8656,7 +8655,7 @@ Follow @Worldometers</span></a>
 <td style="display:none;" data-continent="Europe">Europe</td>
 </tr>
 <tr class="row_continent total_row" data-continent="South America" style="display: none">
-<td><strong>Total:</strong></td>
+ <td><strong>Total:</strong></td>
 <td>48,068</td>
 <td style="background-color:#FFEEAA; color:#000;">+3,092</td>
 <td>1,947</td>
@@ -8690,7 +8689,7 @@ Follow @Worldometers</span></a>
 <td>14,220</td>
 <td style="background-color:#FFEEAA; color:#000;">+681</td>
 <td>745</td>
- <td style="background-color:red; color:#fff">+48</td>
+<td style="background-color:red; color:#fff">+48</td>
 <td>2,457</td>
 <td>11,018</td>
 <td>172</td>
@@ -8759,6 +8758,7 @@ The &quot;New&quot; columns for China display the previous day changes (as China
 <div class="row">
 <div class="col-md-8">
 <div id="innercontent">
+
 <style type="text/css">
         .style2 {
             color: #222222
@@ -8881,6 +8881,162 @@ The &quot;New&quot; columns for China display the previous day changes (as China
 <h2 align="left" id="news" style="margin-bottom: 50px;">Latest Updates</h2>
 <div class="news_date"><h4>April 12 (GMT)</h4></div><div id="newsdate2020-04-12"><div class="news_post">
 <div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>11 new cases</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/lebanon/">Lebanon</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://corona.ministryinfo.gov.lb/">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>193 new cases</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/switzerland/">Switzerland</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>139 new cases</strong> and <strong>13 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/austria/">Austria</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>72 new cases</strong> and <strong>2 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/morocco/">Morocco</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="http://www.covidmaroc.ma/">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>153 new cases</strong> and <strong>3 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/malaysia/">Malaysia</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://twitter.com/KKMPutrajaya/status/1249262158963019776/photo/1">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>1629 new cases</strong> and <strong>254 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/belgium/">Belgium</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.info-coronavirus.be/nl/news/aantal-nieuwe-hospitalisaties-stabiliseert/">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>5 new cases</strong> and <strong>1 new death</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/estonia/">Estonia</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.terviseamet.ee/et/uudised/oopaevaga-lisandus-viis-positiivset-covid-19-analuusi">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>139 new cases</strong> and <strong>4 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/bangladesh/">Bangladesh</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.iedcr.gov.bd/">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>399 new cases</strong> and <strong>46 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/indonesia/">Indonesia</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.cnnindonesia.com/nasional/20200412142649-20-492786/update-corona-12-april-4241-positif-373-orang-meninggal?utm_campaign=cnnsocmed&utm_medium=oa&utm_source=twitter">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>17 new cases</strong> and <strong>3 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/slovenia/">Slovenia</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://twitter.com/vladars">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>5 new cases</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/sri-lanka/">Sri Lanka</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="http://epid.gov.lk/web/index.php?lang=en">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>21 new cases</strong> and <strong>2 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/latvia/">Latvia</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://spkc.gov.lv/lv/aktualitates/preses-relizes/get/nid/814">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>352 new cases</strong> and <strong>3 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/belarus/">Belarus</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="http://stopcovid.belta.by/">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>10 new cases</strong> and <strong>3 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/australia/">Australia</a></strong>. For NSW,&nbsp;it should be noted there was a decrease in testing on Easter Saturday with just 840 tests compared to 3,515 in the previous day, therefore resulting in a relatively low number of new cases&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers">source</a>]</span>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.abc.net.au/news/2020-04-12/tasmania-premier-fifth-coronavirus-north-west-death/12143328">source</a>]</span>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.health.nsw.gov.au/news/Pages/20200412_00.aspx">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>220 new cases</strong> and <strong>50 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/philippines/">the Philippines</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.facebook.com/OfficialDOHgov/photos/a.157979910879936/3222286301115933/?type=3&theater">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>52 new cases</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/afghanistan/">Afghanistan</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://tolonews.com/health">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>32 new cases</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/kazakhstan/">Kazakhstan</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.nur.kz/1850265-ese-15-kazahstancev-zarazilis-koronavirusnoj-infekciej.html">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>2186 new cases</strong> and <strong>24 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/russia/">Russia</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://xn--80aesfpebagmfblc0a.xn--p1ai/#">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>29 new cases</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/bosnia-and-herzegovina/">Bosnia and Herzegovina</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.klix.ba/koronavirus-u-bih">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>4 new cases</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/montenegro/">Montenegro</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://twitter.com/ijzcg/status/1249229138344521728">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>3 new cases</strong> and <strong>3 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/czech-republic/">Czechia</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://onemocneni-aktualne.mzcr.cz/covid-19">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>46 new cases</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/armenia/">Armenia</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://ncdc.am/coronavirus/confirmed-cases-by-days/">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>15 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/romania/">Romania</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://stirioficiale.ro/informatii/informare-de-presa-12-aprilie-2020-ora-10-04am">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>8 new cases</strong> and <strong>1 new death</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/bulgaria/">Bulgaria</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="http://focus-news.net/news/2020/04/12/2765304/gen-mayor-ventsislav-mutafchiyski-669-veche-sa-zarazenite-s-koronavirus-v-stranata-ot-koito-21-sa-novite-sluchai-za-izminaloto-denonoshtie.html">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>10 new cases</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/georgia/">Georgia</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://stopcov.ge/en">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>266 new cases</strong> and <strong>10 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/ukraine/">Ukraine</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.facebook.com/moz.ukr/photos/a.300751836754595/1506576296172137/?type=3&theater">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>7 new cases</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/el-salvador/">El Salvador</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://covid19.gob.sv/">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>53 new cases</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/oman/">Oman</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://twitter.com/OmaniMOH/status/1249223875164061697/photo/1">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>135 new cases</strong> and <strong>2 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/israel/">Israel</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://govextra.gov.il/ministry-of-health/corona/corona-virus/">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>3 new cases</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/taiwan/">Taiwan</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.cdc.gov.tw/Bulletin/Detail/srBHa7viqh-rkYyk-iBr_Q?typeid=9">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>2 new cases</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/swaziland/">Eswatini</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://mobile.twitter.com/EswatiniGovern1/status/1248966696695664643">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>100 new cases</strong> and <strong>14 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/hungary/">Hungary</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://koronavirus.gov.hu/cikkek/1410-fore-nott-beazonositott-fertozottek-szama-es-99-fore-emelkedett-az-elhunytak-szama">source</a>]</span>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://koronavirus.gov.hu/">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>236 new cases</strong> and <strong>3 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/us/">the United States</a></strong></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>1 new case</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/maldives/">Maldives</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://twitter.com/HPA_MV/status/1249210410076704769?s=20">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>58 new cases</strong> and <strong>1 new death</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/india/">India</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.aninews.in/news/national/general-news/51-more-covid-19-cases-in-rajasthan-state-tally-reaches-75120200412105629/">source</a>]</span>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.hindustantimes.com/india-news/coronavirus-update-7-more-cases-of-covid-19-in-chhattisgarh-25-so-far/story-GySmag8J2EbPj0Gk8PM15I.html">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>3 new cases</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/gabon/">Gabon</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.facebook.com/pg/Covid19GOUVGA/posts/?ref=page_internal">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>1 new case</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/caribbean-netherlands/">the Caribbean Netherlands</a></strong>. The <strong>first case in Saba </strong>was announced by Lieutenant Governor Jonathan Johnsen on the radio on Saturday evening. Saba is one of the three Caribbean islands, in addition to Bonaire and St. Eustatius (where the previous 2 cases were confirmed), which are directly under the authority of The Hague as a special municipality of the Netherlands. The island has nearly 2000 inhabitants.&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://masnoticia.com/saba-a-registra-prome-caso-di-corona-virus-y-a-dal-un-lockdown-di-biaha">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>29 new cases</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/uzbekistan/">Uzbekistan</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://coronavirus.uz/ru">source</a>]</span>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://t.me/koronavirusinfouz/2418">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>27 new cases</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/lithuania/">Lithuania</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://lietuva.lt/en/lithuanias-response-to-covid-19/">source</a>]</span>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://m.delfi.lt/lietuvoje/article.php?id=84034207">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
 <ul class="news_ul"><li class="news_li"><strong>7 new cases</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/uruguay/">Uruguay</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.gub.uy/sistema-nacional-emergencias/comunicacion/comunicados/informe-situacion-relacion-coronavirus-covid-19-uruguay-del-11420">source</a>]</span></li></ul>
 </div>
 </div><div class="news_post">
@@ -8889,19 +9045,11 @@ The &quot;New&quot; columns for China display the previous day changes (as China
 </div>
 </div><div class="news_post">
 <div class="news_body">
-<ul class="news_ul"><li class="news_li"><strong>15 new cases</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/kazakhstan/">Kazakhstan</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.nur.kz/1850265-ese-15-kazahstancev-zarazilis-koronavirusnoj-infekciej.html">source</a>]</span></li></ul>
-</div>
-</div><div class="news_post">
-<div class="news_body">
 <ul class="news_ul"><li class="news_li"><strong>2 new cases</strong> and <strong>1 new death</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/brazil/">Brazil</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://g1.globo.com/bemestar/coronavirus/noticia/2020/04/11/casos-de-coronavirus-no-brasil-em-11-de-abril.ghtml">source</a>]</span></li></ul>
 </div>
 </div><div class="news_post">
 <div class="news_body">
 <ul class="news_ul"><li class="news_li"><strong>33 new cases</strong> and <strong>3 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/thailand/">Thailand</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.thaienquirer.com/11251/thailand-confirms-33-new-coronavirus-cases-total-at-2551/">source</a>]</span></li></ul>
-</div>
-</div><div class="news_post">
-<div class="news_body">
-<ul class="news_ul"><li class="news_li"><strong>3 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/australia/">Australia</a></strong>. For NSW,&nbsp;it should be noted there was a decrease in testing on Easter Saturday with just 840 tests compared to 3,515 in the previous day, therefore resulting in a relatively low number of new cases&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers">source</a>]</span>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.abc.net.au/news/2020-04-12/tasmania-premier-fifth-coronavirus-north-west-death/12143328">source</a>]</span>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.health.nsw.gov.au/news/Pages/20200412_00.aspx">source</a>]</span></li></ul>
 </div>
 </div><div class="news_post">
 <div class="news_body">
@@ -8934,10 +9082,6 @@ The &quot;New&quot; columns for China display the previous day changes (as China
 </div><div class="news_post">
 <div class="news_body">
 <ul class="news_ul"><li class="news_li"><strong>375 new cases</strong> and <strong>40 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/mexico/">Mexico</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://twitter.com/HLGatell/status/1249129974931566593">source</a>]</span>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://twitter.com/HLGatell/status/1249131650480513027">source</a>]</span></li></ul>
-</div>
-</div><div class="news_post">
-<div class="news_body">
-<ul class="news_ul"><li class="news_li"><strong>1 new case</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/sri-lanka/">Sri Lanka</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="http://epid.gov.lk/web/index.php?lang=en">source</a>]</span></li></ul>
 </div>
 </div><div class="news_post">
 <div class="news_body">
@@ -9111,7 +9255,7 @@ The &quot;New&quot; columns for China display the previous day changes (as China
 <ul class="news_ul"><li class="news_li"><strong>25 new cases</strong> and <strong>1 new death</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/isle-of-man/">Isle of Man</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://covid19.gov.im/general-information/latest-updates/">source</a>]</span></li></ul>
 </div>
 </div><div class="news_post">
-<div class="news_body"> 
+<div class="news_body">
 <ul class="news_ul"><li class="news_li"><strong>316 new cases</strong> and <strong>20 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/pakistan/">Pakistan</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://covid.gov.pk">source</a>]</span></li></ul>
 </div>
 </div><div class="news_post">
@@ -9141,7 +9285,7 @@ The &quot;New&quot; columns for China display the previous day changes (as China
 </div><div class="news_post">
 <div class="news_body">
 <ul class="news_ul"><li class="news_li"><strong>839 new cases</strong> and <strong>33 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/ireland/">Ireland</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.gov.ie/en/news/7e0924-latest-updates-on-covid-19-coronavirus/#april-11">source</a>]</span></li></ul>
-</div>
+</div> 
 </div><div class="news_post">
 <div class="news_body">
 <ul class="news_ul"><li class="news_li"><strong>38 new cases</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/guinea/">Guinea</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://anss-guinee.org">source</a>]</span></li></ul>
@@ -9209,7 +9353,7 @@ The &quot;New&quot; columns for China display the previous day changes (as China
 </div><div class="news_post">
 <div class="news_body">
 <ul class="news_ul"><li class="news_li"><strong>2 new cases</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/gabon/">Gabon</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.facebook.com/pg/Covid19GOUVGA/posts/?ref=page_internal">source</a>]</span></li></ul>
-</div> 
+</div>
 </div><div class="news_post">
 <div class="news_body">
 <ul class="news_ul"><li class="news_li"><strong>2 new cases</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/burundi/">Burundi</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://mobile.twitter.com/mspls_bdi/status/1249011765750501382">source</a>]</span></li></ul>
@@ -9418,7 +9562,7 @@ The &quot;New&quot; columns for China display the previous day changes (as China
 <div class="news_body">
 <ul class="news_ul"><li class="news_li"><strong>13 new cases</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/senegal/">Senegal</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.sante.gouv.sn">source</a>]</span></li></ul>
 </div>
-</div><div class="news_post">
+</div><div class="news_post"> 
 <div class="news_body">
 <ul class="news_ul"><li class="news_li"><strong>2 new cases</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/guinea-bissau/">Guinea-Bissau</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="http://www.odemocratagb.com/?p=24314">source</a>]</span></li></ul>
 </div>
@@ -10130,7 +10274,7 @@ Worldometer will reallocate the additional increase over the preceding days from
 <ul class="news_ul"><li class="news_li"><img alt="alert" src="/images/alert.png" style="width: 16px;" />&nbsp;<strong>1 new case</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/yemen/">Yemen</a></strong>. First case in the country:&nbsp;a foreigner who came from UAE and entered through Shihr Seaport into Al-Shehr, Governorate of Hadramout. Governor imposes curfew in various cities of the province&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://twitter.com/Riy_Breaking/status/1248466566800236546?s=19">source</a>]</span>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.jpost.com/Breaking-News/Coronavirus-Yemen-confirms-first-case-624225">source</a>]</span>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://twitter.com/Yemen24/status/1248471205612412930">source</a>]</span></li></ul>
 </div>
 </div><div class="news_post">
-<div class="news_body"> 
+<div class="news_body">
 <ul class="news_ul"><li class="news_li"><strong>7 new cases</strong> and <strong>2 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/sint-maarten/">Sint Maarten</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://stmaartennews.com/wp-content/uploads/2020/04/COVID-19-Update-9-April-2020.jpeg">source</a>]</span></li></ul>
 </div>
 </div><div class="news_post">
@@ -10161,7 +10305,7 @@ Worldometer will reallocate the additional increase over the preceding days from
 <ul class="news_ul"><li class="news_li"><strong>1 new case</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/fiji/">Fiji</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://fijisun.com.fj/2020/04/10/fiji-confirms-16-cases-of-covid-19/">source</a>]</span></li></ul>
 </div>
 </div><div class="news_post">
-<div class="news_body">
+<div class="news_body"> 
 <ul class="news_ul"><li class="news_li"><strong>27 new cases</strong> and <strong>4 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/south-korea/">South Korea</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.cdc.go.kr/board/board.es?mid=a20501000000&bid=0015&list_no=366800&act=view">source</a>]</span></li></ul>
 </div>
 </div><div class="news_post">
@@ -10600,7 +10744,7 @@ Worldometer will reallocate the additional increase over the preceding days from
 </div>
 </div><div class="news_post">
 <div class="news_body">
-<ul class="news_ul"><li class="news_li"><strong>104 new cases</strong> and <strong>1 new death</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/azerbaijan/">Azerbaijan</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://cabmin.gov.az/az/article/800/">source</a>]</span></li></ul>
+ <ul class="news_ul"><li class="news_li"><strong>104 new cases</strong> and <strong>1 new death</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/azerbaijan/">Azerbaijan</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://cabmin.gov.az/az/article/800/">source</a>]</span></li></ul>
 </div>
 </div><div class="news_post">
 <div class="news_body">
@@ -11417,7 +11561,7 @@ Worldometer will reallocate the additional increase over the preceding days from
 <li>a 69-year-old&nbsp;Indian businessman who suffered from diabetes and heart disease</li>
 <li>a&nbsp;69-year-old&nbsp;American man who suffered from chronic renal disease</li>
 </ul>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.bangkokpost.com/thailand/general/1895675/thailand-logs-111-new-covid-cases-3-deaths-wednesday">source</a>]</span></li></ul>
- </div>
+</div>
 </div><div class="news_post">
 <div class="news_body">
 <ul class="news_ul"><li class="news_li"><strong>78 new cases</strong> and <strong>11 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/hungary/">Hungary</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://koronavirus.gov.hu/cikkek/895-fore-nott-beazonositott-fertozottek-szama-es-elhunyt-11-beteg-tobbsegeben-idos-emberek">source</a>]</span></li></ul>
@@ -12098,7 +12242,7 @@ Worldometer will reallocate the additional increase over the preceding days from
 </div>
 </div><div class="news_post">
 <div class="news_body">
-<ul class="news_ul"><li class="news_li"><strong>1 new case</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/jamaica/">Jamaica</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="http://www.jamaicaobserver.com/latestnews/COVID-19_cases_reach_59_in_Jamaica_?profile=1228">source</a>]</span></li></ul>
+ <ul class="news_ul"><li class="news_li"><strong>1 new case</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/jamaica/">Jamaica</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="http://www.jamaicaobserver.com/latestnews/COVID-19_cases_reach_59_in_Jamaica_?profile=1228">source</a>]</span></li></ul>
 </div>
 </div><div class="news_post">
 <div class="news_body">
@@ -12111,7 +12255,7 @@ Worldometer will reallocate the additional increase over the preceding days from
 </div><div class="news_post">
 <div class="news_body">
 <ul class="news_ul"><li class="news_li"><strong>252 new cases</strong> and <strong>7 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/japan/">Japan</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.mhlw.go.jp/stf/newpage_10716.html">source</a>]</span>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www3.nhk.or.jp/news/special/coronavirus/">source</a>]</span>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://covid19japan.com/">source</a>]</span></li></ul>
-</div> 
+</div>
 </div><div class="news_post">
 <div class="news_body">
 <ul class="news_ul"><li class="news_li"><strong>11 new cases</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/san-marino/">San Marino</a></strong></li></ul>
@@ -12292,7 +12436,7 @@ chance that there is already a growing outbreak underway&quot;&nbsp;[<a href="ht
 </div>
 </div><div class="news_post">
 <div class="news_body">
-<ul class="news_ul"><li class="news_li"><strong>22 new cases</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/tunisia/">Tunisia</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.facebook.com/santetunisie.rns.tn/?__tn__=kC-R&eid=ARBkVWigngLLssx8WS-61PHYfPuSPB75OrX9_HsGvgZyrsdGbdXiVnPwf74i-lTMo1B9gYYlfEIe67WP&hc_ref=ARTZAvuqPOeqM3iAxefuELW6sbhDPIFt7hob9Zn8JIk9beHMnNJ2-KFpE4A4BYN2JI0&fref=nf&__xts__[0]=68.ARDF65rCMJaQmpWwTACA-YY4gZSajMEv4oaCdJ7h3wkUH8zusa-NzNoF8L38NXxf6JO-vV7NacFE0D1WG3lu_FjtI2_WS-rdvoCZKGjbIOrxntY1D_7LqomQRHfCQlyM_btYbiXFft-x12LYQMdbxEUwg9rxs44z5I34l5mHTWBKo6j19oLVT5YhgAFZjQlGPcsREohhOQGXojz_6gKXty2MFEEU0Ak6LLkB9YVKLLXq2TZzIRcVp6f6jB5mQeF6KhcrSTUYZscCmHs9JHmSgLwXjdmHg2q6pIw2oavJeWeud-xUUV3qRplffzABO6fVGRFL0IiBkVL3deFzIfL42nWVnw">source</a>]</span></li></ul>
+ <ul class="news_ul"><li class="news_li"><strong>22 new cases</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/tunisia/">Tunisia</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.facebook.com/santetunisie.rns.tn/?__tn__=kC-R&eid=ARBkVWigngLLssx8WS-61PHYfPuSPB75OrX9_HsGvgZyrsdGbdXiVnPwf74i-lTMo1B9gYYlfEIe67WP&hc_ref=ARTZAvuqPOeqM3iAxefuELW6sbhDPIFt7hob9Zn8JIk9beHMnNJ2-KFpE4A4BYN2JI0&fref=nf&__xts__[0]=68.ARDF65rCMJaQmpWwTACA-YY4gZSajMEv4oaCdJ7h3wkUH8zusa-NzNoF8L38NXxf6JO-vV7NacFE0D1WG3lu_FjtI2_WS-rdvoCZKGjbIOrxntY1D_7LqomQRHfCQlyM_btYbiXFft-x12LYQMdbxEUwg9rxs44z5I34l5mHTWBKo6j19oLVT5YhgAFZjQlGPcsREohhOQGXojz_6gKXty2MFEEU0Ak6LLkB9YVKLLXq2TZzIRcVp6f6jB5mQeF6KhcrSTUYZscCmHs9JHmSgLwXjdmHg2q6pIw2oavJeWeud-xUUV3qRplffzABO6fVGRFL0IiBkVL3deFzIfL42nWVnw">source</a>]</span></li></ul>
 </div>
 </div><div class="news_post">
 <div class="news_body">
@@ -12420,7 +12564,7 @@ chance that there is already a growing outbreak underway&quot;&nbsp;[<a href="ht
 </div>
 </div><div class="news_post">
 <div class="news_body">
-<ul class="news_ul"><li class="news_li"><strong>5 new cases</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/reunion/">R&eacute;union</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.lareunion.ars.sante.fr/coronavirus-actualite-et-conduite-tenir-1">source</a>]</span></li></ul>
+ <ul class="news_ul"><li class="news_li"><strong>5 new cases</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/reunion/">R&eacute;union</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.lareunion.ars.sante.fr/coronavirus-actualite-et-conduite-tenir-1">source</a>]</span></li></ul>
 </div>
 </div><div class="news_post">
 <div class="news_body">
@@ -12740,7 +12884,7 @@ chance that there is already a growing outbreak underway&quot;&nbsp;[<a href="ht
 </div>
 <div style="width:100%;text-align:center; ">
 <div style="display: none;" class="loading lds-ellipsis">
-<div></div>
+ <div></div>
 <div></div>
 <div></div>
 <div></div>
@@ -13014,7 +13158,7 @@ As of Jan. 29, according to French authorities, the conditions of the two earlie
 </h2>
 <div align="left">
 <ul>
- <li>Every year an estimated 290,000 to 650,000 people die in the world due to complications from seasonal influenza (flu) viruses. This figure corresponds to 795 to 1,781 deaths per day due to the seasonal flu. </li>
+<li>Every year an estimated 290,000 to 650,000 people die in the world due to complications from seasonal influenza (flu) viruses. This figure corresponds to 795 to 1,781 deaths per day due to the seasonal flu. </li>
 <li>SARS (November 2002 to July 2003): was a coronavirus that originated from Beijing, China, spread to 29 countries, and resulted in 8,096 people infected with 774 deaths (fatality rate of 9.6%). Considering that SARS ended up infecting 5,237 people in mainland China, Wuhan Coronavirus surpassed SARS on January 29, 2020, when Chinese officials confirmed 5,974 cases of the novel coronavirus (2019-nCoV). One day later, on January 30, 2020 the novel coronavirus cases surpassed even the 8,096 cases worldwide which were the final SARS count in 2003.</li>
 <li>MERS (in 2012) killed 858 people out of the 2,494 infected (fatality rate of 34.4%).</li>
 </ul>
@@ -13224,7 +13368,7 @@ As of Jan. 29, according to French authorities, the conditions of the two earlie
 </div>
 <div class="form-group row">
 <div class="col-md-3">
- <label for="new_cured" class="form_labels" style="line-height:34px;">New Recoveries:</label>
+<label for="new_cured" class="form_labels" style="line-height:34px;">New Recoveries:</label>
 </div>
 <div class="col-md-9" style="padding-left:0px;margin-left:0px;">
 +&nbsp;<input name="new_cured" type="number" onkeypress='return event.charCode >= 48 && event.charCode <= 57' class="form-control case_number" id="new_cured" />&nbsp;&nbsp;=&nbsp;&nbsp;<input onkeypress='return event.charCode >= 48 && event.charCode <= 57' name="total_cured" type="number" class="form-control case_number" id="total_cured" />&nbsp;total cured </div>
@@ -13263,7 +13407,7 @@ As of Jan. 29, according to French authorities, the conditions of the two earlie
 </div>
 </form>
 </div>
-
+ 
 <div class="modal-footer">
 <p class="statusMsg"></p>
 
@@ -13503,7 +13647,6 @@ As of Jan. 29, according to French authorities, the conditions of the two earlie
 
     }
 </script> </div>
-
 
 
 </div><div class="col-md-4 adright">
