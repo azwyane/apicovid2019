@@ -82,7 +82,7 @@ with open ('./file.txt') as h_source:
     msg1=[]
     a=soup.find_all(attrs={"class":"mt_a"})
     for index,country in enumerate(a):
-        if index <=219:
+        if index <=209:
             val.append(country.string)
             for i in range(0,11):
                 country=country.findNext("td")
@@ -114,8 +114,9 @@ with open ('./file.txt') as h_source:
         next_val.append(continent)
         b=soup.find("tbody").find("nobr",text=continent)
         for i in range (0,11):
-            next_val.append(b.findNext("td").string)
-        pre_msg=dict([(x,y) for x,y in zip(title,next_val)]) 
+            b=b.findNext("td")
+            next_val.append(b.string)
+            pre_msg=dict([(x,y) for x,y in zip(title,next_val)]) 
         msg2.append(pre_msg)
         del next_val[:]
 
