@@ -87,8 +87,12 @@ with open ('./file.txt') as h_source:
             country=country.findNext("td")
             val.append(country.string)
         pre_msg=dict([(x,y) for x,y in zip(title,val)])
-        msg1.append(pre_msg)
-        del val[:]
+        if len(val)<=210:
+            msg1.append(pre_msg)
+            del val[:]
+        else:
+            del val[:]
+            break
 
 
 
