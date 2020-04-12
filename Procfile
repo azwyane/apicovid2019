@@ -1,1 +1,1 @@
-web: gunicorn apicovid2019.wsgi --log-file -
+web: gunicorn main.wsgi --log-file -
