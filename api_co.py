@@ -21,11 +21,10 @@ with open ('./file.txt') as h_source:
            "TotalRecovered",
            "ActiveCases",
            "Serious",
-           "Totalcases1Mpop",
-           "Deaths",
+           "Totalcases/1Mpop",
+           "Deaths/1Mpop",
            "TotalTests",
-           "Tests",
-           "1Mpop"]
+           "Tests/1Mpop"]
 
     conti=[]
     value=[]
