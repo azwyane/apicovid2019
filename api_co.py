@@ -1,6 +1,7 @@
 import os
 from bs4 import BeautifulSoup
 
+
 try:
     os.system('rm file.txt')
     os.system('curl https://www.worldometers.info/coronavirus/ > file.txt')
@@ -122,4 +123,5 @@ with open ('./file.txt') as h_source:
 
     
     msg=[msg0,msg1,msg2]
+    
     
