@@ -14,8 +14,21 @@ with support of sendgrid.
 Anyone searching for early info about covid data can use the site.
  
 For now you can test using:
+
 GET apicovid2019.herokuapp.com
 
 or
 
 curl apicovid2019.herokuapp.com
+
+This gives you a json of result containing total world cases, cases by country name and by continent.
+
+To fetch the specific result according to country name
+use this:
+Example:
+
+GET apicovid2019.herokuapp.com/country=Nepal
+
+or 
+
+curl  apicovid2019.herokuapp.com/country=Nepal
