@@ -9,7 +9,7 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Coronavirus Update (Live): 1,940,946 Cases and 120,925 Deaths from COVID-19 Virus Pandemic - Worldometer</title>
+<title>Coronavirus Update (Live): 1,946,281 Cases and 121,704 Deaths from COVID-19 Virus Pandemic - Worldometer</title>
 <meta name="description" content="Live statistics and coronavirus news tracking the number of confirmed cases, recovered patients, tests, and death toll due to the COVID-19 coronavirus from Wuhan, China. Coronavirus counter with new cases, deaths, and number of tests per 1 Million population. Historical data and info. Daily charts, graphs, news and updates">
 
 <link rel="shortcut icon" href="/favicon/favicon.ico" type="image/x-icon">
@@ -249,25 +249,25 @@ window.cookieconsent.initialise({
     -->
 </style>
 <div class="label-counter" id="page-top">COVID-19 Coronavirus Pandemic</div>
-<div style="font-size:13px; color:#999; margin-top:5px; text-align:center">Last updated: April 14, 2020, 13:29 GMT</div>
+<div style="font-size:13px; color:#999; margin-top:5px; text-align:center">Last updated: April 14, 2020, 13:35 GMT</div>
 <div style="margin-top:20px; text-align:center; font-size:14px"><a href="/coronavirus/coronavirus-cases/"> </a><a href="/coronavirus/worldwide-graphs/">Graphs</a> - <a href="#countries">Countries</a> - <a href="/coronavirus/coronavirus-death-rate/">Death Rate</a> - <a href="/coronavirus/coronavirus-incubation-period/">Incubation</a> -<strong> </strong><a href="/coronavirus/coronavirus-symptoms/">Symptoms</a> - <a href="#news">News</a></div>
 <div id="maincounter-wrap" style="margin-top:15px">
 <h1>Coronavirus Cases:</h1>
 <div class="maincounter-number">
-<span style="color:#aaa">1,940,946 </span>
+<span style="color:#aaa">1,946,281 </span>
 </div>
 </div>
 <div style="text-align:center "><a href="#countries">view by country</a></div>
 <div id="maincounter-wrap" style="margin-top:15px">
 <h1>Deaths:</h1>
 <div class="maincounter-number">
-<span>120,925</span>
+<span>121,704</span>
 </div>
 </div>
 <div id="maincounter-wrap" style="margin-top:15px;">
 <h1>Recovered:</h1>
 <div class="maincounter-number" style="color:#8ACA2B ">
-<span>460,098</span>
+ <span>460,098</span>
 </div>
 </div>
 <div style="margin-top:50px;"></div>
@@ -354,11 +354,11 @@ Active Cases
 <div class="panel-body" style="text-align:center; height:200px;">
 <div class="panel_flip">
 <div class="panel_front" style="width:100%;height:100%;">
-<div class="number-table-main">1,359,923</div>
+<div class="number-table-main">1,364,479</div>
 <div style="font-size:13.5px">Currently Infected Patients</div>
 <div style="padding-top:20px;position:relative;text-align:center; ">
 <div style="float:left; text-align:center">
-<span class="number-table" style="color:#8080FF">1,308,858</span> (<strong>96</strong>%)
+<span class="number-table" style="color:#8080FF">1,313,414</span> (<strong>96</strong>%)
 <div style="font-size:13px">in Mild Condition</div><br>
 </div>
 <div style="float:right; text-align:center"><span class="number-table" style="color:red ">51,065</span> (<strong>4</strong>%)
@@ -474,7 +474,7 @@ Closed Cases</span></div>
 <div class="panel-body" style="text-align:center;height:200px;">
 <div class="panel_flip">
 <div class="panel_front" style="width:100%;height:100%;">
-<div class="number-table-main">581,023</div>
+<div class="number-table-main">581,802</div>
 <div style="font-size:13.5px">Cases which had an outcome:</div>
 <div style="padding-top:20px ">
 <div style="float:left; text-align:center">
@@ -483,8 +483,8 @@ Closed Cases</span></div>
 <div style="font-size:13px">Recovered / Discharged</div><br>
 </div>
 <div style="float:right; text-align:center"><span class="number-table">
-120,925</span>
-(<strong>21</strong>%)
+121,704</span>
+ (<strong>21</strong>%)
 <div style="font-size:13px">Deaths</div><br>
 </div>
 </div>
@@ -680,7 +680,7 @@ linear </a>
 </li>
 <li>
 <a href="#coronavirus-cases-log" data-toggle="tab">
-logarithmic </a>
+ logarithmic </a>
 </li>
 </ul>
 <div class="tab-content">
@@ -1394,12 +1394,12 @@ logarithmic </a>
 <td style="text-align:left;">
 <nobr>North America</nobr>
 </td>
-<td>628,243</td>
-<td>+1,179</td>
- <td>25,162</td>
-<td>+50</td>
+<td>628,326</td>
+<td>+1,262</td>
+<td>25,163</td>
+<td>+51</td>
 <td>47,787</td>
-<td>555,294</td>
+<td>555,376</td>
 <td>13,885</td>
 <td></td>
 <td></td>
@@ -1411,12 +1411,12 @@ logarithmic </a>
 <td style="text-align:left;">
 <nobr>Europe</nobr>
 </td>
-<td>917,757</td>
-<td>+10,371</td>
-<td>80,990</td>
-<td>+1,001</td>
+<td>923,009</td>
+<td>+15,623</td>
+<td>81,768</td>
+<td>+1,779</td>
 <td>240,117</td>
-<td>596,650</td>
+<td>601,124</td>
 <td>29,285</td>
 <td></td>
 <td></td>
@@ -1471,7 +1471,7 @@ logarithmic </a>
 <td>85</td>
 <td></td>
 <td></td>
- <td></td>
+<td></td>
 <td></td>
 <td style="display:none;" data-continent="Australia/Oceania">Australia/Oceania</td>
 </tr>
@@ -1511,28 +1511,28 @@ logarithmic </a>
 </tr>
 <tr class="total_row_world">
 <td style="text-align:left;">World</td>
-<td>1,940,946</td>
-<td>+17,098</td>
-<td>120,925</td>
-<td>+1,307</td>
+<td>1,946,281</td>
+<td>+22,433</td>
+<td>121,704</td>
+<td>+2,086</td>
 <td>460,098</td>
-<td>1,359,923</td>
+<td>1,364,479</td>
 <td>51,065</td>
-<td>249</td>
-<td>15.5</td>
+<td>250</td>
+<td>15.6</td>
 <td></td>
 <td></td>
 <td style="display:none" data-continent="all">All</td>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/us/">USA</a></td>
-<td style="font-weight: bold; text-align:right">587,732</td>
-<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+791</td>
-<td style="font-weight: bold; text-align:right;">23,653 </td>
+<td style="font-weight: bold; text-align:right">587,815</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+874</td>
+<td style="font-weight: bold; text-align:right;">23,654 </td>
 <td style="font-weight: bold; 
-                                    text-align:right;background-color:red; color:white">+13</td>
+                                    text-align:right;background-color:red; color:white">+14</td>
 <td style="font-weight: bold; text-align:right">37,315</td>
-<td style="text-align:right;font-weight:bold;">526,764</td>
+<td style="text-align:right;font-weight:bold;">526,846</td>
 <td style="font-weight: bold; text-align:right">12,772</td>
 <td style="font-weight: bold; text-align:right">1,776</td>
 <td style="font-weight: bold; text-align:right">71</td>
@@ -1553,7 +1553,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">3,690</td>
 <td style="font-weight: bold; text-align:right">386</td>
 <td style="font-weight: bold; text-align:right">600,000</td>
-<td style="font-weight: bold; text-align:right">12,833</td>
+ <td style="font-weight: bold; text-align:right">12,833</td>
 <td style="display:none" data-continent="Europe">Europe</td>
 </tr>
 <tr style="">
@@ -1595,7 +1595,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right;">3,215 </td>
 <td style="font-weight: bold; 
                                     text-align:right;background-color:red; color:white">+21</td>
-<td style="font-weight: bold; text-align:right">68,200</td>
+ <td style="font-weight: bold; text-align:right">68,200</td>
 <td style="text-align:right;font-weight:bold;">58,968</td>
 <td style="font-weight: bold; text-align:right">4,288</td>
 <td style="font-weight: bold; text-align:right">1,556</td>
@@ -1606,22 +1606,22 @@ logarithmic </a>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/uk/">UK</a></td>
-<td style="font-weight: bold; text-align:right">88,621</td>
-<td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">11,329 </td>
+<td style="font-weight: bold; text-align:right">93,873</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+5,252</td>
+<td style="font-weight: bold; text-align:right;">12,107 </td>
 <td style="font-weight: bold; 
-                                    text-align:right;"></td>
+                                    text-align:right;background-color:red; color:white">+778</td>
 <td style="font-weight: bold; text-align:right">N/A</td>
-<td style="text-align:right;font-weight:bold;">76,948</td>
+<td style="text-align:right;font-weight:bold;">81,422</td>
 <td style="font-weight: bold; text-align:right">1,559</td>
-<td style="font-weight: bold; text-align:right">1,305</td>
-<td style="font-weight: bold; text-align:right">167</td>
-<td style="font-weight: bold; text-align:right">367,667</td>
-<td style="font-weight: bold; text-align:right">5,416</td>
+<td style="font-weight: bold; text-align:right">1,383</td>
+<td style="font-weight: bold; text-align:right">178</td>
+<td style="font-weight: bold; text-align:right">382,650</td>
+<td style="font-weight: bold; text-align:right">5,637</td>
 <td style="display:none" data-continent="Europe">Europe</td>
 </tr>
 <tr style="">
- <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/iran/">Iran</a></td>
+<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/iran/">Iran</a></td>
 <td style="font-weight: bold; text-align:right">74,877</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+1,574</td>
 <td style="font-weight: bold; text-align:right;">4,683 </td>
@@ -1637,7 +1637,7 @@ logarithmic </a>
 <td style="display:none" data-continent="Asia">Asia</td>
 </tr>
 <tr style="">
-<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/turkey/">Turkey</a></td>
+ <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/turkey/">Turkey</a></td>
 <td style="font-weight: bold; text-align:right">61,049</td>
 <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;">1,296 </td>
@@ -1661,7 +1661,7 @@ logarithmic </a>
                                     text-align:right;background-color:red; color:white">+254</td>
 <td style="font-weight: bold; text-align:right">6,868</td>
 <td style="text-align:right;font-weight:bold;">20,094</td>
- <td style="font-weight: bold; text-align:right">1,223</td>
+<td style="font-weight: bold; text-align:right">1,223</td>
 <td style="font-weight: bold; text-align:right">2,685</td>
 <td style="font-weight: bold; text-align:right">359</td>
 <td style="font-weight: bold; text-align:right">102,151</td>
@@ -1677,7 +1677,7 @@ logarithmic </a>
                                     text-align:right;background-color:red; color:white">+122</td>
 <td style="font-weight: bold; text-align:right">250</td>
 <td style="text-align:right;font-weight:bold;">24,224</td>
-<td style="font-weight: bold; text-align:right">1,358</td>
+ <td style="font-weight: bold; text-align:right">1,358</td>
 <td style="font-weight: bold; text-align:right">1,600</td>
 <td style="font-weight: bold; text-align:right">172</td>
 <td style="font-weight: bold; text-align:right">134,972</td>
@@ -1719,7 +1719,7 @@ logarithmic </a>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/brazil/">Brazil</a></td>
 <td style="font-weight: bold; text-align:right">23,830</td>
-<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+400</td>
+ <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+400</td>
 <td style="font-weight: bold; text-align:right;">1,355 </td>
 <td style="font-weight: bold; 
                                     text-align:right;background-color:red; color:white">+27</td>
@@ -1800,7 +1800,7 @@ logarithmic </a>
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/sweden/">Sweden</a></td>
 <td style="font-weight: bold; text-align:right">11,445</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+497</td>
-<td style="font-weight: bold; text-align:right;">1,033 </td>
+<td style="font-weight: bold; text-align:right;">1,033  </td>
 <td style="font-weight: bold; 
                                     text-align:right;background-color:red; color:white">+114</td>
 <td style="font-weight: bold; text-align:right">381</td>
@@ -1826,7 +1826,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">74</td>
 <td style="font-weight: bold; text-align:right">72,000</td>
 <td style="font-weight: bold; text-align:right">14,581</td>
- <td style="display:none" data-continent="Europe">Europe</td>
+<td style="display:none" data-continent="Europe">Europe</td>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/south-korea/">S. Korea</a></td>
@@ -1868,7 +1868,7 @@ logarithmic </a>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">2,642</td>
- <td style="text-align:right;font-weight:bold;">6,926</td>
+<td style="text-align:right;font-weight:bold;">6,926</td>
 <td style="font-weight: bold; text-align:right">143</td>
 <td style="font-weight: bold; text-align:right">297</td>
 <td style="font-weight: bold; text-align:right">7</td>
@@ -1911,7 +1911,7 @@ logarithmic </a>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/chile/">Chile</a></td>
 <td style="font-weight: bold; text-align:right">7,525</td>
- <td style="font-weight: bold; text-align:right;"></td>
+<td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;">82 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
@@ -1968,7 +1968,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">59</td>
 <td style="font-weight: bold; text-align:right">1,222</td>
 <td style="font-weight: bold; text-align:right">26</td>
-<td style="font-weight: bold; text-align:right">128,569</td>
+ <td style="font-weight: bold; text-align:right">128,569</td>
 <td style="font-weight: bold; text-align:right">23,716</td>
 <td style="display:none" data-continent="Europe">Europe</td>
 </tr>
@@ -1993,7 +1993,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">6,400</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+41</td>
 <td style="font-weight: bold; text-align:right;">61 </td>
- <td style="font-weight: bold; 
+<td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">3,598</td>
 <td style="text-align:right;font-weight:bold;">2,741</td>
@@ -2009,7 +2009,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">6,059</td>
 <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;">147 </td>
-<td style="font-weight: bold; 
+ <td style="font-weight: bold; 
                                     text-align:right;background-color:red; color:white">+4</td>
 <td style="font-weight: bold; text-align:right">527</td>
 <td style="text-align:right;font-weight:bold;">5,385</td>
@@ -2134,7 +2134,7 @@ logarithmic </a>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/serbia/">Serbia</a></td>
-<td style="font-weight: bold; text-align:right">4,465</td>
+ <td style="font-weight: bold; text-align:right">4,465</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+411</td>
 <td style="font-weight: bold; text-align:right;">94 </td>
 <td style="font-weight: bold; 
@@ -2200,7 +2200,7 @@ logarithmic </a>
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/luxembourg/">Luxembourg</a></td>
 <td style="font-weight: bold; text-align:right">3,292</td>
 <td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">69  </td>
+<td style="font-weight: bold; text-align:right;">69 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">500</td>
@@ -2217,7 +2217,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">3,281</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+362</td>
 <td style="font-weight: bold; text-align:right;">33 </td>
-<td style="font-weight: bold; 
+ <td style="font-weight: bold; 
                                     text-align:right;background-color:red; color:white">+4</td>
 <td style="font-weight: bold; text-align:right">203</td>
 <td style="text-align:right;font-weight:bold;">3,045</td>
@@ -2259,7 +2259,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">47,290</td>
 <td style="font-weight: bold; text-align:right">8,535</td>
 <td style="display:none" data-continent="Europe">Europe</td>
-</tr>
+ </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/singapore/">Singapore</a></td>
 <td style="font-weight: bold; text-align:right">2,918</td>
@@ -2327,7 +2327,7 @@ logarithmic </a>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/argentina/">Argentina</a></td>
 <td style="font-weight: bold; text-align:right">2,277</td>
- <td style="font-weight: bold; text-align:right;"></td>
+<td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;">101 </td>
 <td style="font-weight: bold; 
                                     text-align:right;background-color:red; color:white">+3</td>
@@ -2343,7 +2343,7 @@ logarithmic </a>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/egypt/">Egypt</a></td>
 <td style="font-weight: bold; text-align:right">2,190</td>
-<td style="font-weight: bold; text-align:right;"></td>
+ <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;">164 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
@@ -2369,7 +2369,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">206</td>
 <td style="font-weight: bold; text-align:right">9</td>
 <td style="font-weight: bold; text-align:right">43,417</td>
- <td style="font-weight: bold; text-align:right">4,165</td>
+<td style="font-weight: bold; text-align:right">4,165</td>
 <td style="display:none" data-continent="Europe">Europe</td>
 </tr>
 <tr style="">
@@ -2386,7 +2386,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">7</td>
 <td style="font-weight: bold; text-align:right">3,359</td>
 <td style="font-weight: bold; text-align:right">77</td>
-<td style="display:none" data-continent="Africa">Africa</td>
+ <td style="display:none" data-continent="Africa">Africa</td>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/moldova/">Moldova</a></td>
@@ -2428,7 +2428,7 @@ logarithmic </a>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">933</td>
-<td style="text-align:right;font-weight:bold;">770</td>
+ <td style="text-align:right;font-weight:bold;">770</td>
 <td style="font-weight: bold; text-align:right">10</td>
 <td style="font-weight: bold; text-align:right">5,014</td>
 <td style="font-weight: bold; text-align:right">23</td>
@@ -2470,7 +2470,7 @@ logarithmic </a>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/hungary/">Hungary</a></td>
-<td style="font-weight: bold; text-align:right">1,512</td>
+ <td style="font-weight: bold; text-align:right">1,512</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+54</td>
 <td style="font-weight: bold; text-align:right;">122 </td>
 <td style="font-weight: bold; 
@@ -2495,7 +2495,7 @@ logarithmic </a>
 <td style="text-align:right;font-weight:bold;">583</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">34</td>
- <td style="font-weight: bold; text-align:right">2</td>
+<td style="font-weight: bold; text-align:right">2</td>
 <td style="font-weight: bold; text-align:right">37,791</td>
 <td style="font-weight: bold; text-align:right">940</td>
 <td style="display:none" data-continent="Asia">Asia</td>
@@ -2511,7 +2511,7 @@ logarithmic </a>
 <td style="text-align:right;font-weight:bold;">1,227</td>
 <td style="font-weight: bold; text-align:right">11</td>
 <td style="font-weight: bold; text-align:right">1,035</td>
-<td style="font-weight: bold; text-align:right">23</td>
+ <td style="font-weight: bold; text-align:right">23</td>
 <td style="font-weight: bold; text-align:right">32,263</td>
 <td style="font-weight: bold; text-align:right">24,321</td>
 <td style="display:none" data-continent="Europe">Europe</td>
@@ -2711,14 +2711,14 @@ logarithmic </a>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/cameroon/">Cameroon</a></td>
 <td style="font-weight: bold; text-align:right">848</td>
- <td style="font-weight: bold; text-align:right;"></td>
+<td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;">14 </td>
 <td style="font-weight: bold; 
                                     text-align:right;background-color:red; color:white">+2</td>
 <td style="font-weight: bold; text-align:right">130</td>
 <td style="text-align:right;font-weight:bold;">704</td>
 <td style="font-weight: bold; text-align:right"></td>
-<td style="font-weight: bold; text-align:right">32</td>
+ <td style="font-weight: bold; text-align:right">32</td>
 <td style="font-weight: bold; text-align:right">0.5</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right"></td>
@@ -2753,7 +2753,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">159</td>
 <td style="font-weight: bold; text-align:right">0.8</td>
 <td style="font-weight: bold; text-align:right"></td>
- <td style="font-weight: bold; text-align:right"></td>
+<td style="font-weight: bold; text-align:right"></td>
 <td style="display:none" data-continent="Asia">Asia</td>
 </tr>
 <tr style="">
@@ -2761,7 +2761,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">726</td>
 <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;">34 </td>
-<td style="font-weight: bold; 
+ <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">43</td>
 <td style="text-align:right;font-weight:bold;">649</td>
@@ -2804,7 +2804,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="display:none" data-continent="Asia">Asia</td>
 </tr>
-<tr style="">
+ <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><span style="color:#00B5F0; font-style:italic; ">Diamond Princess</span></td>
 <td style="font-weight: bold; text-align:right">712</td>
 <td style="font-weight: bold; text-align:right;"></td>
@@ -2931,7 +2931,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">6,868</td>
 <td style="font-weight: bold; text-align:right">1,348</td>
 <td style="display:none" data-continent="North America">North America</td>
-</tr>
+ </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/ghana/">Ghana</a></td>
 <td style="font-weight: bold; text-align:right">566</td>
@@ -3101,7 +3101,7 @@ logarithmic </a>
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">215</td>
 <td style="text-align:right;font-weight:bold;">169</td>
-<td style="font-weight: bold; text-align:right">5</td>
+ <td style="font-weight: bold; text-align:right">5</td>
 <td style="font-weight: bold; text-align:right">38</td>
 <td style="font-weight: bold; text-align:right">0.7</td>
 <td style="font-weight: bold; text-align:right">20,500</td>
@@ -3144,7 +3144,7 @@ logarithmic </a>
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/guinea/">Guinea</a></td>
 <td style="font-weight: bold; text-align:right">363</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+44</td>
-<td style="font-weight: bold; text-align:right;"> </td>
+ <td style="font-weight: bold; text-align:right;"> </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">31</td>
@@ -3222,14 +3222,14 @@ logarithmic </a>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/senegal/">Senegal</a></td>
- <td style="font-weight: bold; text-align:right">299</td>
+<td style="font-weight: bold; text-align:right">299</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+8</td>
 <td style="font-weight: bold; text-align:right;">2 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">183</td>
 <td style="text-align:right;font-weight:bold;">114</td>
-<td style="font-weight: bold; text-align:right">1</td>
+ <td style="font-weight: bold; text-align:right">1</td>
 <td style="font-weight: bold; text-align:right">18</td>
 <td style="font-weight: bold; text-align:right">0.1</td>
 <td style="font-weight: bold; text-align:right"></td>
@@ -3264,7 +3264,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">6</td>
 <td style="font-weight: bold; text-align:right">74</td>
 <td style="font-weight: bold; text-align:right">0.8</td>
- <td style="font-weight: bold; text-align:right">3,271</td>
+<td style="font-weight: bold; text-align:right">3,271</td>
 <td style="font-weight: bold; text-align:right">820</td>
 <td style="display:none" data-continent="Asia">Asia</td>
 </tr>
@@ -3272,7 +3272,7 @@ logarithmic </a>
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/montenegro/">Montenegro</a></td>
 <td style="font-weight: bold; text-align:right">278</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+4</td>
-<td style="font-weight: bold; text-align:right;">4 </td>
+ <td style="font-weight: bold; text-align:right;">4 </td>
 <td style="font-weight: bold; 
                                     text-align:right;background-color:red; color:white">+1</td>
 <td style="font-weight: bold; text-align:right">5</td>
@@ -3392,7 +3392,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">6</td>
 <td style="font-weight: bold; text-align:right">7</td>
 <td style="font-weight: bold; text-align:right">0.3</td>
- <td style="font-weight: bold; text-align:right">203,108</td>
+<td style="font-weight: bold; text-align:right">203,108</td>
 <td style="font-weight: bold; text-align:right">7,143</td>
 <td style="display:none" data-continent="South America">South America</td>
 </tr>
@@ -3477,14 +3477,14 @@ logarithmic </a>
 <td style="display:none" data-continent="North America">North America</td>
 </tr>
 <tr style="">
- <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/guadeloupe/">Guadeloupe</a></td>
+<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/guadeloupe/">Guadeloupe</a></td>
 <td style="font-weight: bold; text-align:right">145</td>
 <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;">8 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">67</td>
-<td style="text-align:right;font-weight:bold;">70</td>
+ <td style="text-align:right;font-weight:bold;">70</td>
 <td style="font-weight: bold; text-align:right">13</td>
 <td style="font-weight: bold; text-align:right">362</td>
 <td style="font-weight: bold; text-align:right">20</td>
@@ -3527,7 +3527,7 @@ logarithmic </a>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/rwanda/">Rwanda</a></td>
 <td style="font-weight: bold; text-align:right">127</td>
-<td style="font-weight: bold; text-align:right;"></td>
+ <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;"> </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
@@ -3648,7 +3648,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">1</td>
 <td style="font-weight: bold; text-align:right">288</td>
 <td style="font-weight: bold; text-align:right"></td>
- <td style="font-weight: bold; text-align:right"></td>
+<td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="display:none" data-continent="South America">South America</td>
 </tr>
@@ -3656,7 +3656,7 @@ logarithmic </a>
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/ethiopia/">Ethiopia</a></td>
 <td style="font-weight: bold; text-align:right">82</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+8</td>
-<td style="font-weight: bold; text-align:right;">3 </td>
+ <td style="font-weight: bold; text-align:right;">3 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">14</td>
@@ -3691,7 +3691,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right;">3 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
- <td style="font-weight: bold; text-align:right">32</td>
+<td style="font-weight: bold; text-align:right">32</td>
 <td style="text-align:right;font-weight:bold;">42</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">9</td>
@@ -3699,7 +3699,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">2,806</td>
 <td style="font-weight: bold; text-align:right">339</td>
 <td style="display:none" data-continent="Africa">Africa</td>
-</tr>
+ </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/jamaica/">Jamaica</a></td>
 <td style="font-weight: bold; text-align:right">73</td>
@@ -3785,7 +3785,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">59</td>
 <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;">6 </td>
-<td style="font-weight: bold; 
+ <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">4</td>
 <td style="text-align:right;font-weight:bold;">49</td>
@@ -3949,7 +3949,7 @@ logarithmic </a>
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">30</td>
 <td style="text-align:right;font-weight:bold;">13</td>
- <td style="font-weight: bold; text-align:right">1</td>
+<td style="font-weight: bold; text-align:right">1</td>
 <td style="font-weight: bold; text-align:right">2</td>
 <td style="font-weight: bold; text-align:right">0.1</td>
 <td style="font-weight: bold; text-align:right">1,653</td>
@@ -4037,14 +4037,14 @@ logarithmic </a>
 <td style="display:none" data-continent="Africa">Africa</td>
 </tr>
 <tr style="">
- <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/saint-martin/">Saint Martin</a></td>
+<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/saint-martin/">Saint Martin</a></td>
 <td style="font-weight: bold; text-align:right">32</td>
 <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;">2 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">11</td>
-<td style="text-align:right;font-weight:bold;">19</td>
+ <td style="text-align:right;font-weight:bold;">19</td>
 <td style="font-weight: bold; text-align:right">5</td>
 <td style="font-weight: bold; text-align:right">828</td>
 <td style="font-weight: bold; text-align:right">52</td>
@@ -4079,7 +4079,7 @@ logarithmic </a>
 <td style="text-align:right;font-weight:bold;">21</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">0.7</td>
- <td style="font-weight: bold; text-align:right">0.09</td>
+<td style="font-weight: bold; text-align:right">0.09</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="display:none" data-continent="Africa">Africa</td>
@@ -4087,7 +4087,7 @@ logarithmic </a>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/libya/">Libya</a></td>
 <td style="font-weight: bold; text-align:right">26</td>
-<td style="font-weight: bold; text-align:right;"></td>
+ <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;">1 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
@@ -4166,7 +4166,7 @@ logarithmic </a>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/mozambique/">Mozambique</a></td>
- <td style="font-weight: bold; text-align:right">21</td>
+<td style="font-weight: bold; text-align:right">21</td>
 <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;"> </td>
 <td style="font-weight: bold; 
@@ -4209,7 +4209,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">0.6</td>
 <td style="font-weight: bold; text-align:right">0.06</td>
 <td style="font-weight: bold; text-align:right"></td>
- <td style="font-weight: bold; text-align:right"></td>
+<td style="font-weight: bold; text-align:right"></td>
 <td style="display:none" data-continent="Africa">Africa</td>
 </tr>
 <tr style="">
@@ -4217,7 +4217,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">19</td>
 <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;"> </td>
-<td style="font-weight: bold; 
+ <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">1</td>
 <td style="text-align:right;font-weight:bold;">18</td>
@@ -4252,7 +4252,7 @@ logarithmic </a>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">1</td>
- <td style="text-align:right;font-weight:bold;">17</td>
+<td style="text-align:right;font-weight:bold;">17</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">63</td>
 <td style="font-weight: bold; text-align:right"></td>
@@ -4261,7 +4261,7 @@ logarithmic </a>
 <td style="display:none" data-continent="Australia/Oceania">Australia/Oceania</td>
 </tr>
 <tr style="">
-<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/zimbabwe/">Zimbabwe</a></td>
+ <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/zimbabwe/">Zimbabwe</a></td>
 <td style="font-weight: bold; text-align:right">17</td>
 <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;">3 </td>
@@ -4303,7 +4303,7 @@ logarithmic </a>
 <td style="text-align:right;font-weight:bold;">15</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">0.5</td>
-<td style="font-weight: bold; text-align:right"></td>
+ <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">6,299</td>
 <td style="font-weight: bold; text-align:right">216</td>
 <td style="display:none" data-continent="Asia">Asia</td>
@@ -4390,7 +4390,7 @@ logarithmic </a>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/curacao/">Cura&ccedil;ao</a></td>
-<td style="font-weight: bold; text-align:right">14</td>
+ <td style="font-weight: bold; text-align:right">14</td>
 <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;">1 </td>
 <td style="font-weight: bold; 
@@ -4424,7 +4424,7 @@ logarithmic </a>
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/botswana/">Botswana</a></td>
 <td style="font-weight: bold; text-align:right">13</td>
 <td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">1  </td>
+<td style="font-weight: bold; text-align:right;">1 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right"></td>
@@ -4467,7 +4467,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">87</td>
 <td style="font-weight: bold; text-align:right">784</td>
 <td style="display:none" data-continent="North America">North America</td>
- </tr>
+</tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/central-african-republic/">CAR</a></td>
 <td style="font-weight: bold; text-align:right">11</td>
@@ -4475,7 +4475,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right;"> </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
-<td style="font-weight: bold; text-align:right">4</td>
+ <td style="font-weight: bold; text-align:right">4</td>
 <td style="text-align:right;font-weight:bold;">7</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">2</td>
@@ -4518,7 +4518,7 @@ logarithmic </a>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/seychelles/">Seychelles</a></td>
-<td style="font-weight: bold; text-align:right">11</td>
+ <td style="font-weight: bold; text-align:right">11</td>
 <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;"> </td>
 <td style="font-weight: bold; 
@@ -4552,7 +4552,7 @@ logarithmic </a>
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/cabo-verde/">Cabo Verde</a></td>
 <td style="font-weight: bold; text-align:right">10</td>
 <td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">1  </td>
+<td style="font-weight: bold; text-align:right;">1 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">1</td>
@@ -4604,7 +4604,7 @@ logarithmic </a>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right"></td>
-<td style="text-align:right;font-weight:bold;">7</td>
+ <td style="text-align:right;font-weight:bold;">7</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right"></td>
@@ -4639,7 +4639,7 @@ logarithmic </a>
 <td style="text-align:right;font-weight:bold;">4</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">1</td>
- <td style="font-weight: bold; text-align:right">0.2</td>
+<td style="font-weight: bold; text-align:right">0.2</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="display:none" data-continent="North America">North America</td>
@@ -4726,7 +4726,7 @@ logarithmic </a>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/burundi/">Burundi</a></td>
- <td style="font-weight: bold; text-align:right">5</td>
+<td style="font-weight: bold; text-align:right">5</td>
 <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;">1 </td>
 <td style="font-weight: bold; 
@@ -4779,7 +4779,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right;"> </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
- <td style="font-weight: bold; text-align:right"></td>
+<td style="font-weight: bold; text-align:right"></td>
 <td style="text-align:right;font-weight:bold;">4</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">18</td>
@@ -4820,9 +4820,9 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="display:none" data-continent="North America">North America</td>
 </tr>
-<tr style="">
+ <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/british-virgin-islands/">British Virgin Islands</a></td>
- <td style="font-weight: bold; text-align:right">3</td>
+<td style="font-weight: bold; text-align:right">3</td>
 <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;"> </td>
 <td style="font-weight: bold; 
@@ -4862,7 +4862,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="text-align:right;font-weight:bold;">2</td>
 <td style="font-weight: bold; text-align:right"></td>
-<td style="font-weight: bold; text-align:right">0.2</td>
+ <td style="font-weight: bold; text-align:right">0.2</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">72</td>
 <td style="font-weight: bold; text-align:right">8</td>
@@ -4904,7 +4904,7 @@ logarithmic </a>
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/china/">China</a></td>
 <td style="font-weight: bold; text-align:right">82,249</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+89</td>
-<td style="font-weight: bold; text-align:right;">3,341 </td>
+<td style="font-weight: bold; text-align:right;">3,341  </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">77,738</td>
@@ -4920,12 +4920,12 @@ logarithmic </a>
 <tbody>
 <tr class="row_continent total_row" data-continent="North America" style="display: none">
 <td><strong>Total:</strong></td>
-<td>628,243</td>
-<td style="background-color:#FFEEAA; color:#000;">+1,179</td>
-<td>25,162</td>
-<td style="background-color:red; color:#fff">+50</td>
+<td>628,326</td>
+<td style="background-color:#FFEEAA; color:#000;">+1,262</td>
+<td>25,163</td>
+<td style="background-color:red; color:#fff">+51</td>
 <td>47,787</td>
-<td>555,294</td>
+<td>555,376</td>
 <td>13,885</td>
 <td></td>
 <td></td>
@@ -4935,12 +4935,12 @@ logarithmic </a>
 </tr>
 <tr class="row_continent total_row" data-continent="Europe" style="display: none">
 <td><strong>Total:</strong></td>
-<td>917,757</td>
-<td style="background-color:#FFEEAA; color:#000;">+10,371</td>
-<td>80,990</td>
-<td style="background-color:red; color:#fff">+1,001</td>
+<td>923,009</td>
+<td style="background-color:#FFEEAA; color:#000;">+15,623</td>
+<td>81,768</td>
+<td style="background-color:red; color:#fff">+1,779</td>
 <td>240,117</td>
-<td>596,650</td>
+<td>601,124</td>
 <td>29,285</td>
 <td></td>
 <td></td>
@@ -5027,17 +5027,17 @@ logarithmic </a>
 <tbody class="total_row_body">
 <tr class="total_row">
 <td><strong>Total:</strong></td>
-<td>1,940,946</td>
-<td style="background-color:#FFEEAA; color:#000;">+17,098</td>
-<td>120,925</td>
-<td style="background-color:red; color:#fff">+1,307</td>
+<td>1,946,281</td>
+<td style="background-color:#FFEEAA; color:#000;">+22,433</td>
+<td>121,704</td>
+<td style="background-color:red; color:#fff">+2,086</td>
 <td>460,098</td>
-<td>1,359,923</td>
+<td>1,364,479</td>
 <td>51,065</td>
-<td>249.0</td>
-<td>15.5</td>
+<td>249.7</td>
+<td>15.6</td>
 <td></td>
-<td></td>
+ <td></td>
 <td style="display:none" data-continent="all">All</td>
 </tr>
 </tbody>
@@ -5110,12 +5110,12 @@ logarithmic </a>
 <td>79,989</td>
 <td>+3,221</td>
 <td>231,946</td>
-<td>595,451</td>
+ <td>595,451</td>
 <td>29,807</td>
 <td></td>
 <td></td>
 <td></td>
- <td></td>
+<td></td>
 <td style="display:none;" data-continent="Europe">Europe</td>
 </tr>
 <tr class="total_row_world row_continent" data-continent="South America" style="display: none">
@@ -5186,6 +5186,7 @@ logarithmic </a>
 <td></td>
 <td style="display:none;" data-continent=""></td>
 </tr>
+
 <tr class="total_row_world">
 <td style="text-align:left;">World</td>
 <td>1,923,848</td>
@@ -5274,7 +5275,7 @@ logarithmic </a>
                                     text-align:right;background-color:red; color:white">+574</td>
 <td style="font-weight: bold; text-align:right">27,718</td>
 <td style="text-align:right;font-weight:bold;">94,094</td>
-<td style="font-weight: bold; text-align:right">6,821</td>
+ <td style="font-weight: bold; text-align:right">6,821</td>
 <td style="font-weight: bold; text-align:right">2,095</td>
 <td style="font-weight: bold; text-align:right">229</td>
 <td style="font-weight: bold; text-align:right">333,807</td>
@@ -5358,7 +5359,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">2,639</td>
 <td style="font-weight: bold; text-align:right">337</td>
 <td style="font-weight: bold; text-align:right">102,151</td>
- <td style="font-weight: bold; text-align:right">8,814</td>
+<td style="font-weight: bold; text-align:right">8,814</td>
 <td style="display:none" data-continent="Europe">Europe</td>
 </tr>
 <tr style="">
@@ -5397,7 +5398,7 @@ logarithmic </a>
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/canada/">Canada</a></td>
 <td style="font-weight: bold; text-align:right">25,680</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+1,297</td>
-<td style="font-weight: bold; text-align:right;">780 </td>
+ <td style="font-weight: bold; text-align:right;">780 </td>
 <td style="font-weight: bold; 
                                     text-align:right;background-color:red; color:white">+63</td>
 <td style="font-weight: bold; text-align:right">7,756</td>
@@ -5478,7 +5479,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">11,586</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+441</td>
 <td style="font-weight: bold; text-align:right;">116 </td>
-<td style="font-weight: bold; 
+ <td style="font-weight: bold; 
                                     text-align:right;background-color:red; color:white">+13</td>
 <td style="font-weight: bold; text-align:right">1,855</td>
 <td style="text-align:right;font-weight:bold;">9,615</td>
@@ -5604,7 +5605,7 @@ logarithmic </a>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/chile/">Chile</a></td>
 <td style="font-weight: bold; text-align:right">7,525</td>
- <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+312</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+312</td>
 <td style="font-weight: bold; text-align:right;">82 </td>
 <td style="font-weight: bold; 
                                     text-align:right;background-color:red; color:white">+2</td>
@@ -5642,7 +5643,7 @@ logarithmic </a>
                                     text-align:right;background-color:red; color:white">+15</td>
 <td style="font-weight: bold; text-align:right">914</td>
 <td style="text-align:right;font-weight:bold;">5,388</td>
-<td style="font-weight: bold; text-align:right">231</td>
+ <td style="font-weight: bold; text-align:right">231</td>
 <td style="font-weight: bold; text-align:right">345</td>
 <td style="font-weight: bold; text-align:right">17</td>
 <td style="font-weight: bold; text-align:right">67,204</td>
@@ -5684,8 +5685,8 @@ logarithmic </a>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/denmark/">Denmark</a></td>
 <td style="font-weight: bold; text-align:right">6,318</td>
-<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+144</td>
-<td style="font-weight: bold; text-align:right;">285  </td>
+ <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+144</td>
+<td style="font-weight: bold; text-align:right;">285 </td>
 <td style="font-weight: bold; 
                                     text-align:right;background-color:red; color:white">+12</td>
 <td style="font-weight: bold; text-align:right">2,235</td>
@@ -5724,7 +5725,7 @@ logarithmic </a>
 <td style="text-align:right;font-weight:bold;">4,308</td>
 <td style="font-weight: bold; text-align:right">44</td>
 <td style="font-weight: bold; text-align:right">25</td>
-<td style="font-weight: bold; text-align:right">0.4</td>
+ <td style="font-weight: bold; text-align:right">0.4</td>
 <td style="font-weight: bold; text-align:right">65,114</td>
 <td style="font-weight: bold; text-align:right">295</td>
 <td style="display:none" data-continent="Asia">Asia</td>
@@ -5810,7 +5811,7 @@ logarithmic </a>
 <td style="display:none" data-continent="Asia">Asia</td>
 </tr>
 <tr style="">
- <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/united-arab-emirates/">UAE</a></td>
+<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/united-arab-emirates/">UAE</a></td>
 <td style="font-weight: bold; text-align:right">4,521</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+398</td>
 <td style="font-weight: bold; text-align:right;">25 </td>
@@ -5890,7 +5891,7 @@ logarithmic </a>
 <td style="display:none" data-continent="Asia">Asia</td>
 </tr>
 <tr style="">
-<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/dominican-republic/">Dominican Republic</a></td>
+ <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/dominican-republic/">Dominican Republic</a></td>
 <td style="font-weight: bold; text-align:right">3,167</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+200</td>
 <td style="font-weight: bold; text-align:right;">177 </td>
@@ -5932,7 +5933,7 @@ logarithmic </a>
 <td style="text-align:right;font-weight:bold;">2,705</td>
 <td style="font-weight: bold; text-align:right">74</td>
 <td style="font-weight: bold; text-align:right">553</td>
- <td style="font-weight: bold; text-align:right">11</td>
+<td style="font-weight: bold; text-align:right">11</td>
 <td style="font-weight: bold; text-align:right">46,000</td>
 <td style="font-weight: bold; text-align:right">8,302</td>
 <td style="display:none" data-continent="Europe">Europe</td>
@@ -6012,7 +6013,7 @@ logarithmic </a>
 <td style="text-align:right;font-weight:bold;">1,664</td>
 <td style="font-weight: bold; text-align:right">83</td>
 <td style="font-weight: bold; text-align:right">50</td>
-<td style="font-weight: bold; text-align:right">2</td>
+ <td style="font-weight: bold; text-align:right">2</td>
 <td style="font-weight: bold; text-align:right">19,758</td>
 <td style="font-weight: bold; text-align:right">437</td>
 <td style="display:none" data-continent="South America">South America</td>
@@ -6136,7 +6137,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right;">25 </td>
 <td style="font-weight: bold; 
                                     text-align:right;background-color:red; color:white">+2</td>
-<td style="font-weight: bold; text-align:right">400</td>
+ <td style="font-weight: bold; text-align:right">400</td>
 <td style="text-align:right;font-weight:bold;">1,225</td>
 <td style="font-weight: bold; text-align:right">34</td>
 <td style="font-weight: bold; text-align:right">402</td>
@@ -6180,7 +6181,7 @@ logarithmic </a>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/bahrain/">Bahrain</a></td>
 <td style="font-weight: bold; text-align:right">1,361</td>
- <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+225</td>
+<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+225</td>
 <td style="font-weight: bold; text-align:right;">6 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
@@ -6342,7 +6343,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">1,010</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+5</td>
 <td style="font-weight: bold; text-align:right;">4 </td>
-<td style="font-weight: bold; 
+ <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">397</td>
 <td style="text-align:right;font-weight:bold;">609</td>
@@ -6353,7 +6354,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">12,900</td>
 <td style="display:none" data-continent="Asia">Asia</td>
 </tr>
- <tr style="">
+<tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/uzbekistan/">Uzbekistan</a></td>
 <td style="font-weight: bold; text-align:right">998</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+133</td>
@@ -6385,7 +6386,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">4,105</td>
 <td style="display:none" data-continent="Europe">Europe</td>
 </tr>
-<tr style="">
+ <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/cameroon/">Cameroon</a></td>
 <td style="font-weight: bold; text-align:right">848</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+28</td>
@@ -6478,7 +6479,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">64</td>
 <td style="font-weight: bold; text-align:right">2</td>
 <td style="font-weight: bold; text-align:right">17,133</td>
- <td style="font-weight: bold; text-align:right">1,513</td>
+<td style="font-weight: bold; text-align:right">1,513</td>
 <td style="display:none" data-continent="North America">North America</td>
 </tr>
 <tr style="">
@@ -6595,7 +6596,7 @@ logarithmic </a>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/cote-d-ivoire/">Ivory Coast</a></td>
-<td style="font-weight: bold; text-align:right">626</td>
+ <td style="font-weight: bold; text-align:right">626</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+52</td>
 <td style="font-weight: bold; text-align:right;">6 </td>
 <td style="font-weight: bold; 
@@ -6646,7 +6647,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">548</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+19</td>
 <td style="font-weight: bold; text-align:right;">13 </td>
- <td style="font-weight: bold; 
+<td style="font-weight: bold; 
                                     text-align:right;background-color:red; color:white">+1</td>
 <td style="font-weight: bold; text-align:right">86</td>
 <td style="text-align:right;font-weight:bold;">449</td>
@@ -6688,7 +6689,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">9,236</td>
 <td style="font-weight: bold; text-align:right">2,659</td>
 <td style="display:none" data-continent="South America">South America</td>
- </tr>
+</tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/albania/">Albania</a></td>
 <td style="font-weight: bold; text-align:right">467</td>
@@ -6721,7 +6722,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">19,095</td>
 <td style="display:none" data-continent="Europe">Europe</td>
 </tr>
-<tr style="">
+ <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/kyrgyzstan/">Kyrgyzstan</a></td>
 <td style="font-weight: bold; text-align:right">419</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+42</td>
@@ -6815,7 +6816,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">7</td>
 <td style="font-weight: bold; text-align:right">18,065</td>
 <td style="font-weight: bold; text-align:right">40,913</td>
- <td style="display:none" data-continent="Europe">Europe</td>
+<td style="display:none" data-continent="Europe">Europe</td>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/san-marino/">San Marino</a></td>
@@ -6889,7 +6890,7 @@ logarithmic </a>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">17</td>
-<td style="text-align:right;font-weight:bold;">302</td>
+ <td style="text-align:right;font-weight:bold;">302</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">24</td>
 <td style="font-weight: bold; text-align:right"></td>
@@ -6932,7 +6933,7 @@ logarithmic </a>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/senegal/">Senegal</a></td>
 <td style="font-weight: bold; text-align:right">291</td>
-<td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+11</td>
+ <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+11</td>
 <td style="font-weight: bold; text-align:right;">2 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
@@ -6974,7 +6975,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">68</td>
 <td style="font-weight: bold; text-align:right">0.8</td>
 <td style="font-weight: bold; text-align:right">3,271</td>
-<td style="font-weight: bold; text-align:right">820</td>
+ <td style="font-weight: bold; text-align:right">820</td>
 <td style="display:none" data-continent="Asia">Asia</td>
 </tr>
 <tr style="">
@@ -6984,7 +6985,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right;"> </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
- <td style="font-weight: bold; text-align:right">146</td>
+<td style="font-weight: bold; text-align:right">146</td>
 <td style="text-align:right;font-weight:bold;">119</td>
 <td style="font-weight: bold; text-align:right">8</td>
 <td style="font-weight: bold; text-align:right">3</td>
@@ -7059,7 +7060,7 @@ logarithmic </a>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/mayotte/">Mayotte</a></td>
-<td style="font-weight: bold; text-align:right">207</td>
+ <td style="font-weight: bold; text-align:right">207</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+11</td>
 <td style="font-weight: bold; text-align:right;">3 </td>
 <td style="font-weight: bold; 
@@ -7110,7 +7111,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">157</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+2</td>
 <td style="font-weight: bold; text-align:right;">6 </td>
- <td style="font-weight: bold; 
+<td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">50</td>
 <td style="text-align:right;font-weight:bold;">101</td>
@@ -7153,7 +7154,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">476</td>
 <td style="display:none" data-continent="South America">South America</td>
 </tr>
- <tr style="">
+<tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/guadeloupe/">Guadeloupe</a></td>
 <td style="font-weight: bold; text-align:right">145</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+2</td>
@@ -7194,7 +7195,7 @@ logarithmic </a>
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">107</td>
 <td style="text-align:right;font-weight:bold;">28</td>
- <td style="font-weight: bold; text-align:right">2</td>
+<td style="font-weight: bold; text-align:right">2</td>
 <td style="font-weight: bold; text-align:right">311</td>
 <td style="font-weight: bold; text-align:right">2</td>
 <td style="font-weight: bold; text-align:right">10,167</td>
@@ -7270,7 +7271,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">113</td>
 <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;">8 </td>
-<td style="font-weight: bold; 
+ <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">16</td>
 <td style="text-align:right;font-weight:bold;">89</td>
@@ -7323,7 +7324,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">32</td>
 <td style="text-align:right;font-weight:bold;">60</td>
 <td style="font-weight: bold; text-align:right">1</td>
- <td style="font-weight: bold; text-align:right">862</td>
+<td style="font-weight: bold; text-align:right">862</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">1,145</td>
 <td style="font-weight: bold; text-align:right">10,724</td>
@@ -7356,7 +7357,7 @@ logarithmic </a>
 <td style="text-align:right;font-weight:bold;">23</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">2,072</td>
-<td style="font-weight: bold; text-align:right">26</td>
+ <td style="font-weight: bold; text-align:right">26</td>
 <td style="font-weight: bold; text-align:right">900</td>
 <td style="font-weight: bold; text-align:right">23,605</td>
 <td style="display:none" data-continent="Europe">Europe</td>
@@ -7365,7 +7366,7 @@ logarithmic </a>
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/togo/">Togo</a></td>
 <td style="font-weight: bold; text-align:right">77</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+1</td>
-<td style="font-weight: bold; text-align:right;">3  </td>
+<td style="font-weight: bold; text-align:right;">3 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">29</td>
@@ -7398,7 +7399,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">73</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+1</td>
 <td style="font-weight: bold; text-align:right;">4 </td>
-<td style="font-weight: bold; 
+ <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">19</td>
 <td style="text-align:right;font-weight:bold;">50</td>
@@ -7409,7 +7410,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">405</td>
 <td style="display:none" data-continent="North America">North America</td>
 </tr>
- <tr style="">
+<tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/barbados/">Barbados</a></td>
 <td style="font-weight: bold; text-align:right">72</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+1</td>
@@ -7478,7 +7479,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">59</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+9</td>
 <td style="font-weight: bold; text-align:right;">6 </td>
-<td style="font-weight: bold; 
+ <td style="font-weight: bold; 
                                     text-align:right;background-color:red; color:white">+1</td>
 <td style="font-weight: bold; text-align:right">4</td>
 <td style="text-align:right;font-weight:bold;">49</td>
@@ -7648,7 +7649,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">1,653</td>
 <td style="font-weight: bold; text-align:right">90</td>
 <td style="display:none" data-continent="Africa">Africa</td>
-</tr>
+ </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/china-macao-sar/">Macao</a></td>
 <td style="font-weight: bold; text-align:right">45</td>
@@ -7663,7 +7664,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right"></td>
- <td style="display:none" data-continent="Asia">Asia</td>
+<td style="display:none" data-continent="Asia">Asia</td>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/haiti/">Haiti</a></td>
@@ -7734,7 +7735,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">32</td>
 <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;">2 </td>
-<td style="font-weight: bold; 
+ <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">11</td>
 <td style="text-align:right;font-weight:bold;">19</td>
@@ -7749,7 +7750,7 @@ logarithmic </a>
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/sudan/">Sudan</a></td>
 <td style="font-weight: bold; text-align:right">29</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+10</td>
- <td style="font-weight: bold; text-align:right;">4 </td>
+<td style="font-weight: bold; text-align:right;">4 </td>
 <td style="font-weight: bold; 
                                     text-align:right;background-color:red; color:white">+2</td>
 <td style="font-weight: bold; text-align:right">4</td>
@@ -7792,7 +7793,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="display:none" data-continent="Asia">Asia</td>
- </tr>
+</tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/antigua-and-barbuda/">Antigua and Barbuda</a></td>
 <td style="font-weight: bold; text-align:right">23</td>
@@ -7819,7 +7820,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">2</td>
 <td style="text-align:right;font-weight:bold;">21</td>
 <td style="font-weight: bold; text-align:right"></td>
-<td style="font-weight: bold; text-align:right">1</td>
+ <td style="font-weight: bold; text-align:right">1</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right"></td>
@@ -7834,7 +7835,7 @@ logarithmic </a>
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">4</td>
 <td style="text-align:right;font-weight:bold;">17</td>
- <td style="font-weight: bold; text-align:right"></td>
+<td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">15</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">854</td>
@@ -7862,7 +7863,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">20</td>
 <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;"> </td>
-<td style="font-weight: bold; 
+ <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">14</td>
 <td style="text-align:right;font-weight:bold;">6</td>
@@ -7877,7 +7878,7 @@ logarithmic </a>
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/angola/">Angola</a></td>
 <td style="font-weight: bold; text-align:right">19</td>
 <td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">2  </td>
+<td style="font-weight: bold; text-align:right;">2 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">4</td>
@@ -7963,7 +7964,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">4</td>
 <td style="text-align:right;font-weight:bold;">13</td>
 <td style="font-weight: bold; text-align:right"></td>
- <td style="font-weight: bold; text-align:right">5</td>
+<td style="font-weight: bold; text-align:right">5</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right"></td>
@@ -8006,7 +8007,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">16</td>
 <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;"> </td>
- <td style="font-weight: bold; 
+<td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="text-align:right;font-weight:bold;">16</td>
@@ -8035,7 +8036,7 @@ logarithmic </a>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/saint-lucia/">Saint Lucia</a></td>
-<td style="font-weight: bold; text-align:right">15</td>
+ <td style="font-weight: bold; text-align:right">15</td>
 <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;"> </td>
 <td style="font-weight: bold; 
@@ -8092,7 +8093,7 @@ logarithmic </a>
 <td style="text-align:right;font-weight:bold;">13</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">0.5</td>
- <td style="font-weight: bold; text-align:right"></td>
+<td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">5,184</td>
 <td style="font-weight: bold; text-align:right">178</td>
 <td style="display:none" data-continent="Asia">Asia</td>
@@ -8121,7 +8122,7 @@ logarithmic </a>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right"></td>
-<td style="text-align:right;font-weight:bold;">12</td>
+ <td style="text-align:right;font-weight:bold;">12</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">6</td>
 <td style="font-weight: bold; text-align:right">0.4</td>
@@ -8163,7 +8164,7 @@ logarithmic </a>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/central-african-republic/">CAR</a></td>
-<td style="font-weight: bold; text-align:right">11</td>
+ <td style="font-weight: bold; text-align:right">11</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+3</td>
 <td style="font-weight: bold; text-align:right;"> </td>
 <td style="font-weight: bold; 
@@ -8205,7 +8206,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">1</td>
 <td style="font-weight: bold; text-align:right">2,204</td>
 <td style="font-weight: bold; text-align:right"></td>
-<td style="font-weight: bold; text-align:right">36</td>
+ <td style="font-weight: bold; text-align:right">36</td>
 <td style="font-weight: bold; text-align:right">7,212</td>
 <td style="display:none" data-continent="North America">North America</td>
 </tr>
@@ -8271,7 +8272,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">26</td>
 <td style="font-weight: bold; text-align:right">69</td>
 <td style="font-weight: bold; text-align:right">1,782</td>
- <td style="display:none" data-continent="North America">North America</td>
+<td style="display:none" data-continent="North America">North America</td>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/sierra-leone/">Sierra Leone</a></td>
@@ -8291,7 +8292,7 @@ logarithmic </a>
 </tr>
 <tr style="">
 <td style="font-weight: bold; font-size:15px; text-align:left;"><span style="color:#00B5F0; font-style:italic; ">MS Zaandam</span></td>
-<td style="font-weight: bold; text-align:right">9</td>
+ <td style="font-weight: bold; text-align:right">9</td>
 <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;">2 </td>
 <td style="font-weight: bold; 
@@ -8357,7 +8358,7 @@ logarithmic </a>
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/mauritania/">Mauritania</a></td>
 <td style="font-weight: bold; text-align:right">7</td>
 <td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;">1  </td>
+<td style="font-weight: bold; text-align:right;">1 </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">2</td>
@@ -8377,7 +8378,7 @@ logarithmic </a>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">4</td>
-<td style="text-align:right;font-weight:bold;">2</td>
+ <td style="text-align:right;font-weight:bold;">2</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">607</td>
 <td style="font-weight: bold; text-align:right"></td>
@@ -8402,7 +8403,7 @@ logarithmic </a>
 <td style="display:none" data-continent="Africa">Africa</td>
 </tr>
 <tr style="">
- <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/burundi/">Burundi</a></td>
+<td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/burundi/">Burundi</a></td>
 <td style="font-weight: bold; text-align:right">5</td>
 <td style="font-weight: bold; text-align:right;"></td>
 <td style="font-weight: bold; text-align:right;">1 </td>
@@ -8486,7 +8487,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right">4</td>
 <td style="font-weight: bold; text-align:right;background-color:#FFEEAA;">+2</td>
 <td style="font-weight: bold; text-align:right;"> </td>
- <td style="font-weight: bold; 
+<td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">1</td>
 <td style="text-align:right;font-weight:bold;">3</td>
@@ -8506,7 +8507,7 @@ logarithmic </a>
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right">1</td>
 <td style="text-align:right;font-weight:bold;">2</td>
-<td style="font-weight: bold; text-align:right"></td>
+ <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right">200</td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right"></td>
@@ -8549,7 +8550,7 @@ logarithmic </a>
 <td style="font-weight: bold; font-size:15px; text-align:left;"><a class="mt_a" href="country/papua-new-guinea/">Papua New Guinea</a></td>
 <td style="font-weight: bold; text-align:right">2</td>
 <td style="font-weight: bold; text-align:right;"></td>
-<td style="font-weight: bold; text-align:right;"> </td>
+ <td style="font-weight: bold; text-align:right;"> </td>
 <td style="font-weight: bold; 
                                     text-align:right;"></td>
 <td style="font-weight: bold; text-align:right"></td>
@@ -8592,7 +8593,7 @@ logarithmic </a>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="font-weight: bold; text-align:right"></td>
 <td style="display:none" data-continent="Asia">Asia</td>
-</tr>
+ </tr>
 </tbody>
 <tbody>
 <tr class="row_continent total_row" data-continent="Asia" style="display: none">
@@ -8628,7 +8629,7 @@ logarithmic </a>
 <tr class="row_continent total_row" data-continent="Europe" style="display: none">
 <td><strong>Total:</strong></td>
 <td>907,386</td>
- <td style="background-color:#FFEEAA; color:#000;">+26,276</td>
+<td style="background-color:#FFEEAA; color:#000;">+26,276</td>
 <td>79,989</td>
 <td style="background-color:red; color:#fff">+3,221</td>
 <td>231,946</td>
@@ -8696,11 +8697,11 @@ logarithmic </a>
 <td>7</td>
 <td></td>
 <td></td>
- <td></td>
+<td></td>
 <td></td>
 <td style="display:none;" data-continent=""></td>
 </tr>
- </tbody>
+</tbody>
 <tbody class="total_row_body">
 <tr class="total_row">
 <td><strong>Total:</strong></td>
@@ -8733,7 +8734,7 @@ logarithmic </a>
 = all cases have had an outcome (there are no active cases)
 </div>
 </div>
-<div style="clear:both; font-size:13px; margin-top:25px; padding-bottom:45px; line-height: 13px!impotant;">
+ <div style="clear:both; font-size:13px; margin-top:25px; padding-bottom:45px; line-height: 13px!impotant;">
 The &quot;New&quot; columns for China display the previous day changes (as China reports after the day is over). For all other countries, the &quot;New&quot; columns display the changes for the current day while still in progress.
 
 
@@ -8866,7 +8867,11 @@ The &quot;New&quot; columns for China display the previous day changes (as China
 <h2 align="left" id="news" style="margin-bottom: 50px;">Latest Updates</h2>
 <div class="news_date"><h4>April 14 (GMT)</h4></div><div id="newsdate2020-04-14"><div class="news_post">
 <div class="news_body">
-<ul class="news_ul"><li class="news_li"><strong>791 new cases</strong> and <strong>13 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/us/">the United States</a></strong></li></ul>
+<ul class="news_ul"><li class="news_li"><strong>5252 new cases</strong> and <strong>778 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/uk/">the United Kingdom</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://mobile.twitter.com/DHSCgovuk/status/1250053583803990016">source</a>]</span></li></ul>
+</div>
+</div><div class="news_post">
+<div class="news_body">
+<ul class="news_ul"><li class="news_li"><strong>874 new cases</strong> and <strong>14 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/us/">the United States</a></strong></li></ul>
 </div>
 </div><div class="news_post">
 <div class="news_body">
@@ -8905,7 +8910,7 @@ The &quot;New&quot; columns for China display the previous day changes (as China
 <ul class="news_ul"><li class="news_li"><strong>311 new cases</strong> and <strong>21 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/germany/">Germany</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://interaktiv.tagesspiegel.de/lab/karte-sars-cov-2-in-deutschland-landkreise/">source</a>]</span></li></ul>
 </div>
 </div><div class="news_post">
-<div class="news_body">
+<div class="news_body"> 
 <ul class="news_ul"><li class="news_li"><strong>118 new cases</strong> and <strong>16 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/austria/">Austria</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://info.gesundheitsministerium.at/">source</a>]</span></li></ul>
 </div>
 </div><div class="news_post">
@@ -8927,7 +8932,7 @@ The &quot;New&quot; columns for China display the previous day changes (as China
 </div><div class="news_post">
 <div class="news_body">
 <ul class="news_ul"><li class="news_li"><strong>341 new cases</strong> and <strong>3 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/pakistan/">Pakistan</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="http://covid.gov.pk/">source</a>]</span>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://twitter.com/UsmanAKBuzdar/status/1249793208936169473">source</a>]</span>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.dawn.com/">source</a>]</span></li></ul>
-</div> 
+</div>
 </div><div class="news_post">
 <div class="news_body">
 <ul class="news_ul"><li class="news_li"><strong>178 new cases</strong> and <strong>14 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/denmark/">Denmark</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.sst.dk/da/corona/tal-og-overvaagning">source</a>]</span></li></ul>
@@ -9691,7 +9696,7 @@ The &quot;New&quot; columns for China display the previous day changes (as China
 <div class="news_body">
 <ul class="news_ul"><li class="news_li"><strong>1 new case</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/democratic-republic-of-the-congo/">the DR Congo</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://covid-19info.cd/dashboard">source</a>]</span></li></ul>
 </div>
-</div><div class="news_post">
+</div><div class="news_post"> 
 <div class="news_body">
 <ul class="news_ul"><li class="news_li"><strong>2 new cases</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/timor-leste/">Timor-Leste</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="http://noticias.sapo.tl/portugues/lusa/artigo/28630358.html">source</a>]</span></li></ul>
 </div>
@@ -9806,7 +9811,7 @@ The &quot;New&quot; columns for China display the previous day changes (as China
 </div><div class="news_post">
 <div class="news_body">
 <ul class="news_ul"><li class="news_li"><strong>19 new cases</strong> and <strong>1 new death</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/new-zealand/">New Zealand</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-current-situation/covid-19-current-cases">source</a>]</span></li></ul>
- </div>
+</div>
 </div><div class="news_post">
 <div class="news_body">
 <ul class="news_ul"><li class="news_li"><strong>25 new cases</strong> and <strong>3 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/south-korea/">South Korea</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=354041&contSeq=354041&board_id=&gubun=ALL">source</a>]</span>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="http://ncov.mohw.go.kr/">source</a>]</span></li></ul>
@@ -10055,7 +10060,7 @@ The &quot;New&quot; columns for China display the previous day changes (as China
 <ul class="news_ul"><li class="news_li"><strong>233 new cases</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/singapore/">Singapore</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.moh.gov.sg/news-highlights/details/32-more-cases-discharged-233-new-cases-of-covid-19-infection-confirmed">source</a>]</span></li></ul>
 </div>
 </div><div class="news_post">
-<div class="news_body">
+ <div class="news_body">
 <ul class="news_ul"><li class="news_li"><strong>89 new cases</strong> and <strong>18 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/algeria/">Algeria</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://facebook.com/102375559823414/posts/3463349563725980/">source</a>]</span></li></ul>
 </div>
 </div><div class="news_post">
@@ -11078,7 +11083,7 @@ The &quot;New&quot; columns for China display the previous day changes (as China
 </div><div class="news_post">
 <div class="news_body">
 <ul class="news_ul"><li class="news_li"><strong>81 new cases</strong> and <strong>3 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/argentina/">Argentina</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.clarin.com/sociedad/coronavirus-argentina-confirmaron-81-casos-3-nuevas-muertes-ultimas-24-horas_0_tAr9vJ9CH.html">source</a>]</span></li></ul>
-</div> 
+</div>
 </div><div class="news_post">
 <div class="news_body">
 <ul class="news_ul"><li class="news_li"><strong>1 new case</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/bahamas/">Bahamas</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.facebook.com/pg/MOHBahamas/posts/?ref=page_internal">source</a>]</span></li></ul>
@@ -11657,7 +11662,7 @@ Worldometer will reallocate the additional increase over the preceding days from
 <div class="news_body">
 <ul class="news_ul"><li class="news_li"><strong>46 new cases</strong> and <strong>3 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/china/">China</a></strong></li></ul>
 </div>
-</div><div class="news_post"> 
+</div><div class="news_post">
 <div class="news_body news_box">
 <ul>
 <li><strong>42 new cases</strong> and <strong>1 new death</strong> in <strong>China</strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="http://www.nhc.gov.cn/xcs/yqtb/202004/6b7e8905b62f4cf89517cb0ebdf24d00.shtml">source</a>]</span></li>
@@ -11938,7 +11943,7 @@ Worldometer will reallocate the additional increase over the preceding days from
 </div><div class="news_post">
 <div class="news_body">
 <ul class="news_ul"><li class="news_li"><strong>4204 new cases</strong> and <strong>610 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/italy/">Italy</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://github.com/pcm-dpc/COVID-19/blob/master/schede-riepilogative/regioni/dpc-covid19-ita-scheda-regioni-20200409.pdf">source</a>]</span></li></ul>
-</div> 
+</div>
 </div><div class="news_post">
 <div class="news_body">
 <ul class="news_ul"><li class="news_li"><strong>515 new cases</strong> and <strong>30 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/ecuador/">Ecuador</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://www.salud.gob.ec/actualizacion-de-casos-de-coronavirus-en-ecuador/">source</a>]</span></li></ul>
@@ -12286,7 +12291,7 @@ Worldometer will reallocate the additional increase over the preceding days from
 <ul class="news_ul"><li class="news_li"><strong>2154 new cases</strong> and <strong>134 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/brazil/">Brazil</a></strong>&nbsp;<span class="source">[<a class="news_source_a" target="_blank" href="https://g1.globo.com/bemestar/coronavirus/noticia/2020/04/07/casos-de-coronavirus-no-brasil-em-7-de-abril.ghtmlp">source</a>]</span></li></ul>
 </div>
 </div><div class="news_post">
-<div class="news_body"> 
+<div class="news_body">
 <ul class="news_ul"><li class="news_li"><strong>31997 new cases</strong> and <strong>1943 new deaths</strong> in <strong><a style="text-decoration: underline;" href="/coronavirus/country/us/">the United States</a></strong>.<br />
 <br />
 <strong>New York</strong>:
@@ -13374,7 +13379,7 @@ As of Jan. 29, according to French authorities, the conditions of the two earlie
 <h4 class="modal-title">Report Changes in Numbers</h4>
 </div>
 
- <div class="modal-body">
+<div class="modal-body">
 <form role="form" id="contactForm" action="contact_submit.php">
 <input type="hidden" name="contact_form" value="1" />
 <div class="form-group">
