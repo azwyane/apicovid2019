@@ -51,7 +51,7 @@ class Country_data(Resource):
         except:
             return "Make sure to enter proper input and its method"
 
-class Country_data(Resource):
+class Continent_data(Resource):
     '''
     It is the class of third endpoint '/continent=<string:continent>'
     It has a get funtion that return a json
@@ -90,7 +90,7 @@ class Country_data(Resource):
 #endpoints of the api
 api.add_resource(Home, '/')
 api.add_resource(Country_data,'/country=<string:country>')
-api.add_resource(Country_data,'/continent=<string:continent>')
+api.add_resource(Continent_data,'/continent=<string:continent>')
 
 #if __name__ == '__main__':
 #    app.run(debug=True)
