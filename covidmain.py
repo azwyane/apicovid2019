@@ -1,13 +1,13 @@
 from flask import Flask
 from flask_restful import Resource, Api
 import api_co
-import json
+
 app = Flask(__name__)
 api = Api(app)
 
 class Home(Resource):
     def get(self):
-        return json.dumps(api_co.msg,indent=2)
+        return api_co.msg
 
 class Country_data(Resource):
     
@@ -15,7 +15,7 @@ class Country_data(Resource):
         self.country=country
         try:
             for i in api_co.msg[1]:
-                if i['Country/other']== country:
+                if i['Country/other']== self.country:
                     self.countr_y=i
                     break
             return self.countr_y
