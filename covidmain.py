@@ -1,12 +1,13 @@
 from flask import Flask
 from flask_restful import Resource, Api
 import api_co
+import json
 app = Flask(__name__)
 api = Api(app)
 
 class Home(Resource):
     def get(self):
-        return api_co.msg
+        return json.dumps(api_co.msg,indent=2)
 
 class Country_data(Resource):
     
