@@ -1,4 +1,4 @@
-# apicovid2019 build: passing :
+# apicovid2019 
 It is the api created for covid-19 using flask, flask-Restful and scraped the online data
 provided by [Worldometers](https://www.worldometers.info/coronavirus/).
 The data is updated very early and fast in this site and getting the exact info is at right time
