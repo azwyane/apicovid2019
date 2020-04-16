@@ -21,7 +21,9 @@ class Home(Resource):
     '''
     
     def get(self):
-        return api_co.msg
+       # return api_co.msg
+       self.datum=api_co.data()
+       return self.datum
 
 class Country_data(Resource):
     '''
@@ -42,8 +44,9 @@ class Country_data(Resource):
     
     def get(self,country):
         self.country=country
+        self.datum=api_co.data()
         try:
-            for i in api_co.msg[1]:
+            for i in self.datum[1]:
                 if i['Country/other']== self.country:
                     self.countr_y=i
                     break
@@ -78,8 +81,9 @@ class Continent_data(Resource):
     
     def get(self,continent):
         self.continent=continent
+        self.datum=api_co.data()
         try:
-            for i in api_co.msg[2]:
+            for i in self.datum[2]:
                 if i['Country/other']== self.continent:
                     self.cont_y=i
                     break
