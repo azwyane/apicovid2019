@@ -9,7 +9,7 @@ This project is hosted on two servers maintained separately but having same resp
 You can call the api on any of these two sites:
 
 - heroku under [apicovid2019](https://apicovid2019.herokuapp.com).
-- azure under [apicovid2019] (https://apicovid2019.azurewebsites.net).
+- azure under [apicovid2019](https://apicovid2019.azurewebsites.net).
 
 This is a support project to the scheduled covid alert script emailing 
 to the emails listed, running on its own at particular time of the day
