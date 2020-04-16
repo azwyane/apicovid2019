@@ -64,7 +64,7 @@ try:
         msg1=[]  #list of country wise data
         a=soup.find_all(attrs={"class":"mt_a"})
         for index,country in enumerate(a):
-            if index <=209:
+            if index <=int(len(a)/2-1):                  #changed hardcoded index limit to be dynamic1
                 val.append(country.string)
                 for i in range(0,11):
                     country=country.findNext("td")
