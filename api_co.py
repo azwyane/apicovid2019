@@ -1,16 +1,25 @@
 import os
 from bs4 import BeautifulSoup
-
+import requests
 
 try:
+    '''
+    previous version used to save a file
+    called file.txt so minimize the request to
+    the worldometers site and cache with the info
+    to work within 30 min of heroku sleeping 
+    due to inactivity
     os.system('rm file.txt')
     os.system('curl https://www.worldometers.info/coronavirus/ > file.txt')
-    
+    '''
+    res=requests.get("https://www.worldometers.info/coronavirus")
+    h_source=res.text
 
-except:
-    print("error")
+#except:
+#    print("error")
     
-with open ('./file.txt') as h_source:
+#with open ('./file.txt') as h_source:   #this was used before to cache with response
+                                         #as file.txt
     soup = BeautifulSoup(h_source, 'html.parser')
   
     title=["Country/other",
@@ -93,5 +102,8 @@ with open ('./file.txt') as h_source:
 #####
     #final message    
     msg=[msg0,msg1,msg2]
+    
+except Exception as e:
+    msg=e
     
 
