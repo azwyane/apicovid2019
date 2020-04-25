@@ -49,7 +49,7 @@ try:
             a=soup.select("#maincounter-wrap")#returns list of under that id
             names=[]
             for name in a:
-                names.append(name.find("h1").string)
+                names.append((name.find("h1").string)[:-1].replace(" ",""))
         
             names_value=[]
             for name_val in a:

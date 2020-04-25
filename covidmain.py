@@ -1,12 +1,11 @@
 from flask import Flask
 from flask_restful import Resource, Api
 import api_co
-from flask_caching import Cache
+#from flask_caching import Cache
 
-#cache 
-cache = Cache(config={'CACHE_TYPE': 'simple'}) #cache
+#cache = Cache(config={'CACHE_TYPE': 'simple'}) #cache
 app = Flask(__name__)
-cache.init_app(app)  #cache
+#cache.init_app(app)  #cache
 api = Api(app)
 
 class Home(Resource):
@@ -23,7 +22,7 @@ class Home(Resource):
     The third item in the list are dictionary's of
     covid-19 status by continent.
     '''
-    cache.cached(timeout=300)
+    #@cache.memoize(60)
     def get(self):
        # return api_co.msg
        self.datum=api_co.data()
@@ -45,7 +44,7 @@ class Country_data(Resource):
     It returns info of covid-19 status in the requested
     country of the world.
     ''' 
-    @cache.cached(timeout=300)
+    #@cache.memoize(60)
     def get(self,country):
         self.country=country
         self.datum=api_co.data()
@@ -82,7 +81,7 @@ class Continent_data(Resource):
     North America
     South America
     ''' 
-    @cache.cached(timeout=300)
+    #@cache.memoize(60)
     def get(self,continent):
         self.continent=continent
         self.datum=api_co.data()
