@@ -53,7 +53,7 @@ try:
         
             names_value=[]
             for name_val in a:
-                names_value.append(name_val.find("span").string)
+                names_value.append((name_val.find("span").string).strip())
         
             msg0=dict(list((n,v) for n,v in zip(names,names_value)))
 
@@ -71,7 +71,7 @@ try:
                     val.append(country.string)
                     for i in range(0,11):
                         country=country.findNext("td")
-                        val.append(country.string)
+                        val.append(str(country.string).strip())
                     pre_msg=dict([(x,y) for x,y in zip(title,val)])
                     msg1.append(pre_msg)
                     del val[:]
@@ -103,7 +103,7 @@ try:
                 b=soup.find("tbody").find("nobr",text=continent)
                 for i in range (0,11):
                     b=b.findNext("td")
-                    next_val.append(b.string)
+                    next_val.append(str(b.string).strip())
                     pre_msg=dict([(x,y) for x,y in zip(title,next_val)]) 
                 msg2.append(pre_msg)
                 del next_val[:]
