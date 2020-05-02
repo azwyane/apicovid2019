@@ -38,7 +38,7 @@ try:
             "TotalTests",
             "Tests/1Mpop"
             ]
-
+        
         #conti=[]
         #value=[]
         #table = soup.find('table', {'class': 'table'})
@@ -46,6 +46,7 @@ try:
         
         
         def globalwise():
+            '''
             a=soup.select("#maincounter-wrap")#returns list of under that id
             names=[]
             for name in a:
@@ -56,6 +57,27 @@ try:
                 names_value.append((name_val.find("span").string).strip())
         
             msg0=dict(list((n,v) for n,v in zip(names,names_value)))
+            '''
+            t=[
+            "CoronavirusCases",
+            "NewCases",
+            "TotalDeaths",
+            "NewDeaths",
+            "TotalRecovered",
+            "ActiveCases",
+            "Serious",
+            "Totalcases/1Mpop",
+            "Deaths/1Mpop",
+            ]
+          
+            names_value=[]
+            a=soup.find_all(attrs={"class":"total_row","class":"total_row_body"})
+          
+            fval=a[0].find("td").findNext("td")
+            for i in range(0,9):
+                names_value.append(str(fval.string.strip()))
+                fval=fval.findNext("td")
+            msg0=dict(list((n,v) for n,v in zip(t,names_value)))
 
             return msg0
             
