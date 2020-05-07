@@ -1,14 +1,12 @@
 from flask import Flask
 from flask_restful import Resource, Api
-import api_co
-#from flask_caching import Cache
+from api_co import dataProcessor
 
-#cache = Cache(config={'CACHE_TYPE': 'simple'}) #cache
+
 app = Flask(__name__)
-#cache.init_app(app)  #cache
 api = Api(app)
 
-class Home(Resource):
+class Global_data(Resource):
     '''
     It is the class of first endpoint '/'
     It has a get funtion that return a list of json
@@ -22,10 +20,10 @@ class Home(Resource):
     The third item in the list are dictionary's of
     covid-19 status by continent.
     '''
-    #@cache.memoize(60)
+   
     def get(self):
-       # return api_co.msg
-       self.datum=api_co.data()
+    
+       self.datum=dataProcessor().globalwise()
        return self.datum
 
 class Country_data(Resource):
@@ -44,12 +42,12 @@ class Country_data(Resource):
     It returns info of covid-19 status in the requested
     country of the world.
     ''' 
-    #@cache.memoize(60)
+
     def get(self,country):
         self.country=country
-        self.datum=api_co.data()
+        self.datum=dataProcessor().countrywise()
         try:
-            for i in self.datum[1]:
+            for i in self.datum:
                 if i['Country/other']== self.country:
                     self.countr_y=i
                     break
@@ -81,12 +79,12 @@ class Continent_data(Resource):
     North America
     South America
     ''' 
-    #@cache.memoize(60)
+   
     def get(self,continent):
         self.continent=continent
-        self.datum=api_co.data()
+        self.datum=dataProcessor().continentwise()
         try:
-            for i in self.datum[2]:
+            for i in self.datum:
                 if i['Country/other']== self.continent:
                     self.cont_y=i
                     break
@@ -95,7 +93,7 @@ class Continent_data(Resource):
             return "Make sure to enter proper input and its method"
 
 #endpoints of the api
-api.add_resource(Home, '/')
+api.add_resource(Global_data, '/')
 api.add_resource(Country_data,'/country=<string:country>')
 api.add_resource(Continent_data,'/continent=<string:continent>')
 
