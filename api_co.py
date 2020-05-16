@@ -58,7 +58,7 @@ class dataProcessor:
         self.t_value=[]
         self.global_list=self.soup.find_all(attrs={"class":"total_row","class":"total_row_body"})
         
-        self.temporary_t_val=self.global_list[0].find("td").findNext("td")
+        self.temporary_t_val=self.global_list[0].find("td").findNext("td").findNext("td")
         for i in range(0,9): #only 9 column values are updated in the total row at the bottom 
             self.t_value.append(str(self.temporary_t_val.string.strip()))
             self.temporary_t_val=self.temporary_t_val.findNext("td")
