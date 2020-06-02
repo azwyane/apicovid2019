@@ -22,7 +22,8 @@ class dataProcessor:
         h_source=res.text   
         # preparing a soup for analysing the data recieved
         self.soup = BeautifulSoup(h_source, 'html.parser')
-    
+        self.soup = self.soup.find_all(attrs={'id':"main_table_countries_today"})[0] #future extension
+
         self.title=["Country/other",
             "TotalCases",
             "NewCases",
@@ -59,9 +60,10 @@ class dataProcessor:
         self.global_list=self.soup.find_all(attrs={"class":"total_row","class":"total_row_body"})
         
         self.temporary_t_val=self.global_list[0].find("td").findNext("td").findNext("td")
-        for i in range(0,9): #only 9 column values are updated in the total row at the bottom 
+        for i in range(0,10): #only 9 column values are updated in the total row at the bottom, new error in worldometers
             self.t_value.append(str(self.temporary_t_val.string.strip()))
             self.temporary_t_val=self.temporary_t_val.findNext("td")
+        del self.t_value[5]   #due to scrape error
         self.msg0=dict(list((n,v) for n,v in zip(t,self.t_value)))
 
         return [self.msg0,self.countrywise(),self.continentwise()]
@@ -78,11 +80,13 @@ class dataProcessor:
         self.msg1=[]  #list of all countries data
         self.country_list=self.soup.find_all(attrs={"class":"mt_a"})
         for index,country in enumerate(self.country_list):
-            if index <=int(len(self.country_list)/2-1): #dynamically separates todays and yesterday's data
+            if index <=int(len(self.country_list)): #dynamically separates todays and yesterday's data here 3-1
                 self.countrySpecific_val.append(country.string)
                 for i in range(0,11):
                     country=country.findNext("td")
                     self.countrySpecific_val.append(str(country.string).strip())
+                    
+                del self.countrySpecific_val[6]    #worldometerserror 
                 pre_msg=dict([(x,y) for x,y in zip(self.title,self.countrySpecific_val)])
                 self.msg1.append(pre_msg)
                 del self.countrySpecific_val[:]
@@ -120,6 +124,8 @@ class dataProcessor:
             for i in range (0,11):
                 self.next_v=self.next_v.findNext("td")
                 self.continentspecific_val.append(str(self.next_v.string).strip())
+                
+            del self.continentspecific_val[6] #worldometers error    
             pre_msg=dict([(x,y) for x,y in zip(self.title,self.continentspecific_val)]) 
             self.msg2.append(pre_msg)
             del self.continentspecific_val[:]
